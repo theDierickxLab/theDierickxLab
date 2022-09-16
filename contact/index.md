@@ -43,15 +43,12 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Pieterjan Dierickx,
-Parkstraße 1,
-61231 Bad Nauheim,
+Pieterjan Dierickx,\n
+Parkstraße 1,\n
+61231 Bad Nauheim, \n
 Germany
 {:.center}
 
-That St & The Other St
-Porters Lake, NS B3E 1H3
-Canada {:.center}
 
 {% capture col1 %}
 {%
