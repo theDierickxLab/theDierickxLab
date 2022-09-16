@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Max Planck Institute for Heart and Lung Research](https://www.mpi-hlr.de/en), at Bad Nauheim, Germany.
-We are located on the 1st floor of the Max Planck Institute for Heart and Lung Research (The old building )[old](https://www.google.com/maps/place/Max-Planck-Institut+f%C3%BCr+Herz-+und+Lungenforschung/@50.3667506,8.7379144,17z/data=!4m12!1m6!3m5!1s0x47bcfe0c82f63581:0x5625505a3ab962a7!2sMax+Planck+Institute+for+Heart+and+Lung+Research!8m2!3d50.3697187!4d8.7411311!3m4!1s0x47bcfe097eaf58e3:0x7ca4162824994b98!8m2!3d50.3662436!4d8.7430832).
+We are located on the 1st floor of the Max Planck Institute for Heart and Lung Research (The old building )[The old building](https://www.google.com/maps/place/Max-Planck-Institut+f%C3%BCr+Herz-+und+Lungenforschung/@50.3667506,8.7379144,17z/data=!4m12!1m6!3m5!1s0x47bcfe0c82f63581:0x5625505a3ab962a7!2sMax+Planck+Institute+for+Heart+and+Lung+Research!8m2!3d50.3697187!4d8.7411311!3m4!1s0x47bcfe097eaf58e3:0x7ca4162824994b98!8m2!3d50.3662436!4d8.7430832).
 
 {%
   include link.html
@@ -46,9 +46,7 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 Pieterjan Dierickx
 Parkstraße 1, 
 61231 Bad Nauheim,
-Germany
-
-{:.center}
+Germany{:.center}
 
 {% capture col1 %}
 {%
