@@ -4,8 +4,8 @@
 title: Lab Website Template
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: images/Background.tiff
+footer: images/Background.tiff
 baseurl: /labpage
 
 # site social media and other links
