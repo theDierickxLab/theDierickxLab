@@ -49,6 +49,10 @@ Parkstraße 1,
 Germany
 {:.center}
 
+That St & The Other St
+Porters Lake, NS B3E 1H3
+Canada {:.center}
+
 {% capture col1 %}
 {%
   include figure.html
