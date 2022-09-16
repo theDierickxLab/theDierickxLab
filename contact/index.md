@@ -43,7 +43,7 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Pieterjan Dierickx
+Pieterjan Dierickx,
 Parkstraße 1, 61231 Bad Nauheim
 Germany 
 {:.center}
@@ -51,15 +51,36 @@ Germany
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/CPI.png"
+  caption="[The Cardio-Pulmonary Institute](https://www.cpi-online.de/)"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/HERZ.png"
+  caption="[Max Planck Institute for Heart and Lung Research](https://www.mpi-hlr.de/en)"
 %}
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/IMPRS.png"
+  caption="[IMPRS for Molecular Organ Biology](https://imprs-mob.mpg.de/)"
+%}
+{% endcapture %}
+{% capture col4 %}
+{%
+  include figure.html
+  image="images/MPI.jpeg"
+  caption="[Max Planck Institutes](https://www.mpg.de/institutes?tab=institutes)"
+%}
+{% endcapture %}
+{% capture col5 %}
+{%
+  include figure.html
+  image="images/DZHK.png"
+  caption="[German Centre for Cardiovascular Research](https://dzhk.de/en/)"
+%}
+{% endcapture %}
+{% include five-col.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 %}
