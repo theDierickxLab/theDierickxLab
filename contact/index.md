@@ -43,9 +43,9 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Pieterjan Dierickx,\n
-Parkstraße 1,\n
-61231 Bad Nauheim, \n
+Pieterjan Dierickx,
+Parkstraße 1,
+61231 Bad Nauheim, 
 Germany
 {:.center}
 
