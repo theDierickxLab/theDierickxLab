@@ -10,12 +10,11 @@ baseurl: /labpage
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: pieterjan.dierickx@mpi-bn.mpg.de
+  google-scholar: https://scholar.google.com/citations?hl=en&user=hvJMKJwAAAAJ&view_op=list_works&sortby=pubdate
+  github: 
+  twitter: https://mobile.twitter.com/pjdierickx
+
 
 ### advanced settings
 
