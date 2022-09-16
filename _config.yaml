@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: 
+title: The Dierickx lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: 
+logo: images/background.png
 header: images/background.png
 footer: images/background.png
 baseurl: /labpage
