@@ -36,7 +36,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 {% include section.html background="images/2017_Tiburcy.png" dark=true%}
 
-## We are looking for new group members with passion, talent, and gift!
+## We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.
 {:.center}
 
 {% include section.html %}
