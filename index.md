@@ -20,7 +20,7 @@ image1="images/Model_Dierickx_homepage.png"
 
 {% include section.html %}
 
-<span style="color: green;">We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.</span> 
+<span style="color: blue;">We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.</span> 
 
 {:.center}
 {% include section.html %}
