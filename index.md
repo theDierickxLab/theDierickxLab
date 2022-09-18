@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-{% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}
+{% include section.html background="images/Female_Rev_DKO.jpg" full='true'  %}
 
 # Welcome to Dierickx Lab
 
@@ -10,7 +10,7 @@ title: Home
 
 {:.center}
 
-{% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}
+{% include section.html background="images/Female_Rev_DKO.jpg" full='true' %}
 
 {% include gallery.html style="flexbox"
 
