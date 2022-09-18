@@ -25,12 +25,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
+
 {%
   include list.html
   data="members"
@@ -41,7 +36,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: phd"
 %}
 {:.center}
 
