@@ -14,9 +14,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
+
+technician:
   icon: fas fa-code
-  text: Programmer
+  text: technician
 
 mascot:
   icon: fas fa-dog
