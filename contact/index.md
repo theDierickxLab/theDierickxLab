@@ -47,29 +47,29 @@ Germany
   include figure1.html
   image="images/CPI.png"
   caption="[The Cardio-Pulmonary Institute](https://www.cpi-online.de/)"
-%}{% endcapture %}
+%}
 {% capture col2 %}
 {%
   include figure1.html
   image="images/HERZ.png"
   caption="[Max Planck Institute for Heart and Lung Research](https://www.mpi-hlr.de/en)"
-%}{% endcapture %}
+%}
 {% capture col3 %}
 {%
   include figure1.html
   image="images/IMPRS.png"
   caption="[IMPRS for Molecular Organ Biology](https://imprs-mob.mpg.de/)"
-%}{% endcapture %}
+%}
 {% capture col4 %}
 {%
   include figure1.html
   image="images/MPI.jpeg"
   caption="[Max Planck Institutes](https://www.mpg.de/institutes?tab=institutes)"
-%}{% endcapture %}
+%}
 {% capture col5 %}
 {%
   include figure1.html
   image="images/DZHK.png"
   caption="[German Centre for Cardiovascular Research](https://dzhk.de/en/)"
-%}{% endcapture %}
+%}
 {% include five-col.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 %}
