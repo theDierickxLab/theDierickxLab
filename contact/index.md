@@ -34,7 +34,7 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Pieterjan Dierickx,
+{%Pieterjan Dierickx,%}
 {:.center}
 Parkstraße 1,
 {:.center}
