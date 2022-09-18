@@ -32,12 +32,6 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
   component="portrait"
   filters="role: phd"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
 {:.center}
 
 {% include section.html background="images/2017_Tiburcy.png" dark=true%}
