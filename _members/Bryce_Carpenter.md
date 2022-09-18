@@ -1,8 +1,8 @@
 ---
 name: Bryce Carpenter
 image: images/Bryce.jpg
-description: 09.2022
-role: PhD student
+description: PhD student
+role: 09.2022 PhD
 
 links:
   email: Bryce.Carpenter@mpi-bn.mpg.de
