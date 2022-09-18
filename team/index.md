@@ -46,7 +46,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 {% include section.html background="images/2017_Tiburcy.png" dark=true%}
 
-We are looking for new group members with passion, talent, and grit!
+## We are looking for new group members with passion, talent, and grit!
 {:.center}
 
 {% include section.html %}
