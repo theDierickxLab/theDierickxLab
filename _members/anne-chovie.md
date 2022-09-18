@@ -1,17 +1,13 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
+name: 
+image: images/Bryce.jpg
+description: 09.2022
+role: PhD student
+
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  email: Bryce.Carpenter@mpi-bn.mpg.de
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+PhD Candidate, Dierickx Group, Max Planck Institute for Heart and Lung Research 2022-
+Research Specialist A, Lazar Laboratory, Institute for Diabetes, Obesity, and Metabolism 2016-2022
+B.A. Molecular and Cellular Biology, University of Pennsylvania 2019
