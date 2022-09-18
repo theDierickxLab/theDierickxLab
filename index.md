@@ -20,7 +20,8 @@ image1="images/Model_Dierickx_homepage.png"
 
 <style>
   div{
- background-image=url("images/Female_Rev_DKO.jpg")
+ background-image=url("images/Female_Rev_DKO.jpg");
+ opacity=0.5;
  }
 <\style>
 
