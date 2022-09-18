@@ -17,6 +17,6 @@ image1="images/Model_Dierickx_homepage.png"
 %}
 {:.center}
 
-{%
-
-%}
+#
+#
+#
