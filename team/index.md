@@ -10,9 +10,7 @@ nav:
 ## <span style="color: blue;">Pieterjan Dierickx</span> 
 
 <div>
-<span style="color: blue;">MPI-HLR and Cardiopulmonary Institute (CPI)
-</div>
-<div> 
+<span style="color: blue;">MPI-HLR and Cardiopulmonary Institute (CPI) 
 Independent Research Group Leader</span> 
 </div>
 
@@ -81,7 +79,7 @@ Our work is made possible by funding from several organizations.
   link2="https://www.mpi-hlr.de/en"
   tooltip2="Max Planck Institute for Heart and Lung Research"
 
-  image3="images/DZHK.png"
+  image3="images/dzhk.png"
   link3="https://dzhk.de/en/"
   tooltip3="German Centre for Cardiovascular Research"
 
