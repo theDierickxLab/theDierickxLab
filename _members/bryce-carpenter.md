@@ -1,6 +1,6 @@
 ---
 name: Bryce Carpenter
-image: images/Bryce.jpeg
+image: images/Bryce.png
 description: Sep. 2022
 role: phd
 aliases:
