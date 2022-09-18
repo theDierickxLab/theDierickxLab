@@ -18,4 +18,8 @@ image1="images/Model_Dierickx_homepage.png"
 %}
 {:.center}
 
+body{
+ background-image=url("images/Female_Rev_DKO.jpg")
+ }
+
 
