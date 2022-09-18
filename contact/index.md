@@ -19,15 +19,7 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
   link="pieterjan.dierickx@mpi-bn.mpg.de"
   style="button"
 %}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="55309"
-  tooltip=""
-  link="7-5309"
-  style="button"
-%}
+
 {%
   include link.html
   type="address"
