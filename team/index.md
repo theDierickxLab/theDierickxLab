@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-{% 
+
 ## MPI-HLR and Cardiopulmonary Institute (CPI)
 ## Independent Research Group Leader
-%}
 {:.center}
 
 {% include gallery.html style="square"
