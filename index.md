@@ -11,9 +11,10 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include gallery.html style=""
+{% include gallery.html style="flexbox"
 
-image1="images/" "
+image1="images/Model_Dierickx_homepage.png"
+%}
 
 {% include section.html %}
 
