@@ -1,6 +1,7 @@
 ---
 title: Home
 ---
+{% include section.html background="images/Female_Rev_DKO.tif" full=true dark=true %}
 
 # Welcome to Dierickx Lab
 
@@ -23,4 +24,6 @@ image1="images/Model_Dierickx_homepage.png"
 <span style="color: blue;">We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.</span> 
 
 {:.center}
+{% include section.html %}
+
 {% include section.html %}
