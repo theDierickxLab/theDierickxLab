@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-
-## MPI-HLR and Cardiopulmonary Institute (CPI)
-## Independent Research Group Leader
+## Pieterjan Dierickx
+# MPI-HLR and Cardiopulmonary Institute (CPI)
+# Independent Research Group Leader
 {:.center}
 
 {% include gallery.html style="square"
@@ -69,7 +69,7 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
+  style="flexbox"
 
   image1="images/CPI.png"
   link1="https://www.cpi-online.de/"
@@ -91,7 +91,4 @@ Our work is made possible by funding from several organizations.
   link5="https://www.mpg.de/institutes?tab=institutes"
   tooltip5="Max Planck Institutes"
   
-  image6="images/photo.jpg"
-  link6=""
-  tooltip6=""
   %}
