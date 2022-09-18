@@ -11,6 +11,4 @@ links:
   email: Bryce.Carpenter@mpi-bn.mpg.de
 ---
 
-Max Planck Institute for Heart and Lung Research 2022-
-Research Specialist A, Lazar Laboratory, Institute for Diabetes, Obesity, and Metabolism 2016-2022
-B.A. Molecular and Cellular Biology, University of Pennsylvania 2019
+Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
