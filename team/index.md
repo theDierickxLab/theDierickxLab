@@ -8,8 +8,8 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 ## Pieterjan Dierickx
-# MPI-HLR and Cardiopulmonary Institute (CPI)
-# Independent Research Group Leader
+MPI-HLR and Cardiopulmonary Institute (CPI)
+Independent Research Group Leader
 {:.center}
 
 {% include gallery.html style="square"
@@ -57,7 +57,8 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. 
 
 
-{% include link.html type="email" link="pieterjan.dierickx@mpi-bn.mpg.de" text="Apply Now" icon="" style="button" %} {:.center}
+{% include link.html type="email" link="pieterjan.dierickx@mpi-bn.mpg.de" text="Apply Now" icon="" style="button" %}
+{:.center}
 
 
 {% include section.html %}
