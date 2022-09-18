@@ -45,14 +45,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 #### Post Dogtoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
 
 {% include section.html %}
 
@@ -65,27 +59,22 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/CPI.png"
+  link1="https://www.cpi-online.de/"
+  tooltip1="The Cardio-Pulmonary Institute"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/HERZ.png"
+  link2="https://www.mpi-hlr.de/en"
+  tooltip2="Max Planck Institute for Heart and Lung Research"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/DZHK.png"
+  link3="https://dzhk.de/en/"
+  tooltip3="German Centre for Cardiovascular Research"
 
-  image4="images/photo.jpg"
+  image4="images/IMPRS.png"
   link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  tooltip4="https://imprs-mob.mpg.de/"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}
+  image5="images/MPI.jpeg"
+  link5="https://www.mpg.de/institutes?tab=institutes"
+  tooltip5="Max Planck Institutes"
