@@ -7,10 +7,13 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Dierickx lab is interested in how the circadian clock drives rhythmic processes in the heart. Circadian rhythms coordinate many aspects of behavior and physiology (e.g., fasting/feeding cycles, sleep to wake transitions and body temperature) to be in synchrony with the 24-hour rotation of the earth. In humans, disruption of these rhythms is highly associated with increased risk for cardiovascular disease development. The indispensability of clock proteins in the heart is mechanistically illustrated by our recent findings that REV-ERB loss in cardiomyocytes specifically leads to dilated cardiomyopathy and premature death in mice.
+
+ 
+
+Projects in the lab are centered around an integrated approach combining next-generation sequencing techniques, whole-body physiology analysis in specialized mutant mouse lines and the use of in vitro cardiac models. We aim to develop cardiometabolic insufficiency treatment strategies and will use data from human patients to better understand how deregulation of the clock contributes to heart disease. Investigating how the circadian clock and its intricate connection to rhythmic metabolic programs can be deployed to tackle prevention, diagnosis and treatment of HF will be the overarching goal.
+
+
 
 {% include section.html %}
 
