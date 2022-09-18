@@ -65,7 +65,7 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
+  style="flexbox"
 
   image1="images/CPI.png"
   link1="https://www.cpi-online.de/"
