@@ -18,8 +18,9 @@ image1="images/Model_Dierickx_homepage.png"
 %}
 {:.center}
 
-body{
+<style>
+  div{
  background-image=url("images/Female_Rev_DKO.jpg")
  }
-
+<\style>
 
