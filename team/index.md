@@ -8,8 +8,10 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 ## Pieterjan Dierickx
-MPI-HLR and Cardiopulmonary Institute (CPI)
-Independent Research Group Leader
+{% MPI-HLR and Cardiopulmonary Institute (CPI)
+%}
+{% Independent Research Group Leader
+%}
 {:.center}
 
 {% include gallery.html style="square"
