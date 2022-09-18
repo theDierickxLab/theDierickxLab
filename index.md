@@ -10,9 +10,6 @@ title: Home
 
 {:.center}
 
-{% include section.html %}
-
-
 {% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}
 
 {% include gallery.html style="flexbox"
@@ -21,5 +18,4 @@ image1="images/Model_Dierickx_homepage.png"
 %}
 {:.center}
 
-{% include section.html %}
 
