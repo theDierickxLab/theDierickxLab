@@ -80,8 +80,8 @@ Our work is made possible by funding from several organizations.
   tooltip3="German Centre for Cardiovascular Research"
 
   image4="images/IMPRS.png"
-  link4="https://nasa.gov/"
-  tooltip4="https://imprs-mob.mpg.de/"
+  link4="https://imprs-mob.mpg.de/"
+  tooltip4="IMPRS for Molecular Organ Biology"
 
   image5="images/MPI.jpeg"
   link5="https://www.mpg.de/institutes?tab=institutes"
