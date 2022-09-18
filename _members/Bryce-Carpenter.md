@@ -1,7 +1,7 @@
 ---
 name: Bryce Carpenter
 image: images/Bryce.jpg
-description: 09.2022 phd
+description: phd
 role: phd student
 aliases:
   - B Carpenter
