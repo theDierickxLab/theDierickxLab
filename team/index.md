@@ -46,12 +46,13 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 {% include section.html background="images/2017_Tiburcy.png" dark=true%}
 
 We are looking for new group members with passion, talent, and grit!
+{:.center}
 
 {% include section.html %}
 
 ## Join
 
-#### If you are interested in working with us as a PhD student or postdoc, please send me an email. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert "Application PhD" or "Application Postdoc" in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send me an email. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert "Application PhD" or "Application Postdoc" in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 {% include link.html type="email" link="pieterjan.dierickx@mpi-bn.mpg.de" text="Apply Now" icon="" style="button" %}
 {:.center}
