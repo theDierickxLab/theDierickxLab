@@ -9,6 +9,7 @@ nav:
 
 ## <span style="color: blue;">Pieterjan Dierickx</span> 
 #### <span style="color: blue;">MPI-HLR and Cardiopulmonary Institute (CPI)</span> 
+{:.center}
 #### <span style="color: blue;">Independent Research Group Leader</span> 
 {:.center}
 
