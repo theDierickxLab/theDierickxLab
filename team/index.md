@@ -86,4 +86,8 @@ Our work is made possible by funding from several organizations.
   image5="images/MPI.jpeg"
   link5="https://www.mpg.de/institutes?tab=institutes"
   tooltip5="Max Planck Institutes"
+  
+  image6="images/photo.jpg"
+  link6=""
+  tooltip6=""
   %}
