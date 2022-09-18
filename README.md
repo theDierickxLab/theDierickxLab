@@ -1,2 +1,2 @@
 
-This is the Dierickx Lab
+Welcome to the Dierickx Lab!
