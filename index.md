@@ -12,12 +12,3 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
 {:.center}
 
 
-
-<style>
-  div{
- background-image=url("images/Female_Rev_DK.jpg");
-  -webkit-filter: opacity(100%); /* Chrome, Safari, Opera */;
-  filter=opacity(100%);
- }
-<\style>
-
