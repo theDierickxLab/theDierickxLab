@@ -28,6 +28,7 @@
       - NAD+
       - circadian clock
   
+  
 - id: DOI:10.1038/s44161-021-00001-9
   title: 'Circadian REV-ERBs repress'
   volume: '1'
@@ -168,6 +169,7 @@
       - Kidney Disease
       - scRNA-seq analysis
   
+  
 - id: DOI: 10.1016/j.coph.2020.11.006
   title: 'Cardiac circadian rhythms in time and space: The future is in 4D.'
   volume: '57'
@@ -198,12 +200,9 @@
   type: article-journal
   image: image/paper4
   tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
       - circadian clock
   
-- id: lozLtGXB
+- id: DOI: 10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types.
   volume: '369'
   issue: '6509'
@@ -244,14 +243,10 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
   image: image/paper5
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+
   
   
-- id: ec6dto5J
+- id: DOI: 10.1073/pnas.1904226116
 - title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism.
   volume: '116'
   issue: '25'
@@ -288,11 +283,8 @@
   image: image/paper6
   tags: 
       - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
  
-- id: XUerwvgr
+- id: DOI: 10.1016/j.stem.2018.11.018
   title: Patient Adipose Stem Cell-Derived Adipocytes Reveal Genetic Variation that Predicts Antidiabetic Drug Response.
   volume: '24'
   issue: '2'
@@ -339,14 +331,9 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
   type: article-journal
   image: image/paper7
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
  
  
-- id: WO3mGvU7
+- id: DOI: 10.15252/embr.201745130
   title: 'Circadian clocks: from stem cells to tissue homeostasis and regeneration.'
   volume: '19'
   issue: '1'
@@ -373,14 +360,10 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
   image: image/paper8
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+
       
       
-- id: kGxmf9i4
+- id: DOI: 10.1016/j.yjmcc.2017.08.009
   title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in the heart.
   volume: '112'
   page: 58-63
@@ -417,13 +400,9 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28823816
   type: article-journal
   image: image/paper9
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
 
-- id: 17QVc5y2a
+
+- id: DOI: 10.1016/j.stemcr.2017.07.010
   title: SCA1
   volume: '9'
   issue: '3'
@@ -466,14 +445,10 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28803917
   type: article-journal
   image: image/paper10
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
 
 
-- id: 1YyRBWL2
+
+- id: DOI: 10.1021/acssensors.7b00239
   title: Bright Bioluminescent BRET Sensor Proteins for Measuring Intracellular Caspase Activity.
   volume: '2'
   issue: '6'
@@ -506,14 +481,9 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28670623
   type: article-journal
   image: image/paper11
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+  
       
-      
-- id: zIkBbGev
+- id: DOI: 10.15252/embr.201743897
   title: Circadian networks in human embryonic stem cell-derived cardiomyocytes.
   volume: '18'
   issue: '7'
@@ -551,13 +521,10 @@
   type: article-journal
   image: image/paper12
   tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
       - circadian clock
   
   
-- id: 12n61PMit
+- id: DOI: 10.1161/circulationaha.116.024145
   title: Defined Engineered Human Myocardium With Advanced Maturation for Applications in Heart Failure Modeling and Repair.
   volume: '135'
   issue: '19'
@@ -640,14 +607,13 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28167635
   type: article-journal
   image: image/paper13
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock 
+  Tag: 
+      - Heart Failure
+      - Engineered Human Myocardium
+ 
       
       
-- id: 17aA3nB8o
+- id: DOI: 10.1021/acschembio.6b00453
   title: Dual Readout BRET/FRET Sensors for Measuring Intracellular Zinc.
   volume: '11'
   issue: '10'
@@ -674,13 +640,11 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/27547982
   type: article-journal
   image: image/paper14
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+  Tag: 
+     - BRET/FRET
+
   
-- id: T1DK8AJy
+- id: DOI: 10.1083/jcb.201601074
   title: 'Muscle-on-chip: An in vitro model for donor-host cardiomyocyte coupling.'
   volume: '212'
   issue: '4'
@@ -705,13 +669,9 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/26858264
   type: article-journal
   image: image/paper15
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+
   
-- id: 19NnRjLSx
+- id: DOI: 10.1007/s12015-013-9458-z
   title: Efficient ROSA26-based conditional and/or inducible transgenesis using RMCE-compatible F1 hybrid mouse embryonic stem cells.
   volume: '9'
   issue: '6'
@@ -756,13 +716,9 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
   type: article-journal
   image: image/paper16
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+
   
-- id: 1DNi2unv6
+- id: DOI: 10.1016/j.celrep.2013.01.016
   title: 'The ROSA26-iPSC mouse: a conditional, inducible, and exchangeable resource for studying cellular (De)differentiation.'
   volume: '3'
   issue: '2'
@@ -802,14 +758,10 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
   type: article-journal
   image: image/paper17
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+
       
       
-- id: BJ51vZao
+- id: DOI: 10.1007/s12265-012-9391-6
   title: Embryonic template-based generation and purification of pluripotent stem cell-derived cardiomyocytes for heart repair.
   volume: '5'
   issue: '5'
@@ -837,10 +789,6 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
   image: image/paper18
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
+  
 
   
