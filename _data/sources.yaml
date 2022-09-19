@@ -21,7 +21,7 @@
   container-title: Frontiers in Molecular Medicine
   date: 2022-5-9
   link: https://doi.org/gqt4c9
-  image: image/paper1
+  image: https://www.frontiersin.org/files/Articles/887733/fmmed-02-887733-HTML/image_m/fmmed-02-887733-g001.jpg
   tags: 
       - REV-ERB
       - Cardiomyocyte Clock
@@ -90,7 +90,7 @@
   abstract: 'The heart is a highly metabolic organ that uses multiple energy sources to meet its demand for ATP production. Diurnal feeding-fasting cycles result in substrate availability fluctuations which, together with increased energetic demand during the active period, impose a need for rhythmic cardiac metabolism. The nuclear receptors REV-ERBα and β are essential repressive components of the molecular circadian clock and major regulators of metabolism. To investigate their role in the heart, here we generated mice with cardiomyocyte (CM)-specific deletion of both '
   link: https://www.ncbi.nlm.nih.gov/pubmed/35036997
   type: article-journal
-  image: image/paper2
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8754391/bin/nihms-1749811-f0008.jpg
   tags: 
       - REV-ERB
       - E4bp4
@@ -162,7 +162,7 @@
   abstract: Kidney disease is poorly understood because of the organ's cellular diversity. We used single-cell RNA sequencing not only in resolving differences in injured kidney tissue cellular composition but also in cell-type-specific gene expression in mouse models of kidney disease. This analysis highlighted major changes in cellular diversity in kidney disease, which markedly impacted whole-kidney transcriptomics outputs. Cell-type-specific differential expression analysis identified proximal tubule (PT) cells as the key vulnerable cell type. Through unbiased cell trajectory analyses, we show that PT cell differentiation is altered in kidney disease. Metabolism (fatty acid oxidation and oxidative phosphorylation) in PT cells showed the strongest and most reproducible association with PT cell differentiation and disease. Coupling of cell differentiation and the metabolism was established by nuclear receptors (estrogen-related receptor alpha [ESRRA] and peroxisomal proliferation-activated receptor alpha [PPARA]) that directly control metabolic and PT-cell-specific gene expression in mice and patient samples while protecting from kidney disease in the mouse model.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/33301705
   type: article-journal
-  image: image/paper3
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413120306069-fx1_lrg.jpg
   tags: 
       - PT cell differentiation
       - ESRRA protects
@@ -198,9 +198,13 @@
   abstract: The circadian clock synchronizes the body into 24-h cycles, thereby anticipating variations in tissue-specific diurnal tasks, such as response to increased cardiac metabolic demand during the active period of the day. As a result, blood pressure, heart rate, cardiac output, and occurrence of fatal cardiovascular events fluctuate in a diurnal manner. The heart contains different cell types that make up and reside in an environment of biochemical, mechanical, and topographical signaling. Cardiac architecture is essential for proper heart development as well as for maintenance of cell homeostasis and tissue repair. In this review, we describe the possibilities of studying circadian rhythmicity in the heart by using advanced in vitro systems that mimic the native cardiac 3D microenvironment which can be tuned in time and space. Harnessing the knowledge that originates from those in vitro models could significantly improve innovative cardiac modeling and regenerative strategies.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/33338891
   type: article-journal
-  image: image/paper4
   tags: 
-      - circadian clock
+      - Circadian rhythms
+      - Regeneration 
+      - Stem cells
+      - Tissue engineering
+      - Clock manipulation
+      - Extracellular matrix
   
 - id: doi:10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types.
@@ -242,7 +246,7 @@
   abstract: Most cells of the body contain molecular clocks, but the requirement of peripheral clocks for rhythmicity and their effects on physiology are not well understood. We show that deletion of core clock components REV-ERBα and REV-ERBβ in adult mouse hepatocytes disrupts diurnal rhythms of a subset of liver genes and alters the diurnal rhythm of de novo lipogenesis. Liver function is also influenced by nonhepatocytic cells, and the loss of hepatocyte REV-ERBs remodels the rhythmic transcriptomes and metabolomes of multiple cell types within the liver. Finally, alteration of food availability demonstrates the hierarchy of the cell-intrinsic hepatocyte clock mechanism and the feeding environment. Together, these studies reveal previously unsuspected roles of the hepatocyte clock in the physiological coordination of nutritional signals and cell-cell communication controlling rhythmic metabolism.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
-  image: image/paper5
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7849028/bin/nihms-1662085-f0001.jpg
 
   
   
@@ -280,7 +284,7 @@
   abstract: The nuclear receptors REV-ERBα and -β link circadian rhythms and metabolism. Like other nuclear receptors, REV-ERB activity can be regulated by ligands, including naturally occurring heme. A putative ligand, SR9009, has been reported to elicit a range of beneficial effects in healthy as well as diseased animal models and cell systems. However, the direct involvement of REV-ERBs in these effects of SR9009 has not been thoroughly assessed, as experiments were not performed in the complete absence of both proteins. Here, we report the generation of a mouse model for conditional genetic deletion of REV-ERBα and -β. We show that SR9009 can decrease cell viability, rewire cellular metabolism, and alter gene transcription in hepatocytes and embryonic stem cells lacking both REV-ERBα and -β. Thus, the effects of SR9009 cannot be used solely as surrogate for REV-ERB activity.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/31127047
   type: article-journal
-  image: image/paper6
+  image: https://www.pnas.org/cms/10.1073/pnas.1904226116/asset/3ccb1516-a62e-4ed0-9f2d-c250da067067/assets/graphic/pnas.1904226116fig01.jpeg
   tags: 
       - REV-ERB
  
@@ -330,7 +334,7 @@
   abstract: Thiazolidinedione drugs (TZDs) target the transcriptional activity of peroxisome proliferator activated receptor γ (PPARγ) to reverse insulin resistance in type 2 diabetes, but side effects limit their clinical use. Here, using human adipose stem cell-derived adipocytes, we demonstrate that SNPs were enriched at sites of patient-specific PPARγ binding, which correlated with the individual-specific effects of the TZD rosiglitazone (rosi) on gene expression. Rosi induction of ABCA1, which regulates cholesterol metabolism, was dependent upon SNP rs4743771, which modulated PPARγ binding by influencing the genomic occupancy of its cooperating factor, NFIA. Conversion of rs4743771 from the inactive SNP allele to the active one by clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9-mediated editing rescued PPARγ binding and rosi induction of ABCA1 expression. Moreover, rs4743771 is a major determinant of undesired serum cholesterol increases in rosi-treated diabetics. These data highlight human genetic variation that impacts PPARγ genomic occupancy and patient responses to antidiabetic drugs, with implications for developing personalized therapies for metabolic disorders.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
   type: article-journal
-  image: image/paper7
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S193459091830554X-fx1.jpg
  
  
 - id: doi:10.15252/embr.201745130
@@ -359,7 +363,7 @@
   abstract: The circadian clock is an evolutionarily conserved timekeeper that adapts body physiology to diurnal cycles of around 24 h by influencing a wide variety of processes such as sleep-to-wake transitions, feeding and fasting patterns, body temperature, and hormone regulation. The molecular clock machinery comprises a pathway that is driven by rhythmic docking of the transcription factors BMAL1 and CLOCK on clock-controlled output genes, which results in tissue-specific oscillatory gene expression programs. Genetic as well as environmental perturbation of the circadian clock has been implicated in various diseases ranging from sleep to metabolic disorders and cancer development. Here, we review the origination of circadian rhythms in stem cells and their function in differentiated cells and organs. We describe how clocks influence stem cell maintenance and organ physiology, as well as how rhythmicity affects lineage commitment, tissue regeneration, and aging.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
-  image: image/paper8
+  image: https://www.embopress.org/cms/asset/9346f393-0bc7-421b-9664-ed7a3776bf4a/embr201745130-fig-0001-m.jpg
 
       
       
@@ -399,7 +403,12 @@
   abstract: Circadian rhythms are biorhythms with a 24-hour period that are regulated by molecular clocks. Several clinical and animal models have been developed to analyze the role of these rhythms in cardiovascular physiology, disease and therapy, but a convenient in vitro model that mimics both molecular and functional circadian effects of the heart is not available. Therefore, we established a neonatal rat cardiomyocyte model that recapitulates in vivo circadian rhythmicity, as measured by anti-phasic oscillatory mRNA expression of two core clock genes, Bmal1 and Per2 and that shows functional dependence on the clock as indicated by an oscillating response in apoptosis induced by doxorubicin, hydroperoxide or hypoxia. In addition, perturbation of the cardiac clock by the use of several compounds including Resveratrol and Ex-527 was found to result in loss of functional rhythmicity. This indicates that neonatal rat cardiomyocytes are a good model to investigate the cardiac circadian clock as well as a system that allows for fast and easy preclinical testing of the influence of compounds on circadian rhythmicity that might have crucial effects on cardiac health.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28823816
   type: article-journal
-  image: image/paper9
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/24dd67af-e4e1-4fde-90dc-6f37149f2659/gr1.jpg
+  tags: 
+      - Circadian rhythms
+      - Heart
+      - In vitro
+      - Neonatal rat cardiomyocytes
 
 
 - id: doi:10.1016/j.stemcr.2017.07.010
@@ -444,7 +453,14 @@
   abstract: Stem cell antigen 1-positive (SCA1
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28803917
   type: article-journal
-  image: image/paper10
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5599230/bin/gr1.jpg
+  tags: 
+      - SCA1
+      - circadian rhythm
+      - clock 
+      - heart 
+      - progenitor cell
+      - stem cell
 
 
 
@@ -480,9 +496,17 @@
   abstract: 'FRET-based caspase activity probes have become important tools to monitor apoptotic cell signaling. However, their dependence on external illumination is incompatible with light sensitive cells and hampers applications that suffer from autofluorescence and light scattering. Here we report the development of three caspase sensor proteins based on Bioluminescence Resonance Energy Transfer (BRET) that retain the advantages of genetically encoded, ratiometric optical probes but do not require external illumination. These sensors consist of the bright and stable luciferase NanoLuc and the fluorescent protein mNeonGreen, fused together via a linker containing a recognition site for caspase-3, -8, or -9. '
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28670623
   type: article-journal
-  image: image/paper11
-  
-      
+  image: https://pubs.acs.org/cms/10.1021/acssensors.7b00239/asset/images/medium/se-2017-002393_0001.gif
+  tags: 
+       - caspase sensor
+       - BRET 
+       - NanoLuc 
+       - mNeonGreen 
+       - plate reader assay 
+       - single-cell imaging
+       
+
+ 
 - id: doi:10.15252/embr.201743897
   title: Circadian networks in human embryonic stem cell-derived cardiomyocytes.
   volume: '18'
@@ -519,9 +543,10 @@
   abstract: 'Cell-autonomous circadian oscillations strongly influence tissue physiology and pathophysiology of peripheral organs including the heart, in which the circadian clock is known to determine cardiac metabolism and the outcome of for instance ischemic stress. Human pluripotent stem cells represent a powerful tool to study developmental processes '
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28536247
   type: article-journal
-  image: image/paper12
+  image: https://www.embopress.org/cms/asset/6ea9641a-6ceb-484d-8a21-894542eff600/embr201743897-fig-0001-m.jpg
   tags: 
       - circadian clock
+      - heart
   
   
 - id: doi:10.1161/circulationaha.116.024145
@@ -606,8 +631,8 @@
   abstract: Advancing structural and functional maturation of stem cell-derived cardiomyocytes remains a key challenge for applications in disease modeling, drug screening, and heart repair. Here, we sought to advance cardiomyocyte maturation in engineered human myocardium (EHM) toward an adult phenotype under defined conditions.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28167635
   type: article-journal
-  image: image/paper13
-  Tag: 
+  image: https://www.ahajournals.org/cms/asset/ed1397d0-e529-4729-82fa-6f2c0f116f94/1832fig01.jpg
+  tags: 
       - Heart Failure
       - Engineered Human Myocardium
  
@@ -639,8 +664,8 @@
   abstract: Genetically encoded FRET-based sensor proteins have significantly contributed to our current understanding of the intracellular functions of Zn
   URL: https://www.ncbi.nlm.nih.gov/pubmed/27547982
   type: article-journal
-  image: image/paper14
-  Tag: 
+  image: https://pubs.acs.org/cms/10.1021/acschembio.6b00453/asset/images/medium/cb-2016-004539_0007.gif
+  tags: 
      - BRET/FRET
 
   
@@ -668,8 +693,18 @@
   abstract: 'A key aspect of cardiac cell-based therapy is the proper integration of newly formed cardiomyocytes into the remnant myocardium after injury. In this issue, Aratyn-Schaus et al. (2016. J. Cell Biol. http://dx.doi.org/10.1083/jcb.201508026) describe an in vitro model for heterogeneous cardiomyocyte coupling in which force transmission between cells can be measured. '
   URL: https://www.ncbi.nlm.nih.gov/pubmed/26858264
   type: article-journal
-  image: image/paper15
-
+  image: https://rupress.org/view-large/figure/6925064/JCB_201601074_Fig1.jpeg
+  tags: 
+       - Adhesion
+       - Biophysics 
+       - Cell signaling
+       - Cytoskeleton
+       - Membrane and lipid biology
+       - Physiology
+       - Stem cells
+       - Systems and Computational Biology
+       
+       
   
 - id: doi:10.1007/s12015-013-9458-z
   title: Efficient ROSA26-based conditional and/or inducible transgenesis using RMCE-compatible F1 hybrid mouse embryonic stem cells.
@@ -715,7 +750,7 @@
   abstract: The conditional Cre/loxP system and/or the doxycycline (Dox) inducible Tet-on/off system are widely used in mouse transgenesis but often require time consuming, inefficient cloning/screening steps and extensive mouse breeding strategies. We have therefore developed a highly efficient Gateway- and recombinase-mediated cassette exchange (RMCE)-compatible system to target conditional and/or inducible constructs to the ROSA26 locus of F1 hybrid Bl6/129 ESCs, called G4 ROSALUC ESCs. By combining the Cre/loxP system with or without the inducible Tet-on system using Gateway cloning, we can rapidly generate spatial and/or temporal controllable gain-of-function constructs that can be targeted to the RMCE-compatible ROSA26 locus of the G4 ROSALUC ESCs with efficiencies close to 100 %. These novel ESC-based technologies allow for the creation of multiple gain-of-function conditional and/or inducible transgenic ESC clones and mouse lines in a highly efficient and locus specific manner. Importantly, incorporating insulator sequences into the Dox-inducible vector system resulted in robust, stable transgene expression in undifferentiated ESCs but could not fully overcome transgene mosaicism in the differentiated state.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
   type: article-journal
-  image: image/paper16
+  
 
   
 - id: doi:10.1016/j.celrep.2013.01.016
@@ -757,7 +792,7 @@
   abstract: Control of cellular (de)differentiation in a temporal, cell-specific, and exchangeable manner is of paramount importance in the field of reprogramming. Here, we have generated and characterized a mouse strain that allows iPSC generation through the Cre/loxP conditional and doxycycline/rtTA-controlled inducible expression of the OSKM reprogramming factors entirely from within the ROSA26 locus. After reprogramming, these factors can be replaced by genes of interest-for example, to enhance lineage-directed differentiation-with the use of a trap-coupled RMCE reaction. We show that, similar to ESCs, Dox-controlled expression of the cardiac transcriptional regulator Mesp1 together with Wnt inhibition enhances the generation of functional cardiomyocytes upon in vitro differentiation of such RMCE-retargeted iPSCs. This ROSA26-iPSC mouse model is therefore an excellent tool for studying both cellular reprogramming and lineage-directed differentiation factors from the same locus and will greatly facilitate the identification and ease of functional characterization of the genetic/epigenetic determinants involved in these complex processes.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
   type: article-journal
-  image: image/paper17
+  image: https://www.cell.com/cms/attachment/361a00ac-07ac-4d01-98db-91755e9b131f/fx1.jpg
 
       
       
@@ -788,7 +823,6 @@
   abstract: Cardiovascular disease remains a leading cause of death in Western countries. Many types of cardiovascular diseases are due to a loss of functional cardiomyocytes, which can result in irreversible cardiac failure. Since the adult human heart has limited regenerative potential, cardiac transplantation is still the only effective therapy to address this cardiomyocyte loss. However, drawbacks, such as immune rejection and insufficient donor availability, are limiting this last-resort solution. Recent developments in the stem cell biology field have improved the potential of cardiac regeneration. Improvements in reprogramming strategies of differentiated adult cells into induced pluripotent stem cells, together with increased efficiency of directed differentiation of pluripotent stem cells toward cardiac myocytes, have brought cell-based heart muscle regeneration a few steps closer to the clinic. In this review, we outline the status of research on cardiac regeneration with a focus on directed differentiation of pluripotent stem cells toward the cardiac lineage.
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
-  image: image/paper18
   
 
   
