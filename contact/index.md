@@ -30,7 +30,7 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 %}
 {%
   include link.html
-  type="Home Page"
+  type="home-page"
   icon=""
   text="Home Page"
   tooltip=""
