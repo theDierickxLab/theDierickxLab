@@ -1,4 +1,4 @@
-- id: DOI: 10.3389/fmmed.2022.887733
+- id: doi:10.3389/fmmed.2022.887733
   publisher: Frontiers Media SA
   abstract: <jats:p>The REV-ERB nuclear receptors are key components of the circadian clock. Loss of REV-ERBs in the mouse heart causes dilated cardiomyopathy and premature lethality. This is associated with a marked reduction in NAD<jats:sup>+</jats:sup> production, but whether this plays a role in the pathophysiology of this heart failure model is not known. Here, we show that supplementation with the NAD<jats:sup>+</jats:sup> precursor NR as a dietary supplement improves heart function and extends the lifespan of female mice lacking cardiac REV-ERBs. Thus, boosting NAD<jats:sup>+</jats:sup> levels can improve cardiac function in a setting of heart failure caused by disruption of circadian clock factors, providing new insights into the links between the circadian clock, energy metabolism, and cardiac function.</jats:p>
   type: article-journal
@@ -29,7 +29,7 @@
       - circadian clock
   
   
-- id: DOI:10.1038/s44161-021-00001-9
+- id: doi:10.1038/s44161-021-00001-9
   title: 'Circadian REV-ERBs repress'
   volume: '1'
   issue: '1'
@@ -98,7 +98,7 @@
       - circadian clock
   
 
-- id: DOI: 10.1016/j.cmet.2020.11.011
+- id: doi:10.1016/j.cmet.2020.11.011
   title: The Nuclear Receptor ESRRA Protects from Kidney Disease by Coupling Metabolism and Differentiation.
   volume: '33'
   issue: '2'
@@ -170,7 +170,7 @@
       - scRNA-seq analysis
   
   
-- id: DOI: 10.1016/j.coph.2020.11.006
+- id: doi:10.1016/j.coph.2020.11.006
   title: 'Cardiac circadian rhythms in time and space: The future is in 4D.'
   volume: '57'
   page: 49-59
@@ -202,7 +202,7 @@
   tags: 
       - circadian clock
   
-- id: DOI: 10.1126/science.aba8984
+- id: doi:10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types.
   volume: '369'
   issue: '6509'
@@ -246,7 +246,7 @@
 
   
   
-- id: DOI: 10.1073/pnas.1904226116
+- id: doi:10.1073/pnas.1904226116
 - title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism.
   volume: '116'
   issue: '25'
@@ -284,7 +284,7 @@
   tags: 
       - REV-ERB
  
-- id: DOI: 10.1016/j.stem.2018.11.018
+- id: doi:10.1016/j.stem.2018.11.018
   title: Patient Adipose Stem Cell-Derived Adipocytes Reveal Genetic Variation that Predicts Antidiabetic Drug Response.
   volume: '24'
   issue: '2'
@@ -333,7 +333,7 @@
   image: image/paper7
  
  
-- id: DOI: 10.15252/embr.201745130
+- id: doi:10.15252/embr.201745130
   title: 'Circadian clocks: from stem cells to tissue homeostasis and regeneration.'
   volume: '19'
   issue: '1'
@@ -363,7 +363,7 @@
 
       
       
-- id: DOI: 10.1016/j.yjmcc.2017.08.009
+- id: doi:10.1016/j.yjmcc.2017.08.009
   title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in the heart.
   volume: '112'
   page: 58-63
@@ -402,7 +402,7 @@
   image: image/paper9
 
 
-- id: DOI: 10.1016/j.stemcr.2017.07.010
+- id: doi:10.1016/j.stemcr.2017.07.010
   title: SCA1
   volume: '9'
   issue: '3'
@@ -448,7 +448,7 @@
 
 
 
-- id: DOI: 10.1021/acssensors.7b00239
+- id: doi:10.1021/acssensors.7b00239
   title: Bright Bioluminescent BRET Sensor Proteins for Measuring Intracellular Caspase Activity.
   volume: '2'
   issue: '6'
@@ -483,7 +483,7 @@
   image: image/paper11
   
       
-- id: DOI: 10.15252/embr.201743897
+- id: doi:10.15252/embr.201743897
   title: Circadian networks in human embryonic stem cell-derived cardiomyocytes.
   volume: '18'
   issue: '7'
@@ -524,7 +524,7 @@
       - circadian clock
   
   
-- id: DOI: 10.1161/circulationaha.116.024145
+- id: doi:10.1161/circulationaha.116.024145
   title: Defined Engineered Human Myocardium With Advanced Maturation for Applications in Heart Failure Modeling and Repair.
   volume: '135'
   issue: '19'
@@ -613,7 +613,7 @@
  
       
       
-- id: DOI: 10.1021/acschembio.6b00453
+- id:  doi:10.1021/acschembio.6b00453
   title: Dual Readout BRET/FRET Sensors for Measuring Intracellular Zinc.
   volume: '11'
   issue: '10'
@@ -644,7 +644,7 @@
      - BRET/FRET
 
   
-- id: DOI: 10.1083/jcb.201601074
+- id: doi:10.1083/jcb.201601074
   title: 'Muscle-on-chip: An in vitro model for donor-host cardiomyocyte coupling.'
   volume: '212'
   issue: '4'
@@ -671,7 +671,7 @@
   image: image/paper15
 
   
-- id: DOI: 10.1007/s12015-013-9458-z
+- id: doi:10.1007/s12015-013-9458-z
   title: Efficient ROSA26-based conditional and/or inducible transgenesis using RMCE-compatible F1 hybrid mouse embryonic stem cells.
   volume: '9'
   issue: '6'
@@ -718,7 +718,7 @@
   image: image/paper16
 
   
-- id: DOI: 10.1016/j.celrep.2013.01.016
+- id: doi:10.1016/j.celrep.2013.01.016
   title: 'The ROSA26-iPSC mouse: a conditional, inducible, and exchangeable resource for studying cellular (De)differentiation.'
   volume: '3'
   issue: '2'
@@ -761,7 +761,7 @@
 
       
       
-- id: DOI: 10.1007/s12265-012-9391-6
+- id: doi:10.1007/s12265-012-9391-6
   title: Embryonic template-based generation and purification of pluripotent stem cell-derived cardiomyocytes for heart repair.
   volume: '5'
   issue: '5'
