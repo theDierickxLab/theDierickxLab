@@ -10,7 +10,7 @@ title: Home
 
 {:.center}
 
-{% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true'%}
+{% include section.html background="images/Female_Rev_DKO1.jpg" full='true' dark='true'%}
 
 {% include gallery.html style="flexbox"
 
@@ -20,7 +20,7 @@ image1="images/Model_Dierickx_homepage.png"
 
 <style>
   div{
- background-image=url("images/Female_Rev_DKO.jpg");
+ background-image=url("images/Female_Rev_DK.jpg");
  filter=opacity(50%);
  }
 <\style>
