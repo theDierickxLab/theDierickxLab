@@ -21,6 +21,8 @@ image1="images/Model_Dierickx_homepage.png"
 <style>
   div{
  background-image=url("images/Female_Rev_DKO.jpg");
+ }
+  div{
  opacity=1;
  }
 <\style>
