@@ -21,6 +21,15 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
 %}
 {%
   include link.html
+  type="homepage"
+  icon=""
+  text="homepage"
+  tooltip=""
+  link="https://imprs-mob.mpg.de/147641/Pieterjan-Dierickx"
+  style="button"
+%}
+{%
+  include link.html
   type="address"
   icon=""
   text="Google Maps"
@@ -29,6 +38,8 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
   style="button"
 %}
 {:.center}
+
+{% include gallery.html style="flexbox" image1="images/address.jpg" %} {:.center}
 
 {% include section.html %}
 
