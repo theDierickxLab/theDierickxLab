@@ -76,9 +76,6 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 
 
-{:.center}
-
-
 
 {% include section.html %}
 
