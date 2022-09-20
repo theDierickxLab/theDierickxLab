@@ -2,7 +2,7 @@
 name: Ankita Jha 
 image: images/
 description: Oct. 2022
-role: technician
+role: TA
 aliases:
   - A Jha
   - A. Jha
