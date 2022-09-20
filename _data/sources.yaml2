@@ -1,0 +1,91 @@
+- id: doi:10.3389/fmmed.2022.887733
+  title: Nicotinamide Riboside Improves Cardiac Function and Prolongs Survival After Disruption of the Cardiomyocyte Clock
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Bryce J.
+    family: Carpenter
+  - given: Isaac
+    family: Celwyn
+  - given: Daniel P.
+    family: Kelly
+  - given: Joseph A.
+    family: Baur
+  - given: Mitchell A.
+    family: Lazar
+  container-title: Frontiers in Molecular Medicine
+  date: 2022-5-9
+  URL: https://doi.org/gqt4c9
+  image: https://www.frontiersin.org/files/Articles/887733/fmmed-02-887733-HTML/image_m/fmmed-02-887733-g001.jpg
+  tags: 
+      - REV-ERB
+      - Cardiomyocyte Clock
+      - NAD+
+      - circadian clock
+      
+      
+- id: doi:10.1038/s44161-021-00001-9
+  title: Circadian REV-ERBs repress
+  container-title: Nature cardiovascular research
+  container-title-short: Nat Cardiovasc Res
+  ISSN: 2731-0590
+  date: 2021-12-23
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Kun
+    family: Zhu
+  - given: Bryce J
+    family: Carpenter
+  - given: Chunjie
+    family: Jiang
+  - given: Marit W
+    family: Vermunt
+  - given: Yang
+    family: Xiao
+  - given: Timothy S
+    family: Luongo
+  - given: Tsunehisa
+    family: Yamamoto
+  - given: Íngrid
+    family: Martí-Pàmies
+  - given: Sobuj
+    family: Mia
+  - given: Mary
+    family: Latimer
+  - given: Abhinav
+    family: Diwan
+  - given: Juanjuan
+    family: Zhao
+  - given: Amy K
+    family: Hauck
+  - given: Brianna
+    family: Krusen
+  - given: Hoang C B
+    family: Nguyen
+  - given: Gerd A
+    family: Blobel
+  - given: Daniel P
+    family: Kelly
+  - given: Liming
+    family: Pei
+  - given: Joseph A
+    family: Baur
+  - given: Martin E
+    family: Young
+  - given: Mitchell A
+    family: Lazar
+  PMID: '35036997'
+  PMCID: PMC8754391
+  DOI: 10.1038/s44161-021-00001-9
+  abstract: 'The heart is a highly metabolic organ that uses multiple energy sources to meet its demand for ATP production. Diurnal feeding-fasting cycles result in substrate availability fluctuations which, together with increased energetic demand during the active period, impose a need for rhythmic cardiac metabolism. The nuclear receptors REV-ERBα and β are essential repressive components of the molecular circadian clock and major regulators of metabolism. To investigate their role in the heart, here we generated mice with cardiomyocyte (CM)-specific deletion of both '
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/35036997
+  type: article-journal
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8754391/bin/nihms-1749811-f0008.jpg
+  tags: 
+      - REV-ERB
+      - E4bp4
+      - NAD+
+      - circadian clock
+      
+
