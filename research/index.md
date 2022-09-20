@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research
 ---
 
 # <i class="fas fa-microscope"></i>Research
@@ -15,10 +15,4 @@ Projects in the lab are centered around an integrated approach combining next-ge
 
 
 
-{% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
