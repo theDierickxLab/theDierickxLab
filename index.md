@@ -1,7 +1,14 @@
 ---
 title: Home
 ---
-{% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}
+
+
+#header, #footer{
+    display: none;
+}
+
+{% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}  
+
 
 #  <span style="color: white;font-weight:bold;font-size:3rem;align:center">Welcome to the Dierickx Lab</span>
 {:.center}
