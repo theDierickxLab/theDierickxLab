@@ -21,8 +21,8 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 %}
 {:.center}
 
-
-<div class="feature">
+<div class="section">
+  <div class="feature">
   <a class="feature_image">
     <img src="image/bryce.png" loading="lazy">
     </a>
@@ -31,11 +31,10 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
      <p>
        "Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games."
      </p>
-     </div>
+    </div>
+  </dib>
  
    
-  
-<div class="section"> 
   <div class="feature">
   <a class="feature_image">
     <img src="image/bryce.png" loading="lazy">
@@ -46,10 +45,9 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
        "Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games."
      </p>
      </div>
+  </div>
   
-    
-
-  <div class="feature">
+   <div class="feature">  
   <a class="feature_image">
     <img src="image/bryce.png" loading="lazy">
     </a>
@@ -59,8 +57,8 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
        "Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games."
      </p>
      </div>
+   </div>
   
-
   <div class="feature">
   <a class="feature_image">
     <img src="image/bryce.png" loading="lazy">
