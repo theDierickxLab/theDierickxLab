@@ -26,7 +26,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 
 <div class="feature">
-  <a class="feature_image">
+  <a class="feature_image"> flex ==$0
     <img src="/images/Bryce.png" loading="lazy" />
   </a>
    <p class="feature headline">Bryce, PhD student</p>
