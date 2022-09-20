@@ -22,7 +22,9 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 {:.center}
 
 
-<div class="section">
+{% include section.html %}
+
+
   <div class="feature">
   <a class="feature_image">
     <img src="image/bryce.png" loading="lazy">
@@ -71,7 +73,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
      </p>
      </div>
     </div>
- </section>
+
 
 
 {:.center}
