@@ -25,7 +25,6 @@
   
   
 - id: doi:10.1038/s44161-021-00001-9
-  title: Circadian REV-ERBs repress
   container-title: Nature cardiovascular research
   container-title-short: Nat Cardiovasc Res
   ISSN: 2731-0590
@@ -184,7 +183,7 @@
   
 - id: doi:10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types
-  container-title: Science (New York, N.Y.)
+  container-title: Science
   container-title-short: Science
   ISSN: 1095-9203
   date: 2020-7-30
@@ -219,7 +218,7 @@
   
   
 - id: doi:10.1073/pnas.1904226116
- container-title: Proceedings of the National Academy of Sciences of the United States of America
+  container-title: Proceedings of the National Academy of Sciences of the United States of America
   container-title-short: Proc Natl Acad Sci U S A
   ISSN: 1091-6490
   date: 2019-5-24
@@ -307,8 +306,8 @@
   type: article-journal
   image: https://www.embopress.org/cms/asset/9346f393-0bc7-421b-9664-ed7a3776bf4a/embr201745130-fig-0001-m.jpg
 
-      
-   - id: doi:10.1016/j.yjmcc.2017.08.009
+     
+- id: doi:10.1016/j.yjmcc.2017.08.009
   title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in the heart
   container-title: Journal of molecular and cellular cardiology
   container-title-short: J Mol Cell Cardiol
