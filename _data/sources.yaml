@@ -156,5 +156,102 @@
       - scRNA-seq analysis
   
   
+- id: doi:10.1016/j.coph.2020.11.006
+  title: Cardiac circadian rhythms in time and space: The future is in 4D
+  container-title: Current opinion in pharmacology
+  container-title-short: Curr Opin Pharmacol
+  ISSN: 1471-4973
+  date: 2020-12-15
+  author:
+  - given: Nino
+    family: Chirico
+  - given: Linda W
+    family: Van Laake
+  - given: Joost P G
+    family: Sluijter
+  - given: Alain
+    family: van Mil
+  - given: Pieterjan
+    family: Dierickx
+  PMID: '33338891'
+  DOI: 10.1016/j.coph.2020.11.006
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/33338891
+  type: article-journal
+  tags: 
+      - Circadian rhythms
+      - Regeneration 
+      - Stem cells
+      - Tissue engineering
+      - Clock manipulation
+      - Extracellular matrix
+  
+- id: doi:10.1126/science.aba8984
+  title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types
+  container-title: Science (New York, N.Y.)
+  container-title-short: Science
+  ISSN: 1095-9203
+  date: 2020-7-30
+  author:
+  - given: Dongyin
+    family: Guan
+  - given: Ying
+    family: Xiong
+  - given: Trang Minh
+    family: Trinh
+  - given: Yang
+    family: Xiao
+  - given: Wenxiang
+    family: Hu
+  - given: Chunjie
+    family: Jiang
+  - given: Pieterjan
+    family: Dierickx
+  - given: Cholsoon
+    family: Jang
+  - given: Joshua D
+    family: Rabinowitz
+  - given: Mitchell A
+    family: Lazar
+  PMID: '32732282'
+  PMCID: PMC7849028
+  DOI: 10.1126/science.aba8984
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
+  type: article-journal
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7849028/bin/nihms-1662085-f0001.jpg
 
+  
+  
+- id: doi:10.1073/pnas.1904226116
+  title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism
+  container-title: Proceedings of the National Academy of Sciences of the United States of America
+  container-title-short: Proc Natl Acad Sci U S A
+  ISSN: 1091-6490
+  date: 2019-5-24
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Matthew J
+    family: Emmett
+  - given: Chunjie
+    family: Jiang
+  - given: Kahealani
+    family: Uehara
+  - given: Manlu
+    family: Liu
+  - given: Marine
+    family: Adlanmerini
+  - given: Mitchell A
+    family: Lazar
+  PMID: '31127047'
+  PMCID: PMC6589768
+  DOI: 10.1073/pnas.1904226116
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/31127047
+  type: article-journal
+  image: https://www.pnas.org/cms/10.1073/pnas.1904226116/asset/3ccb1516-a62e-4ed0-9f2d-c250da067067/assets/graphic/pnas.1904226116fig01.jpeg
+  tags: 
+      - REV-ERB
+ 
+
+
+  
    
