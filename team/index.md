@@ -24,7 +24,6 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 {% include section.html %}
 
-{% include section.html %}
 
 {%
   include list.html
