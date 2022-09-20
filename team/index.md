@@ -25,27 +25,33 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 {% include section.html %}
 
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{:.center}
+<div class="feature">
+  <a class="feature_image">
+    <img src="/images/headshots/fong.png" loading="lazy" />
+  </a>
+  <div class="feature_text"><p class="feature_headline">Ming-fai Fong, Principal Investigator</p><p>Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory.  She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.</p>
 
-{% include section.html background="images/background.png" dark="true" %}
+  </div>
+</div>
 
-## We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.
-{:.center}
+<div class="feature">
+  <a class="feature_image">
+    <img src="/images/headshots/zhao.png" loading="lazy" />
+  </a>
+  <div class="feature_text"><p class="feature_headline">Yichao Zhao, Graduate Student</p><p>Yichao Zhao is a PhD student in the Biomedical Engineering Graduate Program and the Computational Neural Engineering Training Program at Georgia Tech and Emory.  He received his dual BS degree in Biology and Biomedical Engineering from Emory and Georgia Tech. As an undergraduate he conducted research in cancer genetics and animal biomechanics, and subsequently worked as a flow cytometry specialist at Raybiotech.  Chao returns to GT-Emory with an interest in exploring computational methods in biomedical research.  His research leverages electrophysiology, computational modeling, and control system engineering tools to study neuroplasticity in visual circuits.</p>
 
-{% include section.html %}
+  </div>
+</div>
 
-## Join
+<div class="feature">
+  <a class="feature_image">
+    <img src="/images/headshots/lamprecht.png" loading="lazy" />
+  </a>
+  <div class="feature_text"><p class="feature_headline">Robert Lamprecht, Research Technician</p><p>Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science with a concentration in neuroscience from Wofford College. He has previously conducted research on affective disorders and spinal cord injury using rodent models.  Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be leveraged to better understand sensation and perception.</p>
 
-If you are interested in working with us as a PhD student or postdoc, please send me an email. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. Important: please insert "Application PhD" or "Application Postdoc" in the subject line. If you are applying to a specific advertisement, note this in your email.
+  </div>
 
-{% include link.html type="email" link="pieterjan.dierickx@mpi-bn.mpg.de" text="Apply Now" icon="" style="button" %}
-{:.center}
+
 
 
 {% include section.html %}
