@@ -14,5 +14,6 @@ The Dierickx lab is interested in how the circadian clock drives rhythmic proces
 Projects in the lab are centered around an integrated approach combining next-generation sequencing techniques, whole-body physiology analysis in specialized mutant mouse lines and the use of in vitro cardiac models. We aim to develop cardiometabolic insufficiency treatment strategies and will use data from human patients to better understand how deregulation of the clock contributes to heart disease. Investigating how the circadian clock and its intricate connection to rhythmic metabolic programs can be deployed to tackle prevention, diagnosis and treatment of HF will be the overarching goal.
 
 
-
+{% include gallery.html style="flexbox" image1="images/Model_Dierickx_homepage.png" %}
+{:.center}
 
