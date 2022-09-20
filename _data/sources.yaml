@@ -1,10 +1,5 @@
 - id: doi:10.3389/fmmed.2022.887733
-  publisher: Frontiers Media SA
-  abstract: <jats:p>The REV-ERB nuclear receptors are key components of the circadian clock. Loss of REV-ERBs in the mouse heart causes dilated cardiomyopathy and premature lethality. This is associated with a marked reduction in NAD<jats:sup>+</jats:sup> production, but whether this plays a role in the pathophysiology of this heart failure model is not known. Here, we show that supplementation with the NAD<jats:sup>+</jats:sup> precursor NR as a dietary supplement improves heart function and extends the lifespan of female mice lacking cardiac REV-ERBs. Thus, boosting NAD<jats:sup>+</jats:sup> levels can improve cardiac function in a setting of heart failure caused by disruption of circadian clock factors, providing new insights into the links between the circadian clock, energy metabolism, and cardiac function.</jats:p>
-  type: article-journal
-  source: Crossref
   title: Nicotinamide Riboside Improves Cardiac Function and Prolongs Survival After Disruption of the Cardiomyocyte Clock
-  volume: '2'
   author:
   - given: Pieterjan
     family: Dierickx
@@ -30,14 +25,10 @@
   
   
 - id: doi:10.1038/s44161-021-00001-9
-  title: 'Circadian REV-ERBs repress'
-  volume: '1'
-  issue: '1'
-  page: 45-58
+  title: Circadian REV-ERBs repress
   container-title: Nature cardiovascular research
   container-title-short: Nat Cardiovasc Res
   ISSN: 2731-0590
-  issued:
   date: 2021-12-23
   author:
   - given: Pieterjan
@@ -99,10 +90,7 @@
   
 
 - id: doi:10.1016/j.cmet.2020.11.011
-  title: The Nuclear Receptor ESRRA Protects from Kidney Disease by Coupling Metabolism and Differentiation.
-  volume: '33'
-  issue: '2'
-  page: 379-394.e8
+  title: The Nuclear Receptor ESRRA Protects from Kidney Disease by Coupling Metabolism and Differentiation
   container-title: Cell metabolism
   container-title-short: Cell Metab
   ISSN: 1932-7420
@@ -160,7 +148,7 @@
   PMCID: PMC9259369
   DOI: 10.1016/j.cmet.2020.11.011
   abstract: Kidney disease is poorly understood because of the organ's cellular diversity. We used single-cell RNA sequencing not only in resolving differences in injured kidney tissue cellular composition but also in cell-type-specific gene expression in mouse models of kidney disease. This analysis highlighted major changes in cellular diversity in kidney disease, which markedly impacted whole-kidney transcriptomics outputs. Cell-type-specific differential expression analysis identified proximal tubule (PT) cells as the key vulnerable cell type. Through unbiased cell trajectory analyses, we show that PT cell differentiation is altered in kidney disease. Metabolism (fatty acid oxidation and oxidative phosphorylation) in PT cells showed the strongest and most reproducible association with PT cell differentiation and disease. Coupling of cell differentiation and the metabolism was established by nuclear receptors (estrogen-related receptor alpha [ESRRA] and peroxisomal proliferation-activated receptor alpha [PPARA]) that directly control metabolic and PT-cell-specific gene expression in mice and patient samples while protecting from kidney disease in the mouse model.
-  URL: https://www.ncbi.nlm.nih.gov/pubmed/33301705
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33301705
   type: article-journal
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413120306069-fx1_lrg.jpg
   tags: 
@@ -171,17 +159,13 @@
   
   
 - id: doi:10.1016/j.coph.2020.11.006
-  title: 'Cardiac circadian rhythms in time and space: The future is in 4D.'
+  title: Cardiac circadian rhythms in time and space: The future is in 4D
   volume: '57'
   page: 49-59
   container-title: Current opinion in pharmacology
   container-title-short: Curr Opin Pharmacol
   ISSN: 1471-4973
-  issued:
-    date-parts:
-    - - 2020
-      - 12
-      - 15
+  date: 2020-12-15
   author:
   - given: Nino
     family: Chirico
@@ -207,18 +191,14 @@
       - Extracellular matrix
   
 - id: doi:10.1126/science.aba8984
-  title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types.
+  title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types
   volume: '369'
   issue: '6509'
   page: 1388-1394
   container-title: Science (New York, N.Y.)
   container-title-short: Science
   ISSN: 1095-9203
-  issued:
-    date-parts:
-    - - 2020
-      - 7
-      - 30
+  date: 2020-7-30
   author:
   - given: Dongyin
     family: Guan
@@ -244,14 +224,14 @@
   PMCID: PMC7849028
   DOI: 10.1126/science.aba8984
   abstract: Most cells of the body contain molecular clocks, but the requirement of peripheral clocks for rhythmicity and their effects on physiology are not well understood. We show that deletion of core clock components REV-ERBα and REV-ERBβ in adult mouse hepatocytes disrupts diurnal rhythms of a subset of liver genes and alters the diurnal rhythm of de novo lipogenesis. Liver function is also influenced by nonhepatocytic cells, and the loss of hepatocyte REV-ERBs remodels the rhythmic transcriptomes and metabolomes of multiple cell types within the liver. Finally, alteration of food availability demonstrates the hierarchy of the cell-intrinsic hepatocyte clock mechanism and the feeding environment. Together, these studies reveal previously unsuspected roles of the hepatocyte clock in the physiological coordination of nutritional signals and cell-cell communication controlling rhythmic metabolism.
-  URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7849028/bin/nihms-1662085-f0001.jpg
 
   
   
 - id: doi:10.1073/pnas.1904226116
-- title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism.
+  title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism.
   volume: '116'
   issue: '25'
   page: 12147-12152
