@@ -534,3 +534,394 @@
   - progenitor cell
   - stem cell
   _cache: cd2378f5d72f2858b30d4664ad4839db957f35ad59723bebe4cf08f1743af1aa
+- id: doi:10.1021/acssensors.7b00239
+  title: Bright Bioluminescent BRET Sensor Proteins for Measuring Intracellular Caspase
+    Activity
+  authors:
+  - Anniek den Hamer
+  - Pieterjan Dierickx
+  - Remco Arts
+  - Joost S. P. M de Vries
+  - Luc Brunsveld
+  - Maarten Merkx
+  publisher: ACS Sensors
+  date: '2017-05-31'
+  link: https://doi.org/gbkw2t
+  container-title: ACS sensors
+  container-title-short: ACS Sens
+  ISSN: 2379-3694
+  author:
+  - given: Anniek
+    family: den Hamer
+  - given: Pieterjan
+    family: Dierickx
+  - given: Remco
+    family: Arts
+  - given: Joost S P M
+    family: de Vries
+  - given: Luc
+    family: Brunsveld
+  - given: Maarten
+    family: Merkx
+  PMID: '28670623'
+  PMCID: PMC5485374
+  DOI: 10.1021/acssensors.7b00239
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/28670623
+  type: article-journal
+  image: https://pubs.acs.org/cms/10.1021/acssensors.7b00239/asset/images/medium/se-2017-002393_0001.gif
+  tags:
+  - caspase sensor
+  - BRET
+  - NanoLuc
+  - mNeonGreen
+  - plate reader assay
+  - single-cell imaging
+  _cache: 349f0d584ec5ee42c6f4a3f39933fd425ac8c5617032100ac94a1a89b0b958cd
+- id: doi:10.15252/embr.201743897
+  title: Circadian networks in human embryonic stem cell-derived cardiomyocytes
+  authors:
+  - Pieterjan Dierickx
+  - Marit W Vermunt
+  - Mauro J Muraro
+  - Menno P Creyghton
+  - Pieter A Doevendans
+  - Alexander van Oudenaarden
+  - Niels Geijsen
+  - Linda W Van Laake
+  publisher: EMBO reports
+  date: '2017-05-23'
+  link: https://doi.org/f97xj9
+  container-title: EMBO reports
+  container-title-short: EMBO Rep
+  ISSN: 1469-3178
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Marit W
+    family: Vermunt
+  - given: Mauro J
+    family: Muraro
+  - given: Menno P
+    family: Creyghton
+  - given: Pieter A
+    family: Doevendans
+  - given: Alexander
+    family: van Oudenaarden
+  - given: Niels
+    family: Geijsen
+  - given: Linda W
+    family: Van Laake
+  PMID: '28536247'
+  PMCID: PMC5494509
+  DOI: 10.15252/embr.201743897
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/28536247
+  type: article-journal
+  image: https://www.embopress.org/cms/asset/6ea9641a-6ceb-484d-8a21-894542eff600/embr201743897-fig-0001-m.jpg
+  tags:
+  - circadian clock
+  - heart
+  _cache: b81d91f8fee4d575c8194959c17c566faa0b953faeba726eb2cc2aa6c49d33a4
+- id: doi:10.1161/circulationaha.116.024145
+  title: Defined Engineered Human Myocardium With Advanced Maturation for Applications
+    in Heart Failure Modeling and Repair
+  authors:
+  - Malte Tiburcy
+  - James E. Hudson
+  - Paul Balfanz
+  - Susanne Schlick
+  - Tim Meyer
+  - Mei-Ling Chang Liao
+  - Elif Levent
+  - Farah Raad
+  - Sebastian Zeidler
+  - Edgar Wingender
+  - Johannes Riegler
+  - Mouer Wang
+  - Joseph D. Gold
+  - Izhak Kehat
+  - Erich Wettwer
+  - Ursula Ravens
+  - Pieterjan Dierickx
+  - Linda W. van Laake
+  - Marie Jose Goumans
+  - Sara Khadjeh
+  - Karl Toischer
+  - Gerd Hasenfuss
+  - Larry A. Couture
+  - Andreas Unger
+  - Wolfgang A. Linke
+  - Toshiyuki Araki
+  - Benjamin Neel
+  - Gordon Keller
+  - Lior Gepstein
+  - Joseph C. Wu
+  - Wolfram-Hubertus Zimmermann
+  publisher: Circulation
+  date: '2017-02-06'
+  link: https://doi.org/f963m8
+  container-title: Circulation
+  container-title-short: Circulation
+  ISSN: 1524-4539
+  author:
+  - given: Malte
+    family: Tiburcy
+  - given: James E
+    family: Hudson
+  - given: Paul
+    family: Balfanz
+  - given: Susanne
+    family: Schlick
+  - given: Tim
+    family: Meyer
+  - given: Mei-Ling
+    family: Chang Liao
+  - given: Elif
+    family: Levent
+  - given: Farah
+    family: Raad
+  - given: Sebastian
+    family: Zeidler
+  - given: Edgar
+    family: Wingender
+  - given: Johannes
+    family: Riegler
+  - given: Mouer
+    family: Wang
+  - given: Joseph D
+    family: Gold
+  - given: Izhak
+    family: Kehat
+  - given: Erich
+    family: Wettwer
+  - given: Ursula
+    family: Ravens
+  - given: Pieterjan
+    family: Dierickx
+  - given: Linda W
+    family: van Laake
+  - given: Marie Jose
+    family: Goumans
+  - given: Sara
+    family: Khadjeh
+  - given: Karl
+    family: Toischer
+  - given: Gerd
+    family: Hasenfuss
+  - given: Larry A
+    family: Couture
+  - given: Andreas
+    family: Unger
+  - given: Wolfgang A
+    family: Linke
+  - given: Toshiyuki
+    family: Araki
+  - given: Benjamin
+    family: Neel
+  - given: Gordon
+    family: Keller
+  - given: Lior
+    family: Gepstein
+  - given: Joseph C
+    family: Wu
+  - given: Wolfram-Hubertus
+    family: Zimmermann
+  PMID: '28167635'
+  PMCID: PMC5501412
+  DOI: 10.1161/circulationaha.116.024145
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/28167635
+  type: article-journal
+  image: https://www.ahajournals.org/cms/asset/ed1397d0-e529-4729-82fa-6f2c0f116f94/1832fig01.jpg
+  tags:
+  - Heart Failure
+  - Engineered Human Myocardium
+  _cache: 95a94c42316146704508b50f56e37aeb60f48d2349d2f2d9e8cd532af10e87df
+- id: doi:10.1021/acschembio.6b00453
+  title: Dual Readout BRET/FRET Sensors for Measuring Intracellular Zinc
+  authors:
+  - Stijn J. A. Aper
+  - Pieterjan Dierickx
+  - Maarten Merkx
+  publisher: ACS Chemical Biology
+  date: '2016-09-01'
+  link: https://doi.org/f9c6d8
+  container-title: ACS chemical biology
+  container-title-short: ACS Chem Biol
+  ISSN: 1554-8937
+  author:
+  - given: Stijn J A
+    family: Aper
+  - given: Pieterjan
+    family: Dierickx
+  - given: Maarten
+    family: Merkx
+  PMID: '27547982'
+  PMCID: PMC5080634
+  DOI: 10.1021/acschembio.6b00453
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/27547982
+  type: article-journal
+  image: https://pubs.acs.org/cms/10.1021/acschembio.6b00453/asset/images/medium/cb-2016-004539_0007.gif
+  tags:
+  - BRET/FRET
+  _cache: b345aace43467332e8cbc63877f80ec5c2c5cc9d0c0db6617e0de75b281635bb
+- id: doi:10.1083/jcb.201601074
+  title: "Muscle-on-chip: An in vitro model for donor\u2013host cardiomyocyte coupling"
+  authors:
+  - Pieterjan Dierickx
+  - Linda W. Van Laake
+  publisher: Journal of Cell Biology
+  date: '2016-02-08'
+  link: https://doi.org/gqt4ng
+  container-title: The Journal of cell biology
+  container-title-short: J Cell Biol
+  ISSN: 1540-8140
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Linda W
+    family: Van Laake
+  PMID: '26858264'
+  PMCID: PMC4754721
+  DOI: 10.1083/jcb.201601074
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/26858264
+  type: article-journal
+  image: https://rupress.org/view-large/figure/6925064/JCB_201601074_Fig1.jpeg
+  tags:
+  - Adhesion
+  - Biophysics
+  - Cell signaling
+  - Cytoskeleton
+  - Membrane and lipid biology
+  - Physiology
+  - Stem cells
+  - Systems and Computational Biology
+  _cache: 2717e54cb7ff0afc9e4432f4d28f40ac430f412ab4e7ba870b688cf0fd4b8466
+- id: doi:10.1007/s12015-013-9458-z
+  title: Efficient ROSA26-Based Conditional and/or Inducible Transgenesis Using RMCE-Compatible
+    F1 Hybrid Mouse Embryonic Stem Cells
+  authors:
+  - Lieven Haenebalcke
+  - Steven Goossens
+  - Michael Naessens
+  - Natascha Kruse
+  - Morvarid Farhang Ghahremani
+  - Sonia Bartunkova
+  - Katharina Haigh
+  - Tim Pieters
+  - Pieterjan Dierickx
+  - Benjamin Drogat
+  - Omar Nyabi
+  - Dagmar Wirth
+  - Jody J. Haigh
+  publisher: Stem Cell Reviews and Reports
+  date: 1900-1-1
+  link: https://doi.org/f5mjfk
+  container-title: Stem cell reviews and reports
+  container-title-short: Stem Cell Rev Rep
+  ISSN: 2629-3277
+  author:
+  - given: Lieven
+    family: Haenebalcke
+  - given: Steven
+    family: Goossens
+  - given: Michael
+    family: Naessens
+  - given: Natascha
+    family: Kruse
+  - given: Morvarid
+    family: Farhang Ghahremani
+  - given: Sonia
+    family: Bartunkova
+  - given: Katharina
+    family: Haigh
+  - given: Tim
+    family: Pieters
+  - given: Pieterjan
+    family: Dierickx
+  - given: Benjamin
+    family: Drogat
+  - given: Omar
+    family: Nyabi
+  - given: Dagmar
+    family: Wirth
+  - given: Jody J
+    family: Haigh
+  PMID: '23877658'
+  DOI: 10.1007/s12015-013-9458-z
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
+  type: article-journal
+  _cache: d63de5d4ba6ffecd03a1f99becc934beb789e057b1afdbbede9bdfad3965d385
+- id: doi:10.1016/j.celrep.2013.01.016
+  title: 'The ROSA26-iPSC Mouse: A Conditional, Inducible, and Exchangeable Resource
+    for Studying Cellular (De)Differentiation'
+  authors:
+  - Lieven Haenebalcke
+  - Steven Goossens
+  - Pieterjan Dierickx
+  - Sonia Bartunkova
+  - "Jinke D\u2019Hont"
+  - Katharina Haigh
+  - Tino Hochepied
+  - Dagmar Wirth
+  - Andras Nagy
+  - "Jody\_J. Haigh"
+  publisher: Cell Reports
+  date: '2013-02-07'
+  link: https://doi.org/gqt4nh
+  container-title: Cell reports
+  container-title-short: Cell Rep
+  ISSN: 2211-1247
+  author:
+  - given: Lieven
+    family: Haenebalcke
+  - given: Steven
+    family: Goossens
+  - given: Pieterjan
+    family: Dierickx
+  - given: Sonia
+    family: Bartunkova
+  - given: Jinke
+    family: D'Hont
+  - given: Katharina
+    family: Haigh
+  - given: Tino
+    family: Hochepied
+  - given: Dagmar
+    family: Wirth
+  - given: Andras
+    family: Nagy
+  - given: Jody J
+    family: Haigh
+  PMID: '23395636'
+  DOI: 10.1016/j.celrep.2013.01.016
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
+  type: article-journal
+  image: https://www.cell.com/cms/attachment/361a00ac-07ac-4d01-98db-91755e9b131f/fx1.jpg
+  _cache: c9e43a47f606295fe45dea3ca89e0772690d2a0b9dfefa9356da82585a8fd467
+- id: doi:10.1007/s12265-012-9391-6
+  title: Embryonic Template-Based Generation and Purification of Pluripotent Stem
+    Cell-Derived Cardiomyocytes for Heart Repair
+  authors:
+  - Pieterjan Dierickx
+  - Pieter A. Doevendans
+  - Niels Geijsen
+  - Linda W. van Laake
+  publisher: Journal of Cardiovascular Translational Research
+  date: '2012-07-18'
+  link: https://doi.org/f4dpc3
+  container-title: Journal of cardiovascular translational research
+  container-title-short: J Cardiovasc Transl Res
+  ISSN: 1937-5395
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Pieter A
+    family: Doevendans
+  - given: Niels
+    family: Geijsen
+  - given: Linda W
+    family: van Laake
+  PMID: '22806916'
+  DOI: 10.1007/s12265-012-9391-6
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
+  type: article-journal
+  _cache: 1fe5d2dc7a62af85ad667d12f17dfbe3d1811aafec331c470684e995a3c87b44
