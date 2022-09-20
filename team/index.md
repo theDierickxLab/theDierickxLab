@@ -24,27 +24,27 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 {% include section.html %}
 
+{% include section.html %}
 
-<div class="feature">
-  <a class="feature_image"> flex ==$0
-    <img src="/images/Bryce.png" loading="lazy" />
-  </a>
-   <p class="feature headline">Bryce, PhD student</p>
-    <p>Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory.  She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.</p>
-
-  </div>
-</div>
-
-<div class="feature">
-  <a class="feature_image">
-    <img src="/images/headshots/zhao.png" loading="lazy" />
-  </a>
-  <div class="feature_text">
-    <p class="feature_headline">Yichao Zhao, Graduate Student</p>
-    <p>Yichao Zhao is a PhD student in the Biomedical Engineering Graduate Program and the Computational Neural Engineering Training Program at Georgia Tech and Emory.  He received his dual BS degree in Biology and Biomedical Engineering from Emory and Georgia Tech. As an undergraduate he conducted research in cancer genetics and animal biomechanics, and subsequently worked as a flow cytometry specialist at Raybiotech.  Chao returns to GT-Emory with an interest in exploring computational methods in biomedical research.  His research leverages electrophysiology, computational modeling, and control system engineering tools to study neuroplasticity in visual circuits.
-    </p>
-  </div>
-</div>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: programmer"
+%}
+{:.center}
 
 
 
