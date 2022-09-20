@@ -50,8 +50,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
   <div class="feature_text"><p class="feature_headline">Robert Lamprecht, Research Technician</p><p>Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science with a concentration in neuroscience from Wofford College. He has previously conducted research on affective disorders and spinal cord injury using rodent models.  Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be leveraged to better understand sensation and perception.</p>
 
   </div>
-
-
+</div>
 
 
 {% include section.html %}
