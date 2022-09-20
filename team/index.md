@@ -51,7 +51,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 {% include section.html %}
 
-## Funding" to "Our lab is supported by
+## Our lab is supported by
 
 {:.center}
 
