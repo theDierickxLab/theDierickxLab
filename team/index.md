@@ -27,7 +27,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
 <div class="feature">
   <a class="feature_image">
-    <img src="/images/headshots/fong.png" loading="lazy" />
+    <img src="/images/Bryce.png" loading="lazy" />
   </a>
   <div class="feature_text"><p class="feature_headline">Ming-fai Fong, Principal Investigator</p><p>Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory.  She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.</p>
 
