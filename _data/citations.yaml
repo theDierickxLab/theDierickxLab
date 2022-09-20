@@ -37,7 +37,8 @@
   - circadian clock
   _cache: fe88c07a1f7d2863b92df99e43794e6156a03f058fcfb192d8bc19bd0a35eb8f
 - id: doi:10.1038/s44161-021-00001-9
-  title: Circadian REV-ERBs repress
+  title: Circadian REV-ERBs repress E4bp4 to activate NAMPT-dependent NAD+ biosynthesis
+    and sustain cardiac function
   authors:
   - Pieterjan Dierickx
   - Kun Zhu
@@ -123,7 +124,7 @@
   - E4bp4
   - NAD+
   - circadian clock
-  _cache: 9bc1debb575ab495eb3b440452380c7836b90ad779496bff26b5e93ecffdc000
+  _cache: b25a6a1144a6bf4cf33fd3e1d48cc5517573f26d080d46490a7ccca13037f5e4
 - id: doi:10.1016/j.cmet.2020.11.011
   title: The Nuclear Receptor ESRRA Protects from Kidney Disease by Coupling Metabolism
     and Differentiation
@@ -231,8 +232,6 @@
   date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current opinion in pharmacology
-  container-title-short: Curr Opin Pharmacol
-  ISSN: 1471-4973
   author:
   - given: Nino
     family: Chirico
@@ -255,7 +254,7 @@
   - Tissue engineering
   - Clock manipulation
   - Extracellular matrix
-  _cache: 4b2cf1ae0fb95c538f47347f869c20e6ba983d7257ef8a4b82bbbff53902a45b
+  _cache: f7dca522e1c0519526433e116c6bc72536f495f7f19b5963ca40e1029eb8fda6
 - id: doi:10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver
     cell types
@@ -273,7 +272,7 @@
   publisher: Science
   date: '2020-07-30'
   link: https://doi.org/gp8ksv
-  container-title: Science (New York, N.Y.)
+  container-title: Science
   container-title-short: Science
   ISSN: 1095-9203
   author:
@@ -303,9 +302,9 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7849028/bin/nihms-1662085-f0001.jpg
-  _cache: 01f0d6cc8cde65322aa91d630a122aaba5bc01b4e7d497a2831fc59f8abb1980
+  _cache: 67ea79451c6b1bd6d095222ed2d1852a3102fe4ed80d5228e623b483a82119ed
 - id: doi:10.1073/pnas.1904226116
-  title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism
+  title: "SR9009 has REV-ERB\u2013independent effects on cell proliferation and metabolism"
   authors:
   - Pieterjan Dierickx
   - Matthew J. Emmett
@@ -344,4 +343,194 @@
   image: https://www.pnas.org/cms/10.1073/pnas.1904226116/asset/3ccb1516-a62e-4ed0-9f2d-c250da067067/assets/graphic/pnas.1904226116fig01.jpeg
   tags:
   - REV-ERB
-  _cache: c40380081a146e73941f7c63717814bde8ad44a6cc011fb0bda4c8b279621843
+  _cache: 7f52b9a171111c383e117c2986a7240dccd4fea33a686df4be0e2047be0c72af
+- id: doi:10.1016/j.stem.2018.11.018
+  title: Patient Adipose Stem Cell-Derived Adipocytes Reveal Genetic Variation that
+    Predicts Antidiabetic Drug Response
+  authors:
+  - Wenxiang Hu
+  - Chunjie Jiang
+  - Dongyin Guan
+  - Pieterjan Dierickx
+  - Rong Zhang
+  - Arden Moscati
+  - Girish N. Nadkarni
+  - David J. Steger
+  - Ruth J.F. Loos
+  - Cheng Hu
+  - Weiping Jia
+  - Raymond E. Soccio
+  - Mitchell A. Lazar
+  publisher: Cell Stem Cell
+  date: '2019-01-10'
+  link: https://doi.org/gqt4nd
+  container-title: Cell stem cell
+  container-title-short: Cell Stem Cell
+  ISSN: 1875-9777
+  author:
+  - given: Wenxiang
+    family: Hu
+  - given: Chunjie
+    family: Jiang
+  - given: Dongyin
+    family: Guan
+  - given: Pieterjan
+    family: Dierickx
+  - given: Rong
+    family: Zhang
+  - given: Arden
+    family: Moscati
+  - given: Girish N
+    family: Nadkarni
+  - given: David J
+    family: Steger
+  - given: Ruth J F
+    family: Loos
+  - given: Cheng
+    family: Hu
+  - given: Weiping
+    family: Jia
+  - given: Raymond E
+    family: Soccio
+  - given: Mitchell A
+    family: Lazar
+  PMID: '30639037'
+  PMCID: PMC6368460
+  DOI: 10.1016/j.stem.2018.11.018
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
+  type: article-journal
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S193459091830554X-fx1.jpg
+  _cache: c91f08a74ab44b2ec635fcbcf19b8ecf70e07eae097f3412bc40bd4c2b686bc5
+- id: doi:10.15252/embr.201745130
+  title: 'Circadian clocks: from stem cells to tissue homeostasis and regeneration'
+  authors:
+  - Pieterjan Dierickx
+  - Linda W Van Laake
+  - Niels Geijsen
+  publisher: EMBO reports
+  date: 1900-1-1
+  link: https://doi.org/gctvwt
+  container-title: EMBO reports
+  container-title-short: EMBO Rep
+  ISSN: 1469-3178
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Linda W
+    family: Van Laake
+  - given: Niels
+    family: Geijsen
+  PMID: '29258993'
+  PMCID: PMC5757216
+  DOI: 10.15252/embr.201745130
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
+  type: article-journal
+  image: https://www.embopress.org/cms/asset/9346f393-0bc7-421b-9664-ed7a3776bf4a/embr201745130-fig-0001-m.jpg
+  _cache: 057ddb85d7064010cf3555bc7a7fd9aec6473d18a1991f5ce89a41ba59a8a4bf
+- id: doi:10.1016/j.yjmcc.2017.08.009
+  title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in
+    the heart
+  authors:
+  - "Bastiaan C. du Pr\xE9"
+  - Pieterjan Dierickx
+  - Sandra Crnko
+  - Pieter A. Doevendans
+  - Marc A. Vos
+  - Niels Geijsen
+  - Didi Neutel
+  - Toon A.B. van Veen
+  - Linda W. van Laake
+  publisher: Journal of Molecular and Cellular Cardiology
+  date: '2017-08-18'
+  link: https://doi.org/gcg49n
+  container-title: Journal of molecular and cellular cardiology
+  container-title-short: J Mol Cell Cardiol
+  ISSN: 1095-8584
+  author:
+  - given: Bastiaan C
+    family: "du Pr\xE9"
+  - given: Pieterjan
+    family: Dierickx
+  - given: Sandra
+    family: Crnko
+  - given: Pieter A
+    family: Doevendans
+  - given: Marc A
+    family: Vos
+  - given: Niels
+    family: Geijsen
+  - given: Didi
+    family: Neutel
+  - given: Toon A B
+    family: van Veen
+  - given: Linda W
+    family: van Laake
+  PMID: '28823816'
+  DOI: 10.1016/j.yjmcc.2017.08.009
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/28823816
+  type: article-journal
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/24dd67af-e4e1-4fde-90dc-6f37149f2659/gr1.jpg
+  tags:
+  - Circadian rhythms
+  - Heart
+  - In vitro
+  - Neonatal rat cardiomyocytes
+  _cache: 8220df9dd632583976d617e703963250f3c0ced85bad26ac47caef94fe3fb502
+- id: doi:10.1016/j.stemcr.2017.07.010
+  title: SCA1 + Cells from the Heart Possess a Molecular Circadian Clock and Display
+    Circadian Oscillations in Cellular Functions
+  authors:
+  - "Bastiaan C. Du Pr\xE9"
+  - Evelyne J. Demkes
+  - Dries A.M. Feyen
+  - Pieterjan Dierickx
+  - Sandra Crnko
+  - Bart J.M. Kok
+  - Joost P.G. Sluijter
+  - Pieter A. Doevendans
+  - Marc A. Vos
+  - Toon A.B. Van Veen
+  - Linda W. Van Laake
+  publisher: Stem Cell Reports
+  date: '2017-08-10'
+  link: https://doi.org/gqt4nf
+  container-title: Stem cell reports
+  container-title-short: Stem Cell Reports
+  ISSN: 2213-6711
+  author:
+  - given: Bastiaan C
+    family: "Du Pr\xE9"
+  - given: Evelyne J
+    family: Demkes
+  - given: Dries A M
+    family: Feyen
+  - given: Pieterjan
+    family: Dierickx
+  - given: Sandra
+    family: Crnko
+  - given: Bart J M
+    family: Kok
+  - given: Joost P G
+    family: Sluijter
+  - given: Pieter A
+    family: Doevendans
+  - given: Marc A
+    family: Vos
+  - given: Toon A B
+    family: Van Veen
+  - given: Linda W
+    family: Van Laake
+  PMID: '28803917'
+  PMCID: PMC5599230
+  DOI: 10.1016/j.stemcr.2017.07.010
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/28803917
+  type: article-journal
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5599230/bin/gr1.jpg
+  tags:
+  - SCA1
+  - circadian rhythm
+  - clock
+  - heart
+  - progenitor cell
+  - stem cell
+  _cache: cd2378f5d72f2858b30d4664ad4839db957f35ad59723bebe4cf08f1743af1aa
