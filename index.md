@@ -3,10 +3,6 @@ title: Home
 ---
 
 
-#header, #footer{
-    display: none;
-}
-
 {% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}  
 
 
