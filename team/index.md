@@ -28,7 +28,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 <div class="section">
 <div class="feature">
   <a class="feature_image">
-    <img src="image/bryce.png" loading="lazy"
+    <img src="image/bryce.png" loading="lazy">
     </a>
      <a class="feature_text">
      <p class="feature_headline">Bryce, PhD student , Email: </p>
@@ -41,7 +41,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
   
  <div class="feature">
   <a class="feature_image">
-    <img src="image/bryce.png" loading="lazy"
+    <img src="image/bryce.png" loading="lazy">
     </a>
      <a class="feature_text">
      <p class="feature_headline">Bryce, PhD student, Email: </p>
@@ -53,7 +53,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
   <div class="feature">
   <a class="feature_image">
-    <img src="image/bryce.png" loading="lazy"
+    <img src="image/bryce.png" loading="lazy">
     </a>
      <a class="feature_text">
      <p class="feature_headline">Bryce, PhD student, Email: </p>
@@ -64,7 +64,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
 
    <div class="feature">
   <a class="feature_image">
-    <img src="image/bryce.png" loading="lazy"
+    <img src="image/bryce.png" loading="lazy">
     </a>
      <a class="feature_text">
      <p class="feature_headline">Bryce, PhD student</p>
