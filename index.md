@@ -14,3 +14,13 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
 {:.center}
 
 
+{%
+  include link.html
+  type="home-page"
+  icon=""
+  text="About us"
+  tooltip=""
+  link="https://kai6662.github.io/labpage/research"
+  style="button"
+%}
+{:.center}
