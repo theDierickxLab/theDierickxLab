@@ -73,6 +73,7 @@ image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
      </p>
      </div>
    </div>
+  </div>
 {:.center}
 
 
