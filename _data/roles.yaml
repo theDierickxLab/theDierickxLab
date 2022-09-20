@@ -15,8 +15,8 @@ undergrad:
   text: Undergraduate Student
 
 
-TA:
-  icon: fas fa-code
+programmer:
+  icon: fas fa-glasses
   text: Technical Assistant
 
 mascot:
