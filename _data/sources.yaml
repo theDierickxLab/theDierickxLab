@@ -219,8 +219,7 @@
   
   
 - id: doi:10.1073/pnas.1904226116
-  title: SR9009 has REV-ERB-independent effects on cell proliferation and metabolism
-  container-title: Proceedings of the National Academy of Sciences of the United States of America
+ container-title: Proceedings of the National Academy of Sciences of the United States of America
   container-title-short: Proc Natl Acad Sci U S A
   ISSN: 1091-6490
   date: 2019-5-24
@@ -541,7 +540,6 @@
       
       
 - id:  doi:10.1021/acschembio.6b00453
-  title: Dual Readout BRET/FRET Sensors for Measuring Intracellular Zinc
   container-title: ACS chemical biology
   container-title-short: ACS Chem Biol
   ISSN: 1554-8937
@@ -592,7 +590,6 @@
        
   
 - id: doi:10.1007/s12015-013-9458-z
-  title: Efficient ROSA26-based conditional and/or inducible transgenesis using RMCE-compatible F1 hybrid mouse embryonic stem cells
   container-title: Stem cell reviews and reports
   container-title-short: Stem Cell Rev Rep
   ISSN: 2629-3277
@@ -666,7 +663,6 @@
       
       
 - id: doi:10.1007/s12265-012-9391-6
-  title: Embryonic template-based generation and purification of pluripotent stem cell-derived cardiomyocytes for heart repair
   container-title: Journal of cardiovascular translational research
   container-title-short: J Cardiovasc Transl Res
   ISSN: 1937-5395
