@@ -2,14 +2,7 @@
 title: Home
 ---
 
-<html>
-<head>
-<style>
-body {
-    background-color:#202020;
-}
-</style>
-</html>
+
 
 #  <span style="color:white;font-weight:bold;font-size:2rem;">WELCOME TO OUR LAB</span>
 {:.center}
