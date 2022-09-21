@@ -3,9 +3,18 @@ title: Home
 ---
 
 
-<div>
-  background-color:black;
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #93B874;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
 
 
 <br><br><br><br>
