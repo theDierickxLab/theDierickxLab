@@ -11,7 +11,7 @@ body {
 </style>
 </html>
 
-#  <span style="color:white;font-weight:bold;font-size:2rem;text-align:center">WELCOME TO OUR LAB</span>
+#  <span style="color:white;font-weight:bold;font-size:2rem;">WELCOME TO OUR LAB</span>
 {:.center}
 
 <div>
