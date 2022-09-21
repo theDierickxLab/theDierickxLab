@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-{% include section.html background="images/Female_Rev_DKO.jpg" full='true' dark='true' %}  
+{% include section.html background="images/Oscillator_Red.png" full='true' dark='true' %}  
 
 
 #  <span style="color:black;font-weight:bold;font-size:3rem;align:center">Welcome to the Dierickx Lab</span>
@@ -16,15 +16,5 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
 </div>
 {:.center}
 
-{%
-  include link.html
-  type=""
-  icon=""
-  text="About us"
-  tooltip="https://kai6662.github.io/labpage/research/"
-  link=""
-  style="button"
-%}
-{:.center}
 
 
