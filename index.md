@@ -35,19 +35,19 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="images/1.png" style="width:100%">
+    <img src="images/1.png" style="width:50%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="images/2.png" style="width:100%">
+    <img src="images/2.png" style="width:50%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="images/3.png" style="width:100%">
+    <img src="images/3.png" style="width:50%">
     <div class="text">Caption Three</div>
   </div>
 
