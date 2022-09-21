@@ -7,19 +7,26 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-## <span style="color: blue;">Pieterjan Dierickx</span> 
+## <span style="color: blue;"></span> 
 
 <div>
 <span style="color: blue;">Independent Research Group Leader in MPI-HLR and Cardiopulmonary Institute (CPI)</span> 
 </div>
 {:.center}
 
-Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and completed his PhD in the groups of Prof. Dr. Niels Geijsen and Linda van Laake at the Hubrecht Institute (The Netherlands), where he developed stem-cell based models to study development of the circadian clock during directed cardiomyocyte differentiation. In 2017 he joined the lab of Prof. Dr. Mitchell Lazar at UPenn (US) as a Postdoctoral researcher to study the role of the circadian nuclear receptors REV-ERBα/β in the heart. Dr. Pieterjan Dierickx joined the Max Planck for Heart and Lung Research in Bad Nauheim as an independent research group leader in May, 2022 where his lab is focused on the role of circadian rhythms in cardiometabolism. 
 
-{% include gallery.html style="flexbox"
-image1="images/PJ.jpg" tooltip1="Dr. Dierickx"
-%}
-{:.center}
+
+
+
+<div class="feature">
+  <a class="feature_image">
+    <img src="/images/PJ.jpg" loading="lazy" />
+  </a>
+  <div class="feature_text"><p class="feature_headline"><span style="color: blue;">Pieterjan Dierickx<dr><dr>Independent Research Group Leader in MPI-HLR and Cardiopulmonary Institute</span>, </p><p>Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and completed his PhD in the groups of Prof. Dr. Niels Geijsen and Linda van Laake at the Hubrecht Institute (The Netherlands), where he developed stem-cell based models to study development of the circadian clock during directed cardiomyocyte differentiation. In 2017 he joined the lab of Prof. Dr. Mitchell Lazar at UPenn (US) as a Postdoctoral researcher to study the role of the circadian nuclear receptors REV-ERBα/β in the heart. Dr. Pieterjan Dierickx joined the Max Planck for Heart and Lung Research in Bad Nauheim as an independent research group leader in May, 2022 where his lab is focused on the role of circadian rhythms in cardiometabolism.</p>
+
+  </div>
+</div>
+
 
 
 {% include section.html %}
