@@ -2,13 +2,11 @@
 title: Home
 ---
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
-    background-color: #93B874;
+    background-color: black;
 }
 </style>
 </head>
