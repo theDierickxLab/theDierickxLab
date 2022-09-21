@@ -20,8 +20,6 @@ nav:
 
 
 
-{% include section.html %}
-
 <div class="feature1">
   <a class="feature_image1">
     <img src="/images/headshots/fong.png" loading="lazy" />
