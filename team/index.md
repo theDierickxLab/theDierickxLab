@@ -50,11 +50,9 @@ nav:
   
 
 
-
-  
+ {% include section.html %} 
   
 ## Our lab is supported by
-
 {:.center}
 
 {%
