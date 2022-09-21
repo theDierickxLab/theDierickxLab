@@ -8,8 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 
-
-{% include section.html %}
+><div class="section">
 
 <div class="feature1">
   <a>
@@ -46,7 +45,7 @@ nav:
   </div>
 </div>
 
-  
+</div></section><section
   
 
 
