@@ -50,13 +50,13 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
             <img src="{{ site.url }}{{ site.baseurl }}/images/2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/3.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/3.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/4.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/4.png" alt="Slide 4" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/5.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/5.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
