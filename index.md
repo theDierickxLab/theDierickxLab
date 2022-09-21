@@ -15,9 +15,6 @@ body {
 </html>
 
 
-<br><br><br>
-
-
 #  <span style="color:white;font-weight:bold;font-size:2rem;text-align:center">WELCOME TO OUR LAB</span>
 {:.center}
 
