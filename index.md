@@ -29,6 +29,7 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
 
 
 
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -44,19 +45,19 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Model_Dierickx_homepage.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/homepic1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/homepic2.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/3.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/homepic3.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/4.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/homepic5.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/5.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -68,5 +69,3 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
