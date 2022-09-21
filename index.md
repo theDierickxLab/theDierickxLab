@@ -4,11 +4,12 @@ title: Home
 
 
 {% include section.html background="" full='true' dark='true' %}  
-#    
-#
-#
-#
-#
+
+
+
+
+
+
 
 
 #  <span style="color:black;font-weight:bold;font-size:3rem;text-align:center">Welcome to the Dierickx Lab</span>
