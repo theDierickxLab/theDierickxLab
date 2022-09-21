@@ -3,7 +3,9 @@ title: Home
 ---
 
 
-{% include section.html background="" dark='false' %}  
+div {
+  background-color: rgb(0,0,0);
+}
 
 
 <br><br><br><br>
