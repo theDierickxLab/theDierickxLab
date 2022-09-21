@@ -3,9 +3,9 @@ title: Home
 ---
 
 
-div {
+<div>
   background-color: rgb(0,0,0);
-}
+</div>
 
 
 <br><br><br><br>
