@@ -9,7 +9,7 @@ title: Home
 <br><br><br><br>
 
 
-#  <span style="color:white;font-weight:bold;font-size:3rem;text-align:center">Welcome to the Dierickx Lab</span>
+#  <span style="color:white;font-weight:bold;font-size:3rem;text-align:center">WELCOME TO OUR LAB</span>
 {:.center}
 
 <div>
