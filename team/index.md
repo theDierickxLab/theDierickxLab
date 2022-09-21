@@ -9,7 +9,7 @@ nav:
 
 
 
-<div class="feature">
+<div class="feature1">
   <a class="feature_image">
     <img src="/images/PJ.jpg"/>
   </a>
@@ -22,7 +22,7 @@ nav:
 
 {% include section.html %}
 
-<div class="feature">
+<div class="feature1">
   <a class="feature_image">
     <img src="/images/headshots/fong.png" loading="lazy" />
   </a>
@@ -31,7 +31,7 @@ nav:
   </div>
 </div>
 
-<div class="feature">
+<div class="feature1">
   <a class="feature_image">
     <img src="/images/headshots/zhao.png" loading="lazy" />
   </a>
@@ -40,7 +40,7 @@ nav:
   </div>
 </div>
 
-<div class="feature">
+<div class="feature1">
   <a class="feature_image">
     <img src="/images/headshots/lamprecht.png" loading="lazy" />
   </a>
@@ -50,7 +50,6 @@ nav:
 </div>
   
   
-
 
 
 
