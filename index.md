@@ -6,7 +6,7 @@ title: Home
 {% include section.html background="" full='true' dark='false' %}  
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 #  <span style="color:white;font-weight:bold;font-size:3rem;text-align:center">Welcome to the Dierickx Lab</span>
