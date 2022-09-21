@@ -13,3 +13,12 @@ Projects in the lab are centered around an integrated approach combining next-ge
 
 We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.
 
+
+# Dierickx Lab Website
+
+This is the website of our academic research group at MPI.
+
+This website is  designed by Allen lab. It powered by Jekyll and some Bootstrap, Bootwatch. 
+
+
+Copyright Dierickx Lab. Code released under the MIT License.
