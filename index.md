@@ -4,7 +4,7 @@ title: Home
 
 
 <div>
-  background-color: rgb(0,0,0);
+  background-color:black;
 </div>
 
 
