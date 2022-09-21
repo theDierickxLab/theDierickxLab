@@ -9,11 +9,7 @@ body {
     background-color:#202020;
 }
 </style>
-</head>
-<body>
-</body>
 </html>
-
 
 #  <span style="color:white;font-weight:bold;font-size:2rem;text-align:center">WELCOME TO OUR LAB</span>
 {:.center}
