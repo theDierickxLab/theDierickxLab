@@ -7,9 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-## <span style="color: blue;"></span> 
-
-<br><br><br>
 
 
 <div class="feature">
