@@ -6,7 +6,7 @@ title: Home
 <head>
 <style>
 body {
-    background-color: black;
+    background-color: grey;
 }
 </style>
 </head>
@@ -15,7 +15,7 @@ body {
 </html>
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 #  <span style="color:white;font-weight:bold;font-size:3rem;text-align:center">WELCOME TO OUR LAB</span>
