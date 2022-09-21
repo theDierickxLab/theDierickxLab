@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 
-><div class="section">
+><div class="section1">
 
 <div class="feature1">
   <a>
@@ -45,7 +45,7 @@ nav:
   </div>
 </div>
 
-</div></section><section
+</div></section1>
   
 
 
