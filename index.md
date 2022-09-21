@@ -6,7 +6,7 @@ title: Home
 <head>
 <style>
 body {
-    background-color: grey;
+    background-color:#404040;
 }
 </style>
 </head>
