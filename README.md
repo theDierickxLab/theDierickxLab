@@ -1,5 +1,5 @@
 
-WELCOME TO DIERICKX LAB
+# WELCOME TO THE DIERICKX LAB
 
 
 Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and trying to target the circadian clock in order to treat and prevent heart diseases.
@@ -14,7 +14,6 @@ Projects in the lab are centered around an integrated approach combining next-ge
 We are looking for passionate people to join our team! Experience with animal models, cell culture and/or bioinformatic analysis of next-gen data (e.g. single nuclei RNA-seq/ATAC-seq/Cut&Run) would be a great plus.
 
 
-# Dierickx Lab Website
 
 This is the website of our academic research group at MPI.
 
