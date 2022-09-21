@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-{% include section.html background="" full='true' dark='false' %}  
+{% include section.html background="" dark='false' %}  
 
 
 <br><br><br><br>
