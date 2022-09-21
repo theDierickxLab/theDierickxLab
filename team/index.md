@@ -9,21 +9,19 @@ nav:
 
 
 
-<div class="feature1">
-  <a class="feature1_image">
+<div class="feature">
     <img src="/images/PJ.jpg" style="float:left;" />
   </a>
   <div class="feature1_text"><p class="feature1_headline"><span style="color: blue;">Pieterjan Dierickx<br><br>Independent Research Group Leader<br><br>MPI-HLR and Cardiopulmonary Institute</span>, </p><p>Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and completed his PhD in the groups of Prof. Dr. Niels Geijsen and Linda van Laake at the Hubrecht Institute (The Netherlands), where he developed stem-cell based models to study development of the circadian clock during directed cardiomyocyte differentiation. In 2017 he joined the lab of Prof. Dr. Mitchell Lazar at UPenn (US) as a Postdoctoral researcher to study the role of the circadian nuclear receptors REV-ERBα/β in the heart. Dr. Pieterjan Dierickx joined the Max Planck for Heart and Lung Research in Bad Nauheim as an independent research group leader in May, 2022 where his lab is focused on the role of circadian rhythms in cardiometabolism.</p>
-  </div>
 </div>
 
 
 
-<div class="feature1">
-  <a class="feature1_image">
+<div class="feature">
+  <a class="feature_image">
     <img src="/images/PJ.jpg" loading="lazy" />
   </a>
-  <div class="feature1_text"><p class="feature1_headline">Ming-fai Fong, Principal Investigator</p><p>Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory.  She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.</p>
+  <div class="feature_text"><p class="feature1_headline">Ming-fai Fong, Principal Investigator</p><p>Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory.  She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.</p>
 
   </div>
 </div>
