@@ -17,7 +17,7 @@ We are looking for passionate people to join our team! Experience with animal mo
 
 This is the website of our academic research group at MPI.
 
-This website is  designed by Allen lab. It powered by Jekyll and some Bootstrap, Bootwatch. 
+This website is designed by Green Lab. It powered by Jekyll and some Bootstrap, Bootwatch. 
 
 
 Copyright Dierickx Lab. Code released under the MIT License.
