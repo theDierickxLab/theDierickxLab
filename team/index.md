@@ -108,7 +108,7 @@ Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Bi
  
 {% include section.html %} 
   
-## Our lab is supported by
+# Our lab is supported by
 {:.center}
 
 {%
