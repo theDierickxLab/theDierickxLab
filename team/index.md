@@ -84,7 +84,7 @@ Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Bi
 
 {%
   include link.html
-  link="Bryce.Carpenter@mpi-bn.mpg.de"
+  link="ankita.jha@mpi-bn.mpg.de"
   type="email"
   icon=""
   text="Email"
@@ -96,8 +96,8 @@ Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Bi
 
 {%
   include feature.html
-  image="images/Bryce.png"
-  title="Bryce Carpenter  |  PhD student"
+  image="images/Ankita.png"
+  title="Ankita Jha  |  Technical assistant"
   flip=true
   text=text
 %}
