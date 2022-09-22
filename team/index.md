@@ -48,23 +48,14 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 {%
   include feature.html
   image="images/Bryce.png"
-  link=""
-  title="Bryce"
+  link="Bryce.Carpenter@mpi-bn.mpg.de"
+  title="Bryce Carpenter  |  PhD student"
   flip=true
   text=text
 %}
 
 {% capture text %}
-I am Ankita from a small lovely town Darbhanga ( India) and pursued my bachelor’s degree in Jaipur
-( India) where I studied Biotechnology. I also finished my master’s degree from Technical University
-Dresden ( Germany) in the field of Molecular Bioengineering. In my master’s studies, I worked on
-Amyotrophic Lateral Sclerosis diseases and included the characterization of neurons using different
-molecular markers using iPSCs as a model. I also worked in MPI-CBG, Dresden as a Research
-Assistant and worked on brain organoids and successfully differentiated cardiomyocytes. I started
-enjoying more with cardiac cells more and could not stop thinking about how using stem cells as a
-model we could find some insights to unravel the molecular mechanisms in cardiac arrest. So, here I
-am! I am happy to be a part of Pieterjan’s group. Besides Science, I love dancing and cooking and still
-dream to become a star in a movie where I would play a smart Scientist.
+Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
 
 {%
   include link.html
@@ -78,9 +69,9 @@ dream to become a star in a movie where I would play a smart Scientist.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Kai.jpg"
   link="email"
-  title="Ankita"
+  title="Kai Cui  |  PhD student"
   text=text
 %}
 
