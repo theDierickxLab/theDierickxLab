@@ -2,7 +2,7 @@
 title: Home
 ---
 
-
+{% include section.html background="/images/Oscillator_Black-01.png" full='true' dark='true' %} 
 
 #  <span style="color:white;font-weight:bold;font-size:2rem;">WELCOME TO OUR LAB</span>
 {:.center}
