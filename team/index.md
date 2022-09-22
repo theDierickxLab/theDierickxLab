@@ -89,7 +89,7 @@ dream to become a star in a movie where I would play a smart Scientist.
 
   
 
- {% include section.html %} 
+{% include section.html %} 
   
 ## Our lab is supported by
 {:.center}
