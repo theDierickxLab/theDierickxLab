@@ -29,7 +29,7 @@ Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and 
 {%
   include feature.html
   image="images/PJ.jpg"
-  title="<span style="color: blue;">Pieterjan Dierickx<br>Independent Research Group Leader<br>MPI-HLR and Cardiopulmonary Institute</span>"
+  title="Pieterjan Dierickx<br>Independent Research Group Leader<br>MPI-HLR and Cardiopulmonary Institute"
   text=text
 %}
 
