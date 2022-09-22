@@ -57,7 +57,7 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 %}
 
 {% capture text %}
-Kai studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
+Kai studied the genome and evolution of an endangered bird endemic to China for her master's degree in bioinformatics at Sichuan University. She started enjoying cardiovascular research when she was working on GWAS and single cell analyses at UMCU in the Netherlands.  She is curious about everything around her. She loves to travel and adventure. After obtaining her Scuba Diving license she is now learning to solo skydive and in the future she would like to learn to fly light aircraft. But she doesn't like learning English.
 
 {%
   include link.html
