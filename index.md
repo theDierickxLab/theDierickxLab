@@ -1,17 +1,6 @@
 ---
 title: Home
 ---
-<html>
-<head>
-<style>
-body {
-    background-color:#202020;
-}
-</style>
-</head>
-<body>
-</body>
-</html>
 
 
 
