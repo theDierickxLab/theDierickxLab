@@ -78,7 +78,6 @@ Kai studied at the University of Pennsylvania for a B.A. in Cellular and Molecul
   text=text
 %}
 
-
 {% capture text %}
 Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Biotechnology) in Jaipur (India) and a master’s degree from Technical University Dresden ( Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how using stem cells as a model we could find some insights to unravel the molecular mechanisms in cardiac arrest. Besides Science, she loves dancing and cooking and still dreams to become a star in a movie where she would play a smart Scientist
 
@@ -103,8 +102,7 @@ Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Bi
 
 
 
-  
-
+ 
 {% include section.html %} 
   
 ## Our lab is supported by
