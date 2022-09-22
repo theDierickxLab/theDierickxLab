@@ -12,7 +12,6 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
   </span> 
 </div>
 
-<br>
 
 <head>
  <!-- Start WOWSlider.com HEAD section -->
