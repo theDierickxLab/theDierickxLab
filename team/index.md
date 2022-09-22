@@ -16,9 +16,11 @@ Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and 
 
 {%
   include link.html
-  link="home-page"
+  link="https://imprs-mob.mpg.de/147641/Pieterjan-Dierickx"
+  type="home-page"
   text="Home Page"
-  icon="fas fa-arrow-right"
+  icon=""
+  style="button"
   flip=true
 %}
 {:.center}
@@ -27,8 +29,7 @@ Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and 
 {%
   include feature.html
   image="images/PJ.jpg"
-  link=""
-  title="Dr. Dierickx"
+  title="Dierickx Pieterjan Dierickx <br> Independent Research Group Leader <br> MPI-HLR and Cardiopulmonary Institute (CPI)"
   text=text
 %}
 
@@ -37,9 +38,11 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 
 {%
   include link.html
-  link="email"
+  link="Bryce.Carpenter@mpi-bn.mpg.de"
+  type="email"
+  icon=""
   text="Email"
-  icon="fas fa-arrow-right"
+  style="button"
   flip=true
 %}
 {:.center}
@@ -48,20 +51,21 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 {%
   include feature.html
   image="images/Bryce.png"
-  link="Bryce.Carpenter@mpi-bn.mpg.de"
   title="Bryce Carpenter  |  PhD student"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
+Kai studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
 
 {%
   include link.html
-  link="email"
+  type="email"
+  icon=""
   text="Email"
-  icon="fas fa-arrow-right"
+  link="kai.cui@mpi-bn.mpg.de"
+  style="button"
   flip=true
 %}
 {:.center}
@@ -70,11 +74,32 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 {%
   include feature.html
   image="images/Kai.jpg"
-  link="email"
   title="Kai Cui  |  PhD student"
   text=text
 %}
 
+
+{% capture text %}
+Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Biotechnology) in Jaipur (India) and a master’s degree from Technical University Dresden ( Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how using stem cells as a model we could find some insights to unravel the molecular mechanisms in cardiac arrest. Besides Science, she loves dancing and cooking and still dreams to become a star in a movie where she would play a smart Scientist
+
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email"
+  link="kai.cui@mpi-bn.mpg.de"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Ankita.png"
+  title="Ankita Jha  |  Technical Assistant"
+  text=text
+%}
 
 
 
