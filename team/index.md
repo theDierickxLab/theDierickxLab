@@ -8,44 +8,78 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 
-<div class="section1">
-
-<div class="feature1">
-  <a class="feature1_image">
-    <img src="/labpage/images/PJ.jpg" loading="lazy"  />
-  </a>
-  <div class="feature1_text"><p class="feature1_headline"><span style="color: blue;">Pieterjan Dierickx<br><br>Independent Research Group Leader<br><br>MPI-HLR and Cardiopulmonary Institute</span>, </p><p>Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and completed his PhD in the groups of Prof. Dr. Niels Geijsen and Linda van Laake at the Hubrecht Institute (The Netherlands), where he developed stem-cell based models to study development of the circadian clock during directed cardiomyocyte differentiation. In 2017 he joined the lab of Prof. Dr. Mitchell Lazar at UPenn (US) as a Postdoctoral researcher to study the role of the circadian nuclear receptors REV-ERBα/β in the heart. Dr. Pieterjan Dierickx joined the Max Planck for Heart and Lung Research in Bad Nauheim as an independent research group leader in May, 2022 where his lab is focused on the role of circadian rhythms in cardiometabolism.</p>
-</div>
+{% include section.html %}
 
 
-<div class="feature1">
-  <a class="feature1_image">
-    <img src="/labpage/images/PJ.jpg" loading="lazy" />
-  </a>
-  <div class="feature1_text"><p class="feature1_headline">Ming-fai Fong, Principal Investigator</p><p>Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory.  She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University.  She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.</p>
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-  </div>
-</div>
+{%
+  include link.html
+  link="research"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
 
-<div class="feature1">
-  <a class="feature1_image">
-    <img src="/labpage/images/PJ.jpg" loading="lazy" />
-  </a>
-  <div class="feature1_text"><p class="feature1_headline">Yichao Zhao, Graduate Student</p><p>Yichao Zhao is a PhD student in the Biomedical Engineering Graduate Program and the Computational Neural Engineering Training Program at Georgia Tech and Emory.  He received his dual BS degree in Biology and Biomedical Engineering from Emory and Georgia Tech. As an undergraduate he conducted research in cancer genetics and animal biomechanics, and subsequently worked as a flow cytometry specialist at Raybiotech.  Chao returns to GT-Emory with an interest in exploring computational methods in biomedical research.  His research leverages electrophysiology, computational modeling, and control system engineering tools to study neuroplasticity in visual circuits.</p>
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
 
-  </div>
-</div>
+{% capture text %}
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<div class="feature1">
-  <a class="feature1_image">
-    <img src="/labpage/images/PJ.jpg" loading="lazy" />
-  </a>
-  <div class="feature1_text"><p class="feature1_headline">Robert Lamprecht, Research Technician</p><p>Robert Lamprecht is a research technician in the Department of Biomedical Engineering at Georgia Tech. He received his BS in Computer Science with a concentration in neuroscience from Wofford College. He has previously conducted research on affective disorders and spinal cord injury using rodent models.  Rob is interested in neural networks, artificial intelligence, and brain-computer interfaces, and how these tools can be leveraged to better understand sensation and perception.</p>
+{%
+  include link.html
+  link="tools"
+  text="Browse our tools"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
 
-  </div>
-</div>
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Our Resources"
+  flip=true
+  text=text
+%}
 
-</div>
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+
+
+
   
 
 
