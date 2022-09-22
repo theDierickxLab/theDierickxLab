@@ -57,7 +57,7 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 %}
 
 {% capture text %}
-Kai studied the genome and evolution of an endangered bird endemic to China for her master's degree in bioinformatics at Sichuan University. She started enjoying cardiovascular research when she was working on GWAS and single cell analyses at UMCU in the Netherlands.  She is curious about everything around her. She loves to travel and adventure. After obtaining her Scuba Diving license she is now learning to solo skydive and in the future she would like to learn to fly light aircraft. But she doesn't like learning English.
+Kai studied the genomics and evolution of endangered animals for her master's degree in bioinformatics at Sichuan University. She started enjoying cardiovascular research when she was working on GWAS and single cell analyses at UMCU in the Netherlands.  She is curious about everything around her. She loves to travel and adventure. After obtaining her Scuba Diving license she is now learning to solo skydive and in the future she would like to learn to fly light aircraft. But she doesn't like learning English.
 
 {%
   include link.html
@@ -80,7 +80,7 @@ Kai studied the genome and evolution of an endangered bird endemic to China for 
 
 
 {% capture text %}
-Ankita is from a small lovely town Darbhanga ( India). She obtained B. Tech ( Biotechnology) in Jaipur (India) and a master’s degree from Technical University Dresden ( Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how using stem cells as a model we could find some insights to unravel the molecular mechanisms in cardiac arrest. Besides Science, she loves dancing and cooking and still dreams to become a star in a movie where she would play a smart Scientist
+Ankita is from a small lovely town Darbhanga (India). She obtained B. Tech (Biotechnology)in Jaipur (India) and a master’s degree from Technical University Dresden (Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how using stem cells as a model we could find some insights to unravel the molecular mechanisms in cardiac arrest. Besides Science, she loves dancing and cooking and still dreams to become a star in a movie where she would play a smart Scientist
 
 {%
   include link.html
