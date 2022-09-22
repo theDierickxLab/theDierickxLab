@@ -2,7 +2,6 @@
 title: Home
 ---
 
-{% include section.html background="" full='true' dark='true' %} 
 
 #  <span style="color:white;font-weight:bold;font-size:2rem;">WELCOME TO OUR LAB</span>
 {:.center}
@@ -13,8 +12,7 @@ Circadian rhythms coordinate many different aspects of behavior and physiology (
   </span> 
 </div>
 
-
-{% include section.html background="" full='true' dark='true' %} 
+<br><br>
 
 <head>
   <!-- Start WOWSlider.com HEAD section -->
