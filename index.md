@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-## <span style="color:white;">WELCOME TO the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
+## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism (CRC)</span>
 {:.center}
 
 <div>
