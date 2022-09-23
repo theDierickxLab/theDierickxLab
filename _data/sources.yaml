@@ -679,13 +679,9 @@
   type: article-journal
   
 - id: doi:10.1007/978-3-319-25427-2_5
-  authors:
-  - Pieterjan Dierickx
-  - Pieter A. Doevendans
-  - Niels Geijsen
-  - Linda W. van Laake
-  publisher: Stem Cell Biology and Regenerative Medicine
+  container-title: Stem Cell Biology and Regenerative Medicine 
   date: 2015-12-18
+  author:
   - given: Pieterjan
     family: Dierickx
   - given: Pieter A
