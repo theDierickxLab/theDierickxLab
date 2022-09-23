@@ -678,8 +678,31 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
   
-
-  
+ - id: doi:10.1007/978-3-319-25427-2_5
+  authors:
+  - Pieterjan Dierickx
+  - Pieter A. Doevendans
+  - Niels Geijsen
+  - Linda W. van Laake
+  publisher: Stem Cell Biology and Regenerative Medicine
+  date: '2015-12-18'
+  - given: Pieterjan
+    family: Dierickx
+  - given: Pieter A
+    family: Doevendans
+  - given: Niels
+    family: Geijsen
+  - given: Linda W
+    family: van Laake
+  - given: Bastiaan D
+    family: Pré
+  - given: Toon
+    family: van Veen
+  - given: Dries A. M.
+    family: Feyen  
+  DOI: 10.1007/978-3-319-25427-2_5
+  URL: https://link.springer.com/chapter/10.1007/978-3-319-25427-2_5
+  type: article-journal
    
 
 
