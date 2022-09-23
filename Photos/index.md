@@ -6,3 +6,5 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Photos
+
+{% include photos.html %}
