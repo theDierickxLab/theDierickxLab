@@ -34,7 +34,7 @@ We are located on the 1st floor of the Max Planck Institute for Heart and Lung R
   icon=""
   text="Home Page"
   tooltip=""
-  link="https://imprs-mob.mpg.de/147641/Pieterjan-Dierickx"
+  link="https://www.mpi-hlr.de/circadian-regulation-of-cardiometabolism"
   style="button"
 %}
 {:.center}
