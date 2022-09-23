@@ -58,6 +58,7 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 
 {% capture text %}
 Kai studied the genomics and evolution of endangered animals for her master's degree in bioinformatics at Sichuan University. She started enjoying cardiovascular research when she was working on GWAS and single cell analyses at UMCU in the Netherlands.  She is curious about everything around her. She loves to travel and adventure. After obtaining her Scuba Diving license she is now learning to solo skydive and in the future she would like to learn to fly light aircraft. 
+
 {%
   include link.html
   type="email"
