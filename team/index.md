@@ -80,7 +80,7 @@ Kai studied the genomics and evolution of endangered animals for her master's de
 
 
 {% capture text %}
-Ankita is from a small lovely town Darbhanga (India). She obtained B. Tech (Biotechnology)in Jaipur (India) and a master’s degree from Technical University Dresden (Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how using stem cells as a model we could find some insights to unravel the molecular mechanisms in cardiac arrest. Besides Science, she loves dancing and cooking and still dreams to become a star in a movie where she would play a smart Scientist
+Ankita comes from a small lovely town Darbhanga in India. She obtained her bachelor’s in Biotechnology in Jaipur (India) and her master’s degree from the Technical University Dresden (Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how to use stem cells as a model to gain some insights into the underlying molecular mechanisms of cardiac arrest. Besides science, she loves dancing, cooking, and still dreams of becoming a star in a movie where she would play a smart scientist.
 
 {%
   include link.html
