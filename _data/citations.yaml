@@ -923,7 +923,6 @@
   DOI: doi:10.1007/978-3-319-25427-2_5
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
-  _cache: 1fe5d2dc7a62af85ad667d12f17dfbe3d1811aafec331c470684e995a3c87b44
  - id: doi:10.1007/s12265-012-9391-6
   title: Embryonic Template-Based Generation and Purification of Pluripotent Stem
     Cell-Derived Cardiomyocytes for Heart Repair
@@ -933,7 +932,7 @@
   - Niels Geijsen
   - Linda W. van Laake
   publisher: Journal of Cardiovascular Translational Research
-  date: '2012-07-18'
+  date: '2015-12-18'
   link: https://doi.org/f4dpc3
   container-title: Journal of cardiovascular translational research
   container-title-short: J Cardiovasc Transl Res
