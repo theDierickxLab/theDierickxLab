@@ -3,11 +3,11 @@ title: Home
 ---
 
 
-#  <span style="color:white;font-weight:bold;font-size:2rem;">WELCOME TO OUR LAB</span>
+#  <span style="color:white;">WELCOME TO OUR LAB</span>
 {:.center}
 
 <div>
-  <span style="color:white;font-size:1.2rem;font-family:Times New Roman;">
+  <span style="color:white;">
 Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and trying to target the circadian clock in order to treat and prevent heart diseases.
   </span> 
 </div>
