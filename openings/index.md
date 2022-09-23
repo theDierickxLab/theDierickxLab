@@ -18,4 +18,4 @@ We are always on the lookout for passionate people! Students and postdoctoral re
 {:.center}
 
 
-{% include gallery.html style="flexbox" image1="images/people.jpg" %} {:.center}
+{% include gallery.html style="flexbox" image1="images/people.png" %} {:.center}
