@@ -17,3 +17,5 @@ We are always on the lookout for passionate people! Students and postdoctoral re
 {% include link.html type="email" link="pieterjan.dierickx@mpi-bn.mpg.de" text="Apply Now" icon="" style="button" %}
 {:.center}
 
+
+{% include gallery.html style="flexbox" image1="images/people.png" %} {:.center}
