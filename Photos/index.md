@@ -1,7 +1,7 @@
 ---
 title: Photos
 nav:
-  order: 4
+  order: 6
   tooltip: Fun time 
 ---
 
