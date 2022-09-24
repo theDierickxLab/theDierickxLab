@@ -16,7 +16,7 @@
   container-title: Frontiers in Molecular Medicine
   date: 2022-5-9
   URL: https://doi.org/gqt4c9
-  image: /web/images/Kai.jpg
+  image: https://github.com/theDierickxLab/web/blob/main/images/Kai.jpg
   tags: 
       - REV-ERB
       - Cardiomyocyte Clock
