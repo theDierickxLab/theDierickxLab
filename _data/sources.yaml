@@ -704,7 +704,7 @@
   type: article-journal
   image: /publications_images/2016_Dierickx.gif.png
   
-  - id: doi:10.1152/ajpcell.00239.2022
+- id: doi:10.1152/ajpcell.00239.2022
   date: 2022-09-05
   author:
   - given: Pieterjan
