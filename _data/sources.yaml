@@ -16,7 +16,7 @@
   container-title: Frontiers in Molecular Medicine
   date: 2022-5-9
   URL: https://doi.org/gqt4c9
-  image: /images/Kai.jpg
+  image: /publications_images/2022_Dierickx_et_al_Frontiers.png
   tags: 
       - REV-ERB
       - Cardiomyocyte Clock
@@ -79,7 +79,7 @@
   DOI: 10.1038/s44161-021-00001-9
   URL: https://www.ncbi.nlm.nih.gov/pubmed/35036997
   type: article-journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8754391/bin/nihms-1749811-f0008.jpg
+  image: /publications_images/2022_Dierickx_NCVR.png
   tags: 
       - REV-ERB
       - E4bp4
@@ -147,7 +147,7 @@
   DOI: 10.1016/j.cmet.2020.11.011
   URL: https://www.ncbi.nlm.nih.gov/pubmed/33301705
   type: article-journal
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413120306069-fx1_lrg.jpg
+  image: /publications_images/2021_Dhillon_Cell_Metabolism.jpeg
   tags: 
       - PT cell differentiation
       - ESRRA protects
@@ -173,6 +173,7 @@
   DOI: 10.1016/j.coph.2020.11.006
   URL: https://www.ncbi.nlm.nih.gov/pubmed/33338891
   type: article-journal
+  image: /publications_images/2021_Chirico_Dierickx_CoPHARM.png
   tags: 
       - Circadian rhythms
       - Regeneration 
@@ -213,7 +214,7 @@
   DOI: 10.1126/science.aba8984
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7849028/bin/nihms-1662085-f0001.jpg
+  image: /publications_images/2020_Guan.jpeg
 
   
   
@@ -242,7 +243,7 @@
   DOI: 10.1073/pnas.1904226116
   URL: https://www.ncbi.nlm.nih.gov/pubmed/31127047
   type: article-journal
-  image: https://www.pnas.org/cms/10.1073/pnas.1904226116/asset/3ccb1516-a62e-4ed0-9f2d-c250da067067/assets/graphic/pnas.1904226116fig01.jpeg
+  image: /publications_images/2019_Dierickx_PNAS.png
   tags: 
       - REV-ERB
  
@@ -284,7 +285,7 @@
   DOI: 10.1016/j.stem.2018.11.018
   URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
   type: article-journal
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S193459091830554X-fx1.jpg
+  image: /publications_images/2019_Hu_Cell_Stem_Cell.jpeg
  
  
 - id: doi:10.15252/embr.201745130
@@ -304,7 +305,7 @@
   DOI: 10.15252/embr.201745130
   URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
-  image: https://www.embopress.org/cms/asset/9346f393-0bc7-421b-9664-ed7a3776bf4a/embr201745130-fig-0001-m.jpg
+  image: /publications_images/2018_Dierickx_EMBO_Reports.png
 
      
 - id: doi:10.1016/j.yjmcc.2017.08.009
@@ -336,7 +337,7 @@
   DOI: 10.1016/j.yjmcc.2017.08.009
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28823816
   type: article-journal
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/24dd67af-e4e1-4fde-90dc-6f37149f2659/gr1.jpg
+  image: /publications_images/2017_Dupre_JMCC.png
   tags: 
       - Circadian rhythms
       - Heart
@@ -377,7 +378,7 @@
   DOI: 10.1016/j.stemcr.2017.07.010
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28803917
   type: article-journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5599230/bin/gr1.jpg
+  image: /publications_images/2017_Dupre_Stem_Cell_Reports.png
   tags: 
       - SCA1
       - circadian rhythm
@@ -410,7 +411,7 @@
   DOI: 10.1021/acssensors.7b00239
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28670623
   type: article-journal
-  image: https://pubs.acs.org/cms/10.1021/acssensors.7b00239/asset/images/medium/se-2017-002393_0001.gif
+  image: /publications_images/2017_DenHamer.gif
   tags: 
        - caspase sensor
        - BRET 
@@ -449,7 +450,7 @@
   DOI: 10.15252/embr.201743897
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28536247
   type: article-journal
-  image: https://www.embopress.org/cms/asset/6ea9641a-6ceb-484d-8a21-894542eff600/embr201743897-fig-0001-m.jpg
+  image: /publications_images/2017_Dierickx_EMBO_Reports.jpg
   tags: 
       - circadian clock
       - heart
@@ -529,7 +530,7 @@
   DOI: 10.1161/circulationaha.116.024145
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28167635
   type: article-journal
-  image: https://www.ahajournals.org/cms/asset/ed1397d0-e529-4729-82fa-6f2c0f116f94/1832fig01.jpg
+  image: /publications_images/2017_Tiburcy.png
   tags: 
       - Heart Failure
       - Engineered Human Myocardium
@@ -553,7 +554,7 @@
   DOI: 10.1021/acschembio.6b00453
   URL: https://www.ncbi.nlm.nih.gov/pubmed/27547982
   type: article-journal
-  image: https://pubs.acs.org/cms/10.1021/acschembio.6b00453/asset/images/medium/cb-2016-004539_0007.gif
+  image: /publications_images/2016_Aper.jpeg
   tags: 
      - BRET/FRET
 
@@ -573,7 +574,7 @@
   DOI: 10.1083/jcb.201601074
   URL: https://www.ncbi.nlm.nih.gov/pubmed/26858264
   type: article-journal
-  image: https://rupress.org/view-large/figure/6925064/JCB_201601074_Fig1.jpeg
+  image: /publications_images/2016_Dierickx_JCB.jpeg 
   tags: 
        - Adhesion
        - Biophysics 
@@ -620,6 +621,7 @@
     family: Haigh
   PMID: '23877658'
   DOI: 10.1007/s12015-013-9458-z
+  image: /publications_images/2013_Haenebalcke.png
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
   type: article-journal
   
@@ -655,7 +657,7 @@
   DOI: 10.1016/j.celrep.2013.01.016
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
   type: article-journal
-  image: https://www.cell.com/cms/attachment/361a00ac-07ac-4d01-98db-91755e9b131f/fx1.jpg
+  image: /publications_images/2013_Haenebalcke_Cell_Reports.jpeg
 
       
       
@@ -677,6 +679,7 @@
   DOI: 10.1007/s12265-012-9391-6
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
+  image: /publications_images/2013_Dierickx.gif.png
   
 - id: doi:10.1007/978-3-319-25427-2_5
   container-title: Stem Cell Biology and Regenerative Medicine 
@@ -699,6 +702,18 @@
   DOI: 10.1007/978-3-319-25427-2_5
   URL: https://link.springer.com/chapter/10.1007/978-3-319-25427-2_5
   type: article-journal
-   
+  image: /publications_images/2016_Dierickx.gif.png
+  
+  - id: doi:10.1152/ajpcell.00239.2022
+  date: 2022-09-05
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Bryce J.
+    family: Carpenter
+  DOI: DOI: 10.1152/ajpcell.00239.2022
+  URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00239.2022
+  type: article-journal
+  image: /publications_images/Graphical_abstract.png
 
 
