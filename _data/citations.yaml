@@ -29,13 +29,13 @@
     family: Lazar
   container-title: Frontiers in Molecular Medicine
   URL: https://doi.org/gqt4c9
-  image: /images/Kai.jpg
+  image: /publications_images/2022_Dierickx_et_al_Frontiers.png
   tags:
   - REV-ERB
   - Cardiomyocyte Clock
   - NAD+
   - circadian clock
-  _cache: 15bf60232edfa2e568a967e348311ebfadc29364c681ae3f1cfb5ce80fd56f36
+  _cache: e083fc98f7af6de6362a4332b45f9a0b8b06eb603de3a4b2c158d5bd5f5eccaa
 - id: doi:10.1038/s44161-021-00001-9
   title: Circadian REV-ERBs repress E4bp4 to activate NAMPT-dependent NAD+ biosynthesis
     and sustain cardiac function
@@ -118,13 +118,13 @@
   DOI: 10.1038/s44161-021-00001-9
   URL: https://www.ncbi.nlm.nih.gov/pubmed/35036997
   type: article-journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8754391/bin/nihms-1749811-f0008.jpg
+  image: /publications_images/2022_Dierickx_NCVR.png
   tags:
   - REV-ERB
   - E4bp4
   - NAD+
   - circadian clock
-  _cache: b25a6a1144a6bf4cf33fd3e1d48cc5517573f26d080d46490a7ccca13037f5e4
+  _cache: ac6a860b0e043031cbb40bd23d8288cc74ffc34dff02307e068b521d3868b198
 - id: doi:10.1016/j.cmet.2020.11.011
   title: The Nuclear Receptor ESRRA Protects from Kidney Disease by Coupling Metabolism
     and Differentiation
@@ -213,13 +213,13 @@
   DOI: 10.1016/j.cmet.2020.11.011
   URL: https://www.ncbi.nlm.nih.gov/pubmed/33301705
   type: article-journal
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413120306069-fx1_lrg.jpg
+  image: /publications_images/2021_Dhillon_Cell_Metabolism.jpeg
   tags:
   - PT cell differentiation
   - ESRRA protects
   - Kidney Disease
   - scRNA-seq analysis
-  _cache: 2e95ef9f89d434fe415689fd3134b041542a9fd2d36a9174da2f28cbbcb45533
+  _cache: e1c97ff560507a8be71e02ae17f56d9a66cda6560c0c93a034b39a6946a736ab
 - id: doi:10.1016/j.coph.2020.11.006
   title: 'Cardiac circadian rhythms in time and space: The future is in 4D'
   authors:
@@ -247,6 +247,7 @@
   DOI: 10.1016/j.coph.2020.11.006
   URL: https://www.ncbi.nlm.nih.gov/pubmed/33338891
   type: article-journal
+  image: /publications_images/2021_Chirico_Dierickx_CoPHARM.png
   tags:
   - Circadian rhythms
   - Regeneration
@@ -254,7 +255,7 @@
   - Tissue engineering
   - Clock manipulation
   - Extracellular matrix
-  _cache: f7dca522e1c0519526433e116c6bc72536f495f7f19b5963ca40e1029eb8fda6
+  _cache: be2012edba5123203a5c15f939576a56e2fac0b0f2c607e52f4ed4833728d617
 - id: doi:10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver
     cell types
@@ -301,8 +302,8 @@
   DOI: 10.1126/science.aba8984
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7849028/bin/nihms-1662085-f0001.jpg
-  _cache: 67ea79451c6b1bd6d095222ed2d1852a3102fe4ed80d5228e623b483a82119ed
+  image: /publications_images/2020_Guan.jpeg
+  _cache: 5397635f72052390abc48a42fbbf789485b256de4ed802cc6d169a35eec56514
 - id: doi:10.1073/pnas.1904226116
   title: "SR9009 has REV-ERB\u2013independent effects on cell proliferation and metabolism"
   authors:
@@ -340,10 +341,10 @@
   DOI: 10.1073/pnas.1904226116
   URL: https://www.ncbi.nlm.nih.gov/pubmed/31127047
   type: article-journal
-  image: https://www.pnas.org/cms/10.1073/pnas.1904226116/asset/3ccb1516-a62e-4ed0-9f2d-c250da067067/assets/graphic/pnas.1904226116fig01.jpeg
+  image: /publications_images/2019_Dierickx_PNAS.png
   tags:
   - REV-ERB
-  _cache: 7f52b9a171111c383e117c2986a7240dccd4fea33a686df4be0e2047be0c72af
+  _cache: 7a19f0ab9da743b7866f7183489e758213b700056a26e2d898a3a60f3512ae1a
 - id: doi:10.1016/j.stem.2018.11.018
   title: Patient Adipose Stem Cell-Derived Adipocytes Reveal Genetic Variation that
     Predicts Antidiabetic Drug Response
@@ -399,8 +400,8 @@
   DOI: 10.1016/j.stem.2018.11.018
   URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
   type: article-journal
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S193459091830554X-fx1.jpg
-  _cache: c91f08a74ab44b2ec635fcbcf19b8ecf70e07eae097f3412bc40bd4c2b686bc5
+  image: /publications_images/2019_Hu_Cell_Stem_Cell.jpeg
+  _cache: c9de7ce8f0015875095d8bc5a93e017a51680d96cd815da3d8b4d8452c455c41
 - id: doi:10.15252/embr.201745130
   title: 'Circadian clocks: from stem cells to tissue homeostasis and regeneration'
   authors:
@@ -425,8 +426,8 @@
   DOI: 10.15252/embr.201745130
   URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
-  image: https://www.embopress.org/cms/asset/9346f393-0bc7-421b-9664-ed7a3776bf4a/embr201745130-fig-0001-m.jpg
-  _cache: 057ddb85d7064010cf3555bc7a7fd9aec6473d18a1991f5ce89a41ba59a8a4bf
+  image: /publications_images/2018_Dierickx_EMBO_Reports.png
+  _cache: 008ad735743d8e6f377d34ea5d74f247b83a23cdc049ea25140912b8fd95b75e
 - id: doi:10.1016/j.yjmcc.2017.08.009
   title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in
     the heart
@@ -469,13 +470,13 @@
   DOI: 10.1016/j.yjmcc.2017.08.009
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28823816
   type: article-journal
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/24dd67af-e4e1-4fde-90dc-6f37149f2659/gr1.jpg
+  image: /publications_images/2017_Dupre_JMCC.png
   tags:
   - Circadian rhythms
   - Heart
   - In vitro
   - Neonatal rat cardiomyocytes
-  _cache: 8220df9dd632583976d617e703963250f3c0ced85bad26ac47caef94fe3fb502
+  _cache: 2a61c106bcdcb609159c7e0ef29a496692754e02e033a0799469ad44a25c727e
 - id: doi:10.1016/j.stemcr.2017.07.010
   title: SCA1 + Cells from the Heart Possess a Molecular Circadian Clock and Display
     Circadian Oscillations in Cellular Functions
@@ -525,7 +526,7 @@
   DOI: 10.1016/j.stemcr.2017.07.010
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28803917
   type: article-journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5599230/bin/gr1.jpg
+  image: /publications_images/2017_Dupre_Stem_Cell_Reports.png
   tags:
   - SCA1
   - circadian rhythm
@@ -533,7 +534,7 @@
   - heart
   - progenitor cell
   - stem cell
-  _cache: cd2378f5d72f2858b30d4664ad4839db957f35ad59723bebe4cf08f1743af1aa
+  _cache: f984bed7860066c1a3a3ecea47dc4bb7dd8cc5b64ba87e07279b57a8da921db1
 - id: doi:10.1021/acssensors.7b00239
   title: Bright Bioluminescent BRET Sensor Proteins for Measuring Intracellular Caspase
     Activity
@@ -568,7 +569,7 @@
   DOI: 10.1021/acssensors.7b00239
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28670623
   type: article-journal
-  image: https://pubs.acs.org/cms/10.1021/acssensors.7b00239/asset/images/medium/se-2017-002393_0001.gif
+  image: /publications_images/2017_DenHamer.gif
   tags:
   - caspase sensor
   - BRET
@@ -576,7 +577,7 @@
   - mNeonGreen
   - plate reader assay
   - single-cell imaging
-  _cache: 349f0d584ec5ee42c6f4a3f39933fd425ac8c5617032100ac94a1a89b0b958cd
+  _cache: 84f26b2793446b62d8e1a0f8cd11bda44c6fad0a1e194c070553f560b4f176c0
 - id: doi:10.15252/embr.201743897
   title: Circadian networks in human embryonic stem cell-derived cardiomyocytes
   authors:
@@ -616,11 +617,11 @@
   DOI: 10.15252/embr.201743897
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28536247
   type: article-journal
-  image: https://www.embopress.org/cms/asset/6ea9641a-6ceb-484d-8a21-894542eff600/embr201743897-fig-0001-m.jpg
+  image: /publications_images/2017_Dierickx_EMBO_Reports.jpg
   tags:
   - circadian clock
   - heart
-  _cache: b81d91f8fee4d575c8194959c17c566faa0b953faeba726eb2cc2aa6c49d33a4
+  _cache: f483012de61035fe16572aff47b586dd1e219f4bf454f46971f392ffa5e58a17
 - id: doi:10.1161/circulationaha.116.024145
   title: Defined Engineered Human Myocardium With Advanced Maturation for Applications
     in Heart Failure Modeling and Repair
@@ -730,11 +731,11 @@
   DOI: 10.1161/circulationaha.116.024145
   URL: https://www.ncbi.nlm.nih.gov/pubmed/28167635
   type: article-journal
-  image: https://www.ahajournals.org/cms/asset/ed1397d0-e529-4729-82fa-6f2c0f116f94/1832fig01.jpg
+  image: /publications_images/2017_Tiburcy.png
   tags:
   - Heart Failure
   - Engineered Human Myocardium
-  _cache: 95a94c42316146704508b50f56e37aeb60f48d2349d2f2d9e8cd532af10e87df
+  _cache: 1d862ca0eaaf7e42d248259c12bc838afcfcc1edb4f4846b69f9fe635753f0f8
 - id: doi:10.1021/acschembio.6b00453
   title: Dual Readout BRET/FRET Sensors for Measuring Intracellular Zinc
   authors:
@@ -759,10 +760,10 @@
   DOI: 10.1021/acschembio.6b00453
   URL: https://www.ncbi.nlm.nih.gov/pubmed/27547982
   type: article-journal
-  image: https://pubs.acs.org/cms/10.1021/acschembio.6b00453/asset/images/medium/cb-2016-004539_0007.gif
+  image: /publications_images/2016_Aper.jpeg
   tags:
   - BRET/FRET
-  _cache: b345aace43467332e8cbc63877f80ec5c2c5cc9d0c0db6617e0de75b281635bb
+  _cache: 8482fff2fe0c86e1a859d91e3eef6cd5d443482980020e374bd5613437538475
 - id: doi:10.1083/jcb.201601074
   title: "Muscle-on-chip: An in vitro model for donor\u2013host cardiomyocyte coupling"
   authors:
@@ -784,7 +785,7 @@
   DOI: 10.1083/jcb.201601074
   URL: https://www.ncbi.nlm.nih.gov/pubmed/26858264
   type: article-journal
-  image: https://rupress.org/view-large/figure/6925064/JCB_201601074_Fig1.jpeg
+  image: /publications_images/2016_Dierickx_JCB.jpeg
   tags:
   - Adhesion
   - Biophysics
@@ -794,7 +795,7 @@
   - Physiology
   - Stem cells
   - Systems and Computational Biology
-  _cache: 2717e54cb7ff0afc9e4432f4d28f40ac430f412ab4e7ba870b688cf0fd4b8466
+  _cache: fcc72396d185137255eceb124e1de5f32c88efe25548d60ae805b0e21dcfe7ea
 - id: doi:10.1007/s12015-013-9458-z
   title: Efficient ROSA26-Based Conditional and/or Inducible Transgenesis Using RMCE-Compatible
     F1 Hybrid Mouse Embryonic Stem Cells
@@ -847,9 +848,10 @@
     family: Haigh
   PMID: '23877658'
   DOI: 10.1007/s12015-013-9458-z
+  image: /publications_images/2013_Haenebalcke.png
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
   type: article-journal
-  _cache: d63de5d4ba6ffecd03a1f99becc934beb789e057b1afdbbede9bdfad3965d385
+  _cache: 6d9d48ef9821b416f2a4488352fef6522f51779cd9c0fc4c0d2e8d1f44d8c1e9
 - id: doi:10.1016/j.celrep.2013.01.016
   title: 'The ROSA26-iPSC Mouse: A Conditional, Inducible, and Exchangeable Resource
     for Studying Cellular (De)Differentiation'
@@ -895,8 +897,8 @@
   DOI: 10.1016/j.celrep.2013.01.016
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
   type: article-journal
-  image: https://www.cell.com/cms/attachment/361a00ac-07ac-4d01-98db-91755e9b131f/fx1.jpg
-  _cache: c9e43a47f606295fe45dea3ca89e0772690d2a0b9dfefa9356da82585a8fd467
+  image: /publications_images/2013_Haenebalcke_Cell_Reports.jpeg
+  _cache: af0778ef046902d68f966365149f353bf7040c33d4266f00901e420cdaf8169e
 - id: doi:10.1007/s12265-012-9391-6
   title: Embryonic Template-Based Generation and Purification of Pluripotent Stem
     Cell-Derived Cardiomyocytes for Heart Repair
@@ -924,7 +926,8 @@
   DOI: 10.1007/s12265-012-9391-6
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
-  _cache: 1fe5d2dc7a62af85ad667d12f17dfbe3d1811aafec331c470684e995a3c87b44
+  image: /publications_images/2013_Dierickx.gif.png
+  _cache: 04887df1880d45986c371551babde72763a657e2ebecd2ad31b72c882e15498b
 - id: doi:10.1007/978-3-319-25427-2_5
   title: Circadian Rhythms in Stem Cell Biology and Function
   authors:
@@ -957,4 +960,24 @@
   DOI: 10.1007/978-3-319-25427-2_5
   URL: https://link.springer.com/chapter/10.1007/978-3-319-25427-2_5
   type: article-journal
-  _cache: 541d82e07ceaac5fbe153c743bbcc5a3ae254abd40ba74f134652175a001f017
+  image: /publications_images/2016_Dierickx.gif.png
+  _cache: b7c4da8805bf24033c6882e3564f7cdab2bcd176495f8ffcc5d349894bcbc839
+- id: doi:10.1152/ajpcell.00239.2022
+  title: Circadian cardiac NAD<sup>+</sup> metabolism, from transcriptional regulation
+    to healthy aging
+  authors:
+  - Bryce J. Carpenter
+  - Pieterjan Dierickx
+  publisher: American Journal of Physiology-Cell Physiology
+  date: 1900-1-1
+  link: https://doi.org/gqvx8g
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Bryce J.
+    family: Carpenter
+  DOI: 10.1152/ajpcell.00239.2022
+  URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00239.2022
+  type: article-journal
+  image: /publications_images/Graphical_abstract.png
+  _cache: 8b2b98d8f3097c2c494a58ffc3e6596abb9b72b17a4783cb2996fc8c9b237b0d
