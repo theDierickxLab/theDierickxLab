@@ -29,13 +29,13 @@
     family: Lazar
   container-title: Frontiers in Molecular Medicine
   URL: https://doi.org/gqt4c9
-  image: /web/images/Kai.jpg
+  image: https://github.com/theDierickxLab/web/blob/main/images/Kai.jpg
   tags:
   - REV-ERB
   - Cardiomyocyte Clock
   - NAD+
   - circadian clock
-  _cache: d16e121e010c0166239ccb6f50b920387830dfb7a34753c77efb53bd9aab3728
+  _cache: 3922dee1d107e5ebd60faa013a5e0113e72a8370ea4b8478dd0f44f5f3f8696b
 - id: doi:10.1038/s44161-021-00001-9
   title: Circadian REV-ERBs repress E4bp4 to activate NAMPT-dependent NAD+ biosynthesis
     and sustain cardiac function
