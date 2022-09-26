@@ -20,7 +20,7 @@ nav:
  </style>
 </head>
 <body>
-<img src="Group_photos/IMG_9971.jpg" >
-<img src="Group_photos/people.jpg" >
+<img src="/Group_photos/IMG_9971.jpg" >
+<img src="/Group_photos/people.jpg" >
 </body>
 </html>
