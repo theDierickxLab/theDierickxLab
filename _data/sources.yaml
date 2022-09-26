@@ -215,6 +215,10 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
   image: /publications_images/2020_Guan.jpeg
+  tags:
+       - Circadian Rhythms
+       - Liver Metabolism
+       - snRNA-seq
 
   
   
@@ -246,6 +250,10 @@
   image: /publications_images/2019_Dierickx_PNAS.png
   tags: 
       - REV-ERB
+      - Hepatocytes
+      - ES cells
+      - Metabolism
+      - Circadian Rhythms
  
 - id: doi:10.1016/j.stem.2018.11.018
   title: Patient Adipose Stem Cell-Derived Adipocytes Reveal Genetic Variation that Predicts Antidiabetic Drug Response
@@ -286,6 +294,11 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
   type: article-journal
   image: /publications_images/2019_Hu_Cell_Stem_Cell.jpeg
+  tags:
+      - PPARγ
+      - Patient-specific Response
+      - Adipocytes
+      - TZDs
  
  
 - id: doi:10.15252/embr.201745130
@@ -306,6 +319,12 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
   image: /publications_images/2018_Dierickx_EMBO_Reports.png
+  tags:
+       - Circadian rhythms
+       - Stem Cells
+       - Aging
+       - Metabolism
+       - Regeneration
 
      
 - id: doi:10.1016/j.yjmcc.2017.08.009
@@ -591,7 +610,7 @@
   container-title: Stem cell reviews and reports
   container-title-short: Stem Cell Rev Rep
   ISSN: 2629-3277
-  date: 2013-12
+  date: 2013-7-23
   author:
   - given: Lieven
     family: Haenebalcke
@@ -624,6 +643,11 @@
   image: /publications_images/2013_Haenebalcke.png
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
   type: article-journal
+  tags:
+       - ES cells
+       - Differentiation
+       - Reprogramming
+       - Transgenics
   
 
   
@@ -658,7 +682,12 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
   type: article-journal
   image: /publications_images/2013_Haenebalcke_Cell_Reports.jpeg
-
+  tags:
+       - ES cells
+       - Differentiation
+       - Reprogramming
+       - Transgenics
+       - Regeneration
       
       
 - id: doi:10.1007/s12265-012-9391-6
@@ -680,6 +709,10 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
   image: /publications_images/2013_Dierickx.gif.png
+  tags:
+       - Cardiomyocyte differentiation
+       - In Vitro
+       - Regeneration
   
 - id: doi:10.1007/978-3-319-25427-2_5
   container-title: Stem Cell Biology and Regenerative Medicine 
@@ -703,6 +736,13 @@
   URL: https://link.springer.com/chapter/10.1007/978-3-319-25427-2_5
   type: article-journal
   image: /publications_images/2016_Dierickx.gif.png
+  tags:
+       - Circadian rhythms
+       - Stem Cells
+       - Aging
+       - Metabolism
+       - Regeneration
+     
   
 - id: doi:10.1152/ajpcell.00239.2022
   date: 2022-09-05
@@ -715,5 +755,10 @@
   URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00239.2022
   type: article-journal
   image: /publications_images/Graphical_abstract.png
+  tags: 
+        - NAD+
+        - Circadian Rhythms
+        - Aging
+        - Cardiomyocyte Clock
 
 
