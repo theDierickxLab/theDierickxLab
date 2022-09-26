@@ -63,7 +63,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: '2021-12-23'
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature cardiovascular research
   container-title-short: Nat Cardiovasc Res
@@ -229,7 +229,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: '2021-4-1'
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current opinion in pharmacology
   author:
@@ -303,7 +303,11 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/32732282
   type: article-journal
   image: /publications_images/2020_Guan.jpeg
-  _cache: 5397635f72052390abc48a42fbbf789485b256de4ed802cc6d169a35eec56514
+  tags:
+  - Circadian Rhythms
+  - Liver Metabolism
+  - snRNA-seq
+  _cache: d22c717f805f064809004e529abe8c76f7fbe0a1c5cf0b63cb052bcb4df854ce
 - id: doi:10.1073/pnas.1904226116
   title: "SR9009 has REV-ERB\u2013independent effects on cell proliferation and metabolism"
   authors:
@@ -344,7 +348,11 @@
   image: /publications_images/2019_Dierickx_PNAS.png
   tags:
   - REV-ERB
-  _cache: 7a19f0ab9da743b7866f7183489e758213b700056a26e2d898a3a60f3512ae1a
+  - Hepatocytes
+  - ES cells
+  - Metabolism
+  - Circadian Rhythms
+  _cache: d8379d71a9be502cbc91cec2b9980ad91f904bce29ea419b4251c78db8c6431a
 - id: doi:10.1016/j.stem.2018.11.018
   title: Patient Adipose Stem Cell-Derived Adipocytes Reveal Genetic Variation that
     Predicts Antidiabetic Drug Response
@@ -401,7 +409,12 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/30639037
   type: article-journal
   image: /publications_images/2019_Hu_Cell_Stem_Cell.jpeg
-  _cache: c9de7ce8f0015875095d8bc5a93e017a51680d96cd815da3d8b4d8452c455c41
+  tags:
+  - "PPAR\u03B3"
+  - Patient-specific Response
+  - Adipocytes
+  - TZDs
+  _cache: 7ea957aaf72ac4181872504957d55ae74e91c2dd65956f0b6e329c654791a2d0
 - id: doi:10.15252/embr.201745130
   title: 'Circadian clocks: from stem cells to tissue homeostasis and regeneration'
   authors:
@@ -409,7 +422,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: '2017-12-19'
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -427,7 +440,13 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
   image: /publications_images/2018_Dierickx_EMBO_Reports.png
-  _cache: 008ad735743d8e6f377d34ea5d74f247b83a23cdc049ea25140912b8fd95b75e
+  tags:
+  - Circadian rhythms
+  - Stem Cells
+  - Aging
+  - Metabolism
+  - Regeneration
+  _cache: 06bac031d0086ffe8934f5ab3cb381b42de7b5e2e74655a27e6bb7b46543503f
 - id: doi:10.1016/j.yjmcc.2017.08.009
   title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in
     the heart
@@ -851,7 +870,12 @@
   image: /publications_images/2013_Haenebalcke.png
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23877658
   type: article-journal
-  _cache: 6d9d48ef9821b416f2a4488352fef6522f51779cd9c0fc4c0d2e8d1f44d8c1e9
+  tags:
+  - ES cells
+  - Differentiation
+  - Reprogramming
+  - Transgenics
+  _cache: 9b008bd63a49afe2e90acd2a2c08bb0595e5ced41f058047b40c5ffa359c9091
 - id: doi:10.1016/j.celrep.2013.01.016
   title: 'The ROSA26-iPSC Mouse: A Conditional, Inducible, and Exchangeable Resource
     for Studying Cellular (De)Differentiation'
@@ -898,7 +922,13 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/23395636
   type: article-journal
   image: /publications_images/2013_Haenebalcke_Cell_Reports.jpeg
-  _cache: af0778ef046902d68f966365149f353bf7040c33d4266f00901e420cdaf8169e
+  tags:
+  - ES cells
+  - Differentiation
+  - Reprogramming
+  - Transgenics
+  - Regeneration
+  _cache: 436d3592647bdbb72b2e494aaf6413cff87b1ce5050b39935db4778c0b141c1a
 - id: doi:10.1007/s12265-012-9391-6
   title: Embryonic Template-Based Generation and Purification of Pluripotent Stem
     Cell-Derived Cardiomyocytes for Heart Repair
@@ -927,7 +957,11 @@
   URL: https://www.ncbi.nlm.nih.gov/pubmed/22806916
   type: article-journal
   image: /publications_images/2013_Dierickx.gif.png
-  _cache: 04887df1880d45986c371551babde72763a657e2ebecd2ad31b72c882e15498b
+  tags:
+  - Cardiomyocyte differentiation
+  - In Vitro
+  - Regeneration
+  _cache: 34a73ca99334d2889682ec94965f425948c95704b172f2e34449b39db7d7e155
 - id: doi:10.1007/978-3-319-25427-2_5
   title: Circadian Rhythms in Stem Cell Biology and Function
   authors:
@@ -939,7 +973,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: 2015-12-18
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -961,7 +995,13 @@
   URL: https://link.springer.com/chapter/10.1007/978-3-319-25427-2_5
   type: article-journal
   image: /publications_images/2016_Dierickx.gif.png
-  _cache: b7c4da8805bf24033c6882e3564f7cdab2bcd176495f8ffcc5d349894bcbc839
+  tags:
+  - Circadian rhythms
+  - Stem Cells
+  - Aging
+  - Metabolism
+  - Regeneration
+  _cache: f1afd184f35a18d0ffacaed1ab9eec89772cfbe957b41ccc859c221f91d245fd
 - id: doi:10.1152/ajpcell.00239.2022
   title: Circadian cardiac NAD<sup>+</sup> metabolism, from transcriptional regulation
     to healthy aging
@@ -969,7 +1009,7 @@
   - Bryce J. Carpenter
   - Pieterjan Dierickx
   publisher: American Journal of Physiology-Cell Physiology
-  date: '2022-9-5'
+  date: 1900-1-1
   link: https://doi.org/gqvx8g
   author:
   - given: Pieterjan
@@ -980,4 +1020,9 @@
   URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00239.2022
   type: article-journal
   image: /publications_images/Graphical_abstract.png
-  _cache: 8b2b98d8f3097c2c494a58ffc3e6596abb9b72b17a4783cb2996fc8c9b237b0d
+  tags:
+  - NAD+
+  - Circadian Rhythms
+  - Aging
+  - Cardiomyocyte Clock
+  _cache: 9a8c8cd69a87c02cd14f010d891d7e9744b8664af83b8e670264251ec67c2dc0
