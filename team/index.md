@@ -102,6 +102,29 @@ Ankita comes from a small lovely town Darbhanga in India. She obtained her bache
   text=text
 %}
 
+{% capture text %}
+Yannick just finished his apprenticeship at the university clinic in Homburg and will start working his first full time job as a TA in the Dierickx group.
+He is also studying at the university of applied sciences Kaiserslautern and wants to obtain his B.Sc. After that he is looking into options of continuing his part time studies to get a Master's degree.
+When he's not in the lab Yannick is the singer for a local band in his hometown, collects vinyls of his favourite bands or does lots of different sports like handball or volleyball.
+
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email"
+  link="Yannick.mangold@mpi-bn.mpg.de"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Yannick.jpg"
+  title="Yannick Mangold  |  Technical assistant"
+  text=text
+%}
 
 
 
