@@ -1,0 +1,9 @@
+---
+title: New member, who dis?
+
+---
+ 
+Welcome to Yannick Mangold, who just joined our lab as a TA. Yannick just finished his apprenticeship at the university clinic in Homburg and will start working his first full time job as a TA in the Dierickx group. He is also studying at the university of applied sciences Kaiserslautern and wants to obtain his B.Sc. After that he is looking into options of continuing his part time studies to get a Master's degree. When he's not in the lab Yannick is the singer for a local band in his hometown, collects vinyls of his favourite bands or does lots of different sports like handball or volleyball
+{:.center}
+
+{% include gallery.html style="flexbox" image1="images/Yannick.JPG" %} {:.center}
