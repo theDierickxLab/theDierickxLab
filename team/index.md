@@ -121,7 +121,7 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
 
 {%
   include feature.html
-  image="images/Yannick.jpg"
+  image="images/Yannick.JPG"
   title="Yannick Mangold  |  Technical assistant"
   text=text
 %}
