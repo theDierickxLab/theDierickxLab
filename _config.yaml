@@ -7,7 +7,7 @@ description: The Dierickx lab is interested in the molecular mechanisms of the c
 logo: images/Logo.png
 header: images/banner3.png
 footer: images/banner3.png
-baseurl: /web
+baseurl: ""
 
 # site social media and other links
 links:
