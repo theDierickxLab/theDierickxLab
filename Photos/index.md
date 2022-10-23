@@ -8,5 +8,5 @@ nav:
 # <i class="fas fa-users"></i>Photos
 
 
-{% include gallery.html style="width:580px;height:580px" image1="/Group_photos/IMG_9971.jpg" image2="/Group_photos/people.jpg" %} {:.center}
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_9971.jpg" image2="/group-photos/people.jpg" %} {:.center}
 
