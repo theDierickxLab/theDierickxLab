@@ -146,7 +146,7 @@ Adwitiya is currently pursuing her Bachelor's in Health Informatics at the Techn
 {%
   include feature.html
   image="images/Adwitiya.png"
-  title="  |  Internship"
+  title="Adwitiya Argha Priyadarshini Boruah  |  Internship"
   flip=true
   text=text
 %}
