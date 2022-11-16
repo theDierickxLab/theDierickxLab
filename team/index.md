@@ -127,6 +127,29 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
 %}
 
 
+{% capture text %}
+Adwitiya is currently pursuing her Bachelor's in Health Informatics at the Technical University of Deggendorf. Simultaneously, she is also studying her Software Engineering from 42 school, Wolfsburg. From January 2023, she will start her Master's program in Applied Neuroscience from King‘s College London. Her future plans are to move in the field of Research and Development. And Currently, she is an Intern in the Dierickx Lab and she believes that this is an excellent opportunity for her to learn and develop her skills. During her Leisure time she loves spending her time reading novels, and loves trying her hands on sketching.
+
+
+{%
+  include link.html
+  link="adwitiya.boruah@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Adwitiya.png"
+  title="  |  Internship"
+  flip=true
+  text=text
+%}
 
  
 {% include section.html %} 
