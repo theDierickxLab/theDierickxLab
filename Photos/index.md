@@ -10,13 +10,13 @@ nav:
 
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_9971.jpg" image2="/group-photos/people.jpg" %} {:.center}
 
-{% capture text %} Christmas market {:.center}
+{% capture text %} Christmas market endcapture %} {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_5391.jpg" %} {:.center}
 
 
 
-{% capture text %} Birthday Bryce {:.center}
+{% capture text %} Birthday Bryce endcapture %} {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/8BB738E3-B352-4642-8F86-3AD0AFA0E3B5.jpeg" image2="/group-photos/A8EF72D5-A312-4BAA-9670-BAA7F238C3F3.png" %} {:.center}
 
-{% capture text %} Christmas market get together with the Kim lab (Dec. 2023).  {:.center}
+{% capture text %} Christmas market get together with the Kim lab (Dec. 2023). endcapture %}  {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/23A29672-FB30-4DCD-BD3A-226B3FE714AC.jpeg" %} {:.center}
