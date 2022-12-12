@@ -18,5 +18,5 @@ nav:
 {% capture text %} Birthday Bryce {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/8BB738E3-B352-4642-8F86-3AD0AFA0E3B5.jpeg" image2="/group-photos/A8EF72D5-A312-4BAA-9670-BAA7F238C3F3.png" %} {:.center}
 
-{% capture text %} Christmas market get together with the Kim lab (Dec. 2023).
+{% capture text %} Christmas market get together with the Kim lab (Dec. 2023).  {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/23A29672-FB30-4DCD-BD3A-226B3FE714AC.jpeg" %} {:.center}
