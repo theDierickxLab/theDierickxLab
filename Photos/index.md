@@ -10,3 +10,11 @@ nav:
 
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_9971.jpg" image2="/group-photos/people.jpg" %} {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_5391.jpg" %} {:.center}
+
+
+
+Birthday Bryce {:.center}
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_5391.jpg" %} {:.center}
+
+Christmas market get together with the Kim lab (Dec. 2023).
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_5391.jpg" %} {:.center}
