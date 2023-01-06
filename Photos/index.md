@@ -22,4 +22,4 @@ Christmas market get together with the Kim lab (Dec. 2023).
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/23A29672-FB30-4DCD-BD3A-226B3FE714AC.jpeg" %} {:.center}
 
 Birthday Kai 
-{% include gallery.html style="width:580px;height:580px" image1="/group-photos/" image1="/group-photos/IMG_0845.jpg image2="IMG_0847.jpg" image3="IMG_0848.jpg" image3="IMG_0849.jpg" image4="IMG_0850.jpg" image5="IMG_0851.jpg" image6="IMG_0872.jpg" image7="IMG_0876.jpg" image8="IMG_0877.jpg" image9="IMG_0878.jpg" %} {:.center}
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_0845.jpg" image2="IMG_0847.jpg" image3="IMG_0848.jpg" image3="IMG_0849.jpg" image4="IMG_0850.jpg" image5="IMG_0851.jpg" image6="IMG_0872.jpg" image7="IMG_0876.jpg" image8="IMG_0877.jpg" image9="IMG_0878.jpg" %} {:.center}
