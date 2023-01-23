@@ -27,3 +27,6 @@ Birthday Kai
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_0850.jpg" image2="/group-photos/IMG_0851.jpg" %} {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_0872.jpg" image2="/group-photos/IMG_0876.jpg" %} {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_0877.jpg" image2="/group-photos/IMG_0878.jpg" %} {:.center}
+
+Birthday cake by Adwitiya
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_0845.jpg" image2="/group-photos/cake.png" %} {:.center}
