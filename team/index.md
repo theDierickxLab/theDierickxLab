@@ -80,29 +80,6 @@ Kai studied the genomics and evolution of endangered animals for her master's de
 
 
 {% capture text %}
-Ankita comes from a small lovely town Darbhanga in India. She obtained her bachelor’s in Biotechnology in Jaipur (India) and her master’s degree from the Technical University Dresden (Germany) in the field of Molecular Bioengineering. During her studies, she worked on neurons, brain organoids, and cardiomyocytes. She started enjoying cardiac cells more and could not stop thinking about how to use stem cells as a model to gain some insights into the underlying molecular mechanisms of cardiac arrest. Besides science, she loves dancing, cooking, and still dreams of becoming a star in a movie where she would play a smart scientist.
-
-{%
-  include link.html
-  link="ankita.jha@mpi-bn.mpg.de"
-  type="email"
-  icon=""
-  text="Email"
-  style="button"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Ankita.png"
-  title="Ankita Jha  |  Technical assistant"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
 Yannick just finished his apprenticeship at the university clinic in Homburg and will start working his first full time job as a TA in the Dierickx group.
 He is also studying at the university of applied sciences Kaiserslautern and wants to obtain his B.Sc. After that he is looking into options of continuing his part time studies to get a Master's degree.
 When he's not in the lab Yannick is the singer for a local band in his hometown, collects vinyls of his favourite bands or does lots of different sports like handball or volleyball.
