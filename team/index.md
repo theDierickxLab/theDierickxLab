@@ -100,6 +100,7 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
   include feature.html
   image="images/Yannick.JPG"
   title="Yannick Mangold  |  Technical assistant"
+  flip=true
   text=text
 %}
 
@@ -124,7 +125,6 @@ Adwitiya is currently pursuing her Bachelor’s in Health Informatics at the Tec
   include feature.html
   image="images/Adwitiya.png"
   title="Adwitiya Argha Priyadarshini Boruah  |   Undergraduate Intern"
-  flip=true
   text=text
 %}
 
