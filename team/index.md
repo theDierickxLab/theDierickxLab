@@ -147,8 +147,9 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
 {%
   include feature.html
   image="images/lz22.jpg"
-  title="Seval Kübra Korkunç  |   Master’s student"
+  title="Daniëlle Ammerlaan  |   Master’s student"
   text=text
+  flip=true
 %}s
 
 
