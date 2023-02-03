@@ -150,7 +150,7 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   title="Daniëlle Ammerlaan  |   Master’s student"
   text=text
   flip=true
-%}s
+%}
 
 
 {% capture text %}
