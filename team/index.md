@@ -126,7 +126,7 @@ Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar Uni
   image="images/Picture 1.png"
   title="Seval Kübra Korkunç  |   PhD student"
   text=text
-%}s
+%}
 
 {% capture text %}
 Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht University and is currently finalizing her Master’s degree in Biology of Disease with a specific focus on cardiovascular research. Her interest in cardiometabolism developed early on when studying the role of ketone bodies as a potential heart failure treatment in rat cardiomyocytes. Outside of the lab, she enjoys drinking tea, practice sports, visiting bars with friends, and one day she aims to run half a marathon. Additionally, in Bad Nauheim she hopes to retrieve an advanced command of the German language. 
