@@ -106,6 +106,53 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
 
 
 {% capture text %}
+Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar University. She completed her Master’s degree at Koç University School of Medicine in Immunology.  During her M.Sc, she studied the T-regulatory cell and  Notch axis in Chronic Obstructive Pulmonary Disease (COPD) inflammation under the supervision of Prof. Dr. Hasan Bayram. In the Dierickx lab, she will focus on disease progression in human metabolic heart failure. She loves photography (unfortunately, her friends’ personal photographer) and is interested in art history.
+
+
+{%
+  include link.html
+  link="Seval.Kuebra-Korkunc@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Picture 1.png"
+  title="Seval Kübra Korkunç  |   PhD student"
+  text=text
+%}s
+
+{% capture text %}
+Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht University and is currently finalizing her Master’s degree in Biology of Disease with a specific focus on cardiovascular research. Her interest in cardiometabolism developed early on when studying the role of ketone bodies as a potential heart failure treatment in rat cardiomyocytes. Outside of the lab, she enjoys drinking tea, practice sports, visiting bars with friends, and one day she aims to run half a marathon. Additionally, in Bad Nauheim she hopes to retrieve an advanced command of the German language. 
+
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/lz22.jpg"
+  title="Seval Kübra Korkunç  |   Master’s student"
+  text=text
+%}s
+
+
+{% capture text %}
 Adwitiya is currently pursuing her Bachelor’s in Health Informatics at the Technical University of Deggendorf. Simultaneously, she is also studying Software Engineering from 42 school, Wolfsburg. From January 2023, she will start her Master’s program in Applied Neuroscience from King‘s College London. Her future plans are to move in the field of Research and Development. Currently, Adwitiya is an undergraduate intern in the Dierickx Lab and she believes that this is an excellent opportunity for her to learn and develop her computational skills. During her leisure time she loves spending time reading novels and trying her hands on sketching.
 
 
