@@ -38,7 +38,7 @@ Margaux obtained her PhD at the Université Côte d'Azur in Nice in Cellular and
 In the Dierickx lab, she will use her expertise in microscopy and cell interactions to understand how the circadian clock plays a role in different cardiac cell types contributing to heart function. Outside of the lab, she enjoys reading books, hiking and traveling to discover different places.
 {%
   include link.html
-  link="@mpi-bn.mpg.de"
+  link="Margaux@mpi-bn.mpg.de"
   type="email"
   icon=""
   text="Email"
