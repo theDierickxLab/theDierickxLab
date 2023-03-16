@@ -39,7 +39,7 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
 
 {%
   include link.html
-  link="Margaux@mpi-bn.mpg.de"
+  link="Margaux.lecacheur@mpi-bn.mpg.de"
   type="email"
   icon=""
   text="Email"
@@ -158,7 +158,7 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
 
 {%
   include link.html
-  link=""
+  link="Danielle.Ammerlaan@mpi-bn.mpg.de>"
   type="email"
   icon=""
   text="Email"
