@@ -36,6 +36,7 @@ Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and 
 {% capture text %}
 Margaux obtained her PhD at the Université Côte d'Azur in Nice in Cellular and Molecular Interactions. In this lab, she studied how the biophysical properties of the microenvironment increase resistance mechanisms to targeted therapies in melanoma, under the supervision of Dr. Sophie Tartare-Deckert. 
 In the Dierickx lab, she will use her expertise in microscopy and cell interactions to understand how the circadian clock plays a role in different cardiac cell types contributing to heart function. Outside of the lab, she enjoys reading books, hiking and traveling to discover different places.
+
 {%
   include link.html
   link="Margaux@mpi-bn.mpg.de"
@@ -75,7 +76,6 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
   include feature.html
   image="images/Bryce.png"
   title="Bryce Carpenter  |  PhD student"
-  flip=true
   text=text
 %}
 
@@ -98,6 +98,7 @@ Kai studied the genomics and evolution of endangered animals for her master's de
   include feature.html
   image="images/Kai.jpg"
   title="Kai Cui  |  PhD student"
+  flip=true
   text=text
 %}
 
@@ -123,7 +124,6 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
   include feature.html
   image="images/Yannick.JPG"
   title="Yannick Mangold  |  Technical assistant"
-  flip=true
   text=text
 %}
 
@@ -148,6 +148,7 @@ Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar Uni
   include feature.html
   image="images/Picture 1.png"
   title="Seval Kübra Korkunç  |   PhD student"
+  flip=true
   text=text
 %}
 
@@ -172,7 +173,6 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   image="images/lz22.jpg"
   title="Daniëlle Ammerlaan  |   Master’s student"
   text=text
-  flip=true
 %}
 
 
@@ -197,6 +197,7 @@ Adwitiya is currently pursuing her Bachelor’s in Health Informatics at the Tec
   image="images/Adwitiya.png"
   title="Adwitiya Argha Priyadarshini Boruah  |   Undergraduate Intern"
   text=text
+  flip=true
 %}
 
  
