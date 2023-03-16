@@ -158,7 +158,7 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
 
 {%
   include link.html
-  link="Danielle.Ammerlaan@mpi-bn.mpg.de>"
+  link="Danielle.Ammerlaan@mpi-bn.mpg.de"
   type="email"
   icon=""
   text="Email"
