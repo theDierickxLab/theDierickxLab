@@ -1,3 +1,50 @@
+- id: doi:10.1172/JCI162309
+  title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from heart failure
+  author:
+  - given: Tsunehisa
+    family: Yamamoto
+  - given: Santosh K. 
+    family: Maurya
+  - given: Elizabeth
+    family: Pruzinsky
+  - given: Kirill
+    family: Batmanov
+  - given: Yang
+    family: Xiao
+  - given: Sarah M. 
+    family: Sulon
+  - given: Tomoya
+    family: Sakamoto
+  - given: Yang
+    family: Wang
+  - given: Kendra S. 
+    family: McDaid
+  - given: Swapnil V. 
+    family: Shewale
+  - given: Teresa C. 
+    family: Leone
+  - given: Timothy R. 
+    family: Koves
+  - given: Deborah M. 
+    family: Muoio
+  - given: Pieterjan 
+    family: Dierickx
+  - given: Mitchell A. 
+    family: Lazar
+  - given: E. Douglas 
+    family: Lewandowski
+  - given: Daniel P. 
+    family: Kelly
+  container-title: Journal of Clinical Investigation
+  date: 2023-3-16
+  URL: https://www.jci.org/articles/view/162309
+  image: /publications_images/JCI-RG-RV.jpeg
+  tags: 
+      - Cardiac metabolism
+      - Heart Failure
+      - Nuclear Receptors
+      
+
 - id: doi:10.3389/fmmed.2022.887733
   title: Nicotinamide Riboside Improves Cardiac Function and Prolongs Survival After Disruption of the Cardiomyocyte Clock
   author:
