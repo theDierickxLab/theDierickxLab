@@ -1,6 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1172/JCI162309
+  title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from
+    heart failure
+  authors:
+  - Tsunehisa Yamamoto
+  - Santosh K. Maurya
+  - Elizabeth Pruzinsky
+  - Kirill Batmanov
+  - Yang Xiao
+  - Sarah M. Sulon
+  - Tomoya Sakamoto
+  - Yang Wang
+  - Ling Lai
+  - Kendra S. McDaid
+  - Swapnil V. Shewale
+  - Teresa C. Leone
+  - Timothy R. Koves
+  - Deborah M. Muoio
+  - Pieterjan Dierickx
+  - Mitchell A. Lazar
+  - E. Douglas Lewandowski
+  - Daniel P. Kelly
+  publisher: Journal of Clinical Investigation
+  date: '2023-03-16'
+  link: https://doi.org/grxz3b
+  author:
+  - given: Tsunehisa
+    family: Yamamoto
+  - given: Santosh K.
+    family: Maurya
+  - given: Elizabeth
+    family: Pruzinsky
+  - given: Kirill
+    family: Batmanov
+  - given: Yang
+    family: Xiao
+  - given: Sarah M.
+    family: Sulon
+  - given: Tomoya
+    family: Sakamoto
+  - given: Yang
+    family: Wang
+  - given: Kendra S.
+    family: McDaid
+  - given: Swapnil V.
+    family: Shewale
+  - given: Teresa C.
+    family: Leone
+  - given: Timothy R.
+    family: Koves
+  - given: Deborah M.
+    family: Muoio
+  - given: Pieterjan
+    family: Dierickx
+  - given: Mitchell A.
+    family: Lazar
+  - given: E. Douglas
+    family: Lewandowski
+  - given: Daniel P.
+    family: Kelly
+  container-title: Journal of Clinical Investigation
+  URL: https://www.jci.org/articles/view/162309
+  image: /publications_images/JCI-RG-RV.jpeg
+  tags:
+  - Cardiac metabolism
+  - Heart Failure
+  - Nuclear Receptors
+  _cache: b35d327f28417b7077b05c2152aab6e2c6a7eb4fcde4fe02f88dbc95eb77fb16
 - id: doi:10.3389/fmmed.2022.887733
   title: Nicotinamide Riboside Improves Cardiac Function and Prolongs Survival After
     Disruption of the Cardiomyocyte Clock
@@ -63,7 +131,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: '2021-12-23'
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature cardiovascular research
   container-title-short: Nat Cardiovasc Res
@@ -229,7 +297,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: '2021-4-1'
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current opinion in pharmacology
   author:
@@ -422,7 +490,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: '2017-12-19'
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -973,7 +1041,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: '2015-12-18'
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -1009,7 +1077,7 @@
   - Bryce J. Carpenter
   - Pieterjan Dierickx
   publisher: American Journal of Physiology-Cell Physiology
-  date: '2022-9-5'
+  date: 1900-1-1
   link: https://doi.org/gqvx8g
   author:
   - given: Pieterjan
