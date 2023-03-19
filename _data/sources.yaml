@@ -69,70 +69,6 @@
       - Cardiomyocyte Clock
       - NAD+
       - circadian clock
-  
-  
-- id: doi:10.1038/s44161-021-00001-9
-  container-title: Nature cardiovascular research
-  container-title-short: Nat Cardiovasc Res
-  ISSN: 2731-0590
-  date: 2021-12-23
-  author:
-  - given: Pieterjan
-    family: Dierickx
-  - given: Kun
-    family: Zhu
-  - given: Bryce J
-    family: Carpenter
-  - given: Chunjie
-    family: Jiang
-  - given: Marit W
-    family: Vermunt
-  - given: Yang
-    family: Xiao
-  - given: Timothy S
-    family: Luongo
-  - given: Tsunehisa
-    family: Yamamoto
-  - given: Íngrid
-    family: Martí-Pàmies
-  - given: Sobuj
-    family: Mia
-  - given: Mary
-    family: Latimer
-  - given: Abhinav
-    family: Diwan
-  - given: Juanjuan
-    family: Zhao
-  - given: Amy K
-    family: Hauck
-  - given: Brianna
-    family: Krusen
-  - given: Hoang C B
-    family: Nguyen
-  - given: Gerd A
-    family: Blobel
-  - given: Daniel P
-    family: Kelly
-  - given: Liming
-    family: Pei
-  - given: Joseph A
-    family: Baur
-  - given: Martin E
-    family: Young
-  - given: Mitchell A
-    family: Lazar
-  PMID: '35036997'
-  PMCID: PMC8754391
-  DOI: 10.1038/s44161-021-00001-9
-  URL: https://www.ncbi.nlm.nih.gov/pubmed/35036997
-  type: article-journal
-  image: /publications_images/2022_Dierickx_NCVR.png
-  tags: 
-      - REV-ERB
-      - E4bp4
-      - NAD+
-      - circadian clock
-  
 
 - id: doi:10.1016/j.cmet.2020.11.011
   title: The Nuclear Receptor ESRRA Protects from Kidney Disease by Coupling Metabolism and Differentiation
@@ -200,34 +136,7 @@
       - ESRRA protects
       - Kidney Disease
       - scRNA-seq analysis
-  
-  
-- id: doi:10.1016/j.coph.2020.11.006
-  container-title: Current opinion in pharmacology
-  date: 2020-12-15
-  author:
-  - given: Nino
-    family: Chirico
-  - given: Linda W
-    family: Van Laake
-  - given: Joost P G
-    family: Sluijter
-  - given: Alain
-    family: van Mil
-  - given: Pieterjan
-    family: Dierickx
-  PMID: '33338891'
-  DOI: 10.1016/j.coph.2020.11.006
-  URL: https://www.ncbi.nlm.nih.gov/pubmed/33338891
-  type: article-journal
-  image: /publications_images/2021_Chirico_Dierickx_CoPHARM.png
-  tags: 
-      - Circadian rhythms
-      - Regeneration 
-      - Stem cells
-      - Tissue engineering
-      - Clock manipulation
-      - Extracellular matrix
+ 
   
 - id: doi:10.1126/science.aba8984
   title: The hepatocyte clock and feeding control chronophysiology of multiple liver cell types
@@ -346,33 +255,6 @@
       - Patient-specific Response
       - Adipocytes
       - TZDs
- 
- 
-- id: doi:10.15252/embr.201745130
-  container-title: EMBO reports
-  container-title-short: EMBO Rep
-  ISSN: 1469-3178
-  date: 2017-12-19
-  author:
-  - given: Pieterjan
-    family: Dierickx
-  - given: Linda W
-    family: Van Laake
-  - given: Niels
-    family: Geijsen
-  PMID: '29258993'
-  PMCID: PMC5757216
-  DOI: 10.15252/embr.201745130
-  URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
-  type: article-journal
-  image: /publications_images/2018_Dierickx_EMBO_Reports.png
-  tags:
-       - Circadian rhythms
-       - Stem Cells
-       - Aging
-       - Metabolism
-       - Regeneration
-
      
 - id: doi:10.1016/j.yjmcc.2017.08.009
   title: Neonatal rat cardiomyocytes as an in vitro model for circadian rhythms in the heart
@@ -761,6 +643,24 @@
        - In Vitro
        - Regeneration
   
+  
+- id: doi:10.1152/ajpcell.00239.2022
+  date: 2022-9-5
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Bryce J.
+    family: Carpenter
+  DOI: 10.1152/ajpcell.00239.2022
+  URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00239.2022
+  type: article-journal
+  image: /publications_images/Graphical_abstract.png
+  tags: 
+        - NAD+
+        - Circadian Rhythms
+        - Aging
+        - Cardiomyocyte Clock
+        
 - id: doi:10.1007/978-3-319-25427-2_5
   container-title: Stem Cell Biology and Regenerative Medicine 
   date: 2015-12-18
@@ -789,23 +689,117 @@
        - Aging
        - Metabolism
        - Regeneration
-     
-  
-- id: doi:10.1152/ajpcell.00239.2022
-  date: 2022-9-5
+       
+- id: doi:10.15252/embr.201745130
+  container-title: EMBO reports
+  container-title-short: EMBO Rep
+  ISSN: 1469-3178
+  date: 2017-12-19
   author:
   - given: Pieterjan
     family: Dierickx
-  - given: Bryce J.
-    family: Carpenter
-  DOI: 10.1152/ajpcell.00239.2022
-  URL: https://journals.physiology.org/doi/abs/10.1152/ajpcell.00239.2022
+  - given: Linda W
+    family: Van Laake
+  - given: Niels
+    family: Geijsen
+  PMID: '29258993'
+  PMCID: PMC5757216
+  DOI: 10.15252/embr.201745130
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/29258993
   type: article-journal
-  image: /publications_images/Graphical_abstract.png
+  image: /publications_images/2018_Dierickx_EMBO_Reports.png
+  tags:
+       - Circadian rhythms
+       - Stem Cells
+       - Aging
+       - Metabolism
+       - Regeneration
+     
+- id: doi:10.1016/j.coph.2020.11.006
+  container-title: Current Opinion in Pharmacology
+  date: 2020-12-15
+  author:
+  - given: Nino
+    family: Chirico
+  - given: Linda W
+    family: Van Laake
+  - given: Joost P G
+    family: Sluijter
+  - given: Alain
+    family: van Mil
+  - given: Pieterjan
+    family: Dierickx
+  PMID: '33338891'
+  DOI: 10.1016/j.coph.2020.11.006
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/33338891
+  type: article-journal
+  image: /publications_images/2021_Chirico_Dierickx_CoPHARM.png
   tags: 
-        - NAD+
-        - Circadian Rhythms
-        - Aging
-        - Cardiomyocyte Clock
+      - Circadian rhythms
+      - Regeneration 
+      - Stem cells
+      - Tissue engineering
+      - Clock manipulation
+      - Extracellular matrix
 
-
+- id: doi:10.1038/s44161-021-00001-9
+  container-title: Nature Cardiovascular Research
+  container-title-short: Nat Cardiovasc Res
+  ISSN: 2731-0590
+  date: 2021-12-23
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  - given: Kun
+    family: Zhu
+  - given: Bryce J
+    family: Carpenter
+  - given: Chunjie
+    family: Jiang
+  - given: Marit W
+    family: Vermunt
+  - given: Yang
+    family: Xiao
+  - given: Timothy S
+    family: Luongo
+  - given: Tsunehisa
+    family: Yamamoto
+  - given: Íngrid
+    family: Martí-Pàmies
+  - given: Sobuj
+    family: Mia
+  - given: Mary
+    family: Latimer
+  - given: Abhinav
+    family: Diwan
+  - given: Juanjuan
+    family: Zhao
+  - given: Amy K
+    family: Hauck
+  - given: Brianna
+    family: Krusen
+  - given: Hoang C B
+    family: Nguyen
+  - given: Gerd A
+    family: Blobel
+  - given: Daniel P
+    family: Kelly
+  - given: Liming
+    family: Pei
+  - given: Joseph A
+    family: Baur
+  - given: Martin E
+    family: Young
+  - given: Mitchell A
+    family: Lazar
+  PMID: '35036997'
+  PMCID: PMC8754391
+  DOI: 10.1038/s44161-021-00001-9
+  URL: https://www.ncbi.nlm.nih.gov/pubmed/35036997
+  type: article-journal
+  image: /publications_images/2022_Dierickx_NCVR.png
+  tags: 
+      - REV-ERB
+      - E4bp4
+      - NAD+
+      - circadian clock
