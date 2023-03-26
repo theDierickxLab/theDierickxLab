@@ -175,6 +175,7 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   text=text
 %}
 
+{% include section.html %}
 
 # <i class="fas fa-users"></i>Alumni
 
