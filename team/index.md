@@ -175,6 +175,9 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   text=text
 %}
 
+{% include section.html %}
+
+# <i class="fas fa-users"></i>Alumni
 
 {% capture text %}
 Adwitiya is currently pursuing her Bachelor’s in Health Informatics at the Technical University of Deggendorf. Simultaneously, she is also studying Software Engineering from 42 school, Wolfsburg. From January 2023, she will start her Master’s program in Applied Neuroscience from King‘s College London. Her future plans are to move in the field of Research and Development. Currently, Adwitiya is an undergraduate intern in the Dierickx Lab and she believes that this is an excellent opportunity for her to learn and develop her computational skills. During her leisure time she loves spending time reading novels and trying her hands on sketching.
