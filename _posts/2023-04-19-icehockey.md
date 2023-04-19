@@ -1,5 +1,5 @@
 ---
-title: Fun lab outing: ice hockey play\-off game
+title: Fun lab outing":" ice hockey play-off game
 ---
 
 
