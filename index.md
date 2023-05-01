@@ -2,6 +2,14 @@
 title: Home
 ---
 
+<!-- 引入jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- 引入Slick CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+
+<!-- 引入Slick JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
 <div class="news-slider">
   <div>
@@ -14,13 +22,29 @@ title: Home
     <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="news-link">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
   </div>
   <div>
-    <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab<</a>
+    <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab</a>
   </div>
   <div>
     <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="news-link">Latest News  ——  Happy New Year from our lab!</a>
   </div>
 </div>
 
+<style>
+.news-slider {
+  height: 50px; /* 您可以根据需要调整此值 */
+  overflow: hidden;
+}
+
+.news-link {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  line-height: 50px; /* 保持与 .news-slider 的高度一致 */
+}
+</style>
+
+<script>
 $(document).ready(function(){
   $('.news-slider').slick({
     infinite: true,
@@ -32,21 +56,7 @@ $(document).ready(function(){
     dots: true
   });
 });
-
-.news-slider {
-  height: 50px; 
-  overflow: hidden;
-}
-
-.news-link {
-  color: white;
-  text-decoration: none;
-  display: block;
-  text-align: center;
-  line-height: 50px; 
-}
-
-
+</script>
 
 
 <br>
