@@ -3,59 +3,55 @@ title: Home
 ---
 
 
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Bootstrap CSS -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<div id="news-carousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <a href="https://www.dierickxlab.com/2023/04/19/icehockey.html" class="carousel-news">Fun lab outing: ice hockey play-off game</a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://www.dierickxlab.com/2023/03/16/postdoc.html" class="carousel-news">Welcome to Margaux, our new French Postdoc</a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="carousel-news">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="carousel-news">DZHK funds the Circadian Cardiometabolism lab</a>
+    </div>
+    <div class="carousel-item">
+      <a href="" class="https://www.dierickxlab.com/2023/01/05/Newyear.html">Happy New Year from our lab!</a>
+    </div>
+  </div>
+</div>
+
+<style>
+.carousel-news {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+#news-carousel {
+  background-color: #202020;
+}
+</style>
+
+<div id="news-carousel" class="carousel slide" data-ride="carousel" data-interval="3000">
+
+
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
 {:.center}
 
 <br>
-
-<style>
-.news-ticker {
-  overflow: hidden;
-  position: relative;
-  background-color: #202020;
-  font-size: 1.2em;
-  padding: 10px;
-  width: 100%;
-}
-
-.news-ticker ul {
-  position: absolute;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  white-space: nowrap;
-}
-
-.news-ticker ul li {
-  display: inline-block;
-  padding-right: 50px;
-}
-
-.news-ticker a {
-  color: white;
-  text-decoration: none;
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(100%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-</style>
-
-
-<div class="news-ticker">
-  <ul id="news-list">
-    <li><a href="https://www.dierickxlab.com/2023/04/19/icehockey.html">Fun lab outing: ice hockey play-off game</a></li>
-    <li><a href="https://www.dierickxlab.com/2023/03/16/postdoc.html">Welcome to Margaux, our new French Postdoc</a></li>
-    <li><a href="https://www.dierickxlab.com/2023/02/03/Newphds.html">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a></li>
-    <li><a href="https://www.dierickxlab.com/2023/01/30/DZHK.html">DZHK funds the Circadian Cardiometabolism lab</a></li>
-    <li><a href="https://www.dierickxlab.com/2023/01/05/Newyear.html">Happy New Year from our lab!</a></li>
-  </ul>
-</div>
 
 <span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
 
