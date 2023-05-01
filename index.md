@@ -61,7 +61,7 @@ $(document).ready(function(){
   text-decoration: none;
   display: block;
   text-align: center;
-  line-height: 50px; /* 保持与 .news-slider 的高度一致 */
+  line-height: 50px; 
 }
 
 
