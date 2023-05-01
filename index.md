@@ -2,6 +2,45 @@
 title: Home
 ---
 
+<style>
+.news-ticker {
+  overflow: hidden;
+  position: relative;
+  background-color: #202020;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px;
+  width: 100%;
+}
+
+.news-ticker ul {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  white-space: nowrap;
+  animation: scroll 10s linear infinite;
+}
+
+.news-ticker ul:hover {
+  animation-play-state: paused;
+}
+
+.news-ticker a {
+  color: white;
+  text-decoration: none;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+</style>
+
 <div class="news-ticker">
   <ul id="news-list">
     <li><a href="news1">Fun lab outing: ice hockey play-off game</a></li>
