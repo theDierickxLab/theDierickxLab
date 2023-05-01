@@ -24,11 +24,11 @@ title: Home
   padding: 0;
   list-style-type: none;
   white-space: nowrap;
-  animation: scroll 10s linear infinite;
 }
 
-.news-ticker ul:hover {
-  animation-play-state: paused;
+.news-ticker ul li {
+  display: inline-block;
+  padding-right: 50px;
 }
 
 .news-ticker a {
