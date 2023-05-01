@@ -2,6 +2,16 @@
 title: Home
 ---
 
+<div class="news-ticker">
+  <ul id="news-list">
+    <li><a href="news1">Fun lab outing: ice hockey play-off game</a></li>
+    <li><a href="news2">Welcome to Margaux, our new French Postdoc</a></li>
+    <li><a href="news3">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a></li>
+    <li><a href="news4">DZHK funds the Circadian Cardiometabolism lab</a></li>
+    <li><a href="news5">Happy New Year from our lab!</a></li>
+  </ul>
+</div>
+
 
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
 {:.center}
