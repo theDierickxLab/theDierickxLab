@@ -2,14 +2,6 @@
 title: Home
 ---
 
-<!-- 引入jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<!-- 引入Slick CSS -->
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
-
-<!-- 引入Slick JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
 <div class="news-slider">
   <div>
@@ -41,9 +33,8 @@ $(document).ready(function(){
   });
 });
 
-
 .news-slider {
-  height: 50px;
+  height: 50px; 
   overflow: hidden;
 }
 
@@ -54,6 +45,7 @@ $(document).ready(function(){
   text-align: center;
   line-height: 50px; 
 }
+
 
 
 
