@@ -2,34 +2,56 @@
 title: Home
 ---
 
-<!-- jQuery -->
+<!-- 引入jQuery -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-<!-- Bootstrap CSS -->
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<!-- 引入Slick CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
 
-<!-- Bootstrap JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!-- 引入Slick JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
-<div id="news-carousel" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <a href="https://www.dierickxlab.com/2023/04/19/icehockey.html" class="carousel-news">Fun lab outing: ice hockey play-off game</a>
+
+<div class="news-slider">
+  <div>
+      <a href="https://www.dierickxlab.com/2023/04/19/icehockey.html" class="news-link">Latest News  ——  Fun lab outing: ice hockey play-off game</a>
     </div>
     <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/03/16/postdoc.html" class="carousel-news">Welcome to Margaux, our new French Postdoc</a>
+      <a href="https://www.dierickxlab.com/2023/03/16/postdoc.html" class="news-link">Latest News  ——  Welcome to Margaux, our new French Postdoc</a>
     </div>
     <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="carousel-news">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
+      <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="news-link">Latest News  ——  Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
     </div>
     <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="carousel-news">DZHK funds the Circadian Cardiometabolism lab</a>
+      <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab</a>
     </div>
     <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="carousel-news">Happy New Year from our lab!</a>
+      <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="news-link">Latest News  ——  Happy New Year from our lab!</a>
     </div>
   </div>
-</div>
+
+<style>
+.news-link {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+</style>
+
+<script>
+$(document).ready(function(){
+  $('.news-slider').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    arrows: false,
+    dots: false
+  });
+});
+</script>
 
 
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
