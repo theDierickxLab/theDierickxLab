@@ -29,15 +29,6 @@ title: Home
   </div>
 </div>
 
-<style>
-.news-link {
-  color: white;
-  text-decoration: none;
-  display: block;
-  text-align: center;
-}
-</style>
-
 $(document).ready(function(){
   $('.news-slider').slick({
     infinite: true,
