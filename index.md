@@ -38,7 +38,6 @@ title: Home
 }
 </style>
 
-<script>
 $(document).ready(function(){
   $('.news-slider').slick({
     infinite: true,
@@ -47,10 +46,32 @@ $(document).ready(function(){
     autoplay: true,
     autoplaySpeed: 3000,
     arrows: false,
-    dots: false
+    dots: true
   });
 });
-</script>
+
+.news-link {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.news-slider {
+  height: 50px;
+  overflow: hidden;
+}
+
+.news-link {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  line-height: 50px; /* 保持与 .news-slider 的高度一致 */
+}
+
 
 
 <br>
