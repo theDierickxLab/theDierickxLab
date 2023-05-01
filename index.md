@@ -3,6 +3,12 @@ title: Home
 ---
 
 
+
+## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
+{:.center}
+
+<br>
+
 <!-- jQuery -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -27,7 +33,7 @@ title: Home
       <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="carousel-news">DZHK funds the Circadian Cardiometabolism lab</a>
     </div>
     <div class="carousel-item">
-      <a href="" class="https://www.dierickxlab.com/2023/01/05/Newyear.html">Happy New Year from our lab!</a>
+      <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="carousel-news">Happy New Year from our lab!</a>
     </div>
   </div>
 </div>
@@ -47,12 +53,8 @@ title: Home
 
 <div id="news-carousel" class="carousel slide" data-ride="carousel" data-interval="3000">
 
-
-## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
-{:.center}
-
 <br>
-
+	
 <span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
 
 
