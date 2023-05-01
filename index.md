@@ -3,55 +3,8 @@ title: Home
 ---
 
 
-
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
 {:.center}
-
-<br>
-
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<!-- Bootstrap CSS -->
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-
-<!-- Bootstrap JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-<div id="news-carousel" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <a href="https://www.dierickxlab.com/2023/04/19/icehockey.html" class="carousel-news">Fun lab outing: ice hockey play-off game</a>
-    </div>
-    <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/03/16/postdoc.html" class="carousel-news">Welcome to Margaux, our new French Postdoc</a>
-    </div>
-    <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="carousel-news">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
-    </div>
-    <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="carousel-news">DZHK funds the Circadian Cardiometabolism lab</a>
-    </div>
-    <div class="carousel-item">
-      <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="carousel-news">Happy New Year from our lab!</a>
-    </div>
-  </div>
-</div>
-
-<style>
-.carousel-news {
-  color: white;
-  text-decoration: none;
-  display: block;
-  text-align: center;
-}
-
-#news-carousel {
-  background-color: #202020;
-}
-</style>
-
-<div id="news-carousel" class="carousel slide" data-ride="carousel" data-interval="3000">
 
 <br>
 	
