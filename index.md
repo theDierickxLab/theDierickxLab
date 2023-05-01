@@ -53,6 +53,7 @@ $(document).ready(function(){
 });
 </script>
 
+<br>
 
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
 {:.center}
