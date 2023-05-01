@@ -43,11 +43,11 @@ title: Home
 
 <div class="news-ticker">
   <ul id="news-list">
-    <li><a href="news1">Fun lab outing: ice hockey play-off game</a></li>
-    <li><a href="news2">Welcome to Margaux, our new French Postdoc</a></li>
-    <li><a href="news3">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a></li>
-    <li><a href="news4">DZHK funds the Circadian Cardiometabolism lab</a></li>
-    <li><a href="news5">Happy New Year from our lab!</a></li>
+    <li><a href="https://www.dierickxlab.com/2023/04/19/icehockey.html">Fun lab outing: ice hockey play-off game</a></li>
+    <li><a href="https://www.dierickxlab.com/2023/03/16/postdoc.html">Welcome to Margaux, our new French Postdoc</a></li>
+    <li><a href="https://www.dierickxlab.com/2023/02/03/Newphds.html">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a></li>
+    <li><a href="https://www.dierickxlab.com/2023/01/30/DZHK.html">DZHK funds the Circadian Cardiometabolism lab</a></li>
+    <li><a href="https://www.dierickxlab.com/2023/01/05/Newyear.html">Happy New Year from our lab!</a></li>
   </ul>
 </div>
 
