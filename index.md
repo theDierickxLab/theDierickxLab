@@ -16,16 +16,16 @@ title: Home
   <div>
       <a href="https://www.dierickxlab.com/2023/04/19/icehockey.html" class="news-link">Latest News  ——  Fun lab outing: ice hockey play-off game</a>
     </div>
-    <div class="carousel-item">
+    <div>
       <a href="https://www.dierickxlab.com/2023/03/16/postdoc.html" class="news-link">Latest News  ——  Welcome to Margaux, our new French Postdoc</a>
     </div>
-    <div class="carousel-item">
+    <div>
       <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="news-link">Latest News  ——  Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
     </div>
-    <div class="carousel-item">
+    <div>
       <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab</a>
     </div>
-    <div class="carousel-item">
+    <div>
       <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="news-link">Latest News  ——  Happy New Year from our lab!</a>
     </div>
   </div>
