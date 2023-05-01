@@ -7,7 +7,6 @@ title: Home
   overflow: hidden;
   position: relative;
   background-color: #202020;
-  color: white;
   font-size: 1.2em;
   padding: 10px;
   width: 100%;
@@ -19,11 +18,11 @@ title: Home
   padding: 0;
   list-style-type: none;
   white-space: nowrap;
-  animation: scroll 10s linear infinite;
 }
 
-.news-ticker ul:hover {
-  animation-play-state: paused;
+.news-ticker ul li {
+  display: inline;
+  padding-right: 50px;
 }
 
 .news-ticker a {
@@ -40,6 +39,7 @@ title: Home
   }
 }
 </style>
+
 
 <div class="news-ticker">
   <ul id="news-list">
