@@ -1,6 +1,7 @@
 ---
 title: Home
 ---
+
 <!-- 引入jQuery -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -52,10 +53,14 @@ $(document).ready(function(){
     autoplay: true,
     autoplaySpeed: 3000,
     arrows: false,
-    dots: true
+    dots: false,
+    pauseOnFocus: false,
+    pauseOnHover: false,
+    pauseOnDotsHover: false,
   });
 });
 </script>
+
 
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
 {:.center}
