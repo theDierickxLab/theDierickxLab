@@ -50,14 +50,6 @@ $(document).ready(function(){
   });
 });
 
-.news-link {
-  color: white;
-  text-decoration: none;
-  display: block;
-  text-align: center;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
 
 .news-slider {
   height: 50px;
