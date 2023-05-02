@@ -9,6 +9,25 @@ title: Home
 
 <span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
 
+---
+title: Home
+---
+
+## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
+{:.center}
+
+<br>
+
+<span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
+
+<!-- 新闻滚动栏开始 -->
+<div class="news-container" style="overflow: hidden; height: 30px; position: relative;">
+  <ul id="news-list" style="list-style-type: none; margin: 0; padding: 0; position: absolute; top: 0; white-space: nowrap;">
+    <!-- 这里添加新闻列表 -->
+  </ul>
+</div>
+<!-- 新闻滚动栏结束 -->
+
 <!-- 新闻滚动栏 JavaScript 开始 -->
 <script>
 const newsList = document.getElementById("news-list");
@@ -17,8 +36,7 @@ const newsItems = [
   { title: "新闻2：这里是新闻2的简要内容", link: "https://example.com/news2" },
   { title: "新闻3：这里是新闻3的简要内容", link: "https://example.com/news3" },
   { title: "新闻4：这里是新闻4的简要内容", link: "https://example.com/news4" },
-  { title: "新闻5：这里是新闻5的简要内容", link: "https://example.com/news5" },
-  // 添加更多新闻项目...
+  { title: "新闻5：这里是新闻5的简要内容", link: "https://example.com/news5" }
 ];
 
 function createNewsItem(newsItem) {
@@ -50,7 +68,6 @@ function scrollNews() {
 setInterval(scrollNews, 3000);
 </script>
 <!-- 新闻滚动栏 JavaScript 结束 -->
-
 
 
 
