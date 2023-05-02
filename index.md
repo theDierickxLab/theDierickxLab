@@ -51,7 +51,7 @@ function scrollNews() {
   newsList.style.transition = "none";
   newsList.style.top = "-30px";
   setTimeout(() => {
-    newsList.style.transition = "top 0.5s";
+    newsList.style.transition = "top 1s";
     newsList.style.top = "0";
   }, 50);
 }
