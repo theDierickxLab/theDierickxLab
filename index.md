@@ -9,13 +9,6 @@ title: Home
 
 <span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
 
-<!-- 新闻滚动栏开始 -->
-<div class="news-container" style="overflow: hidden; height: 30px; position: relative;">
-  <ul id="news-list" style="list-style-type: none; margin: 0; padding: 0; position: absolute; top: 0; white-space: nowrap;">
-  <!-- 这里添加新闻列表 -->
-  </ul>
-</div>
-<!-- 新闻滚动栏结束 -->
 
 <!-- 新闻滚动栏 JavaScript 开始 -->
 <script>
@@ -28,11 +21,12 @@ const newsItems = [
   { title: "News 5：Happy New Year from our lab!", link: "https://www.dierickxlab.com/2023/01/05/Newyear.html" }
 ];
 
-function createNewsItem(text) {
+function createNewsItem(newsItem) {
+  const li = document.createElement("li");
   const a = document.createElement("a");
   a.href = newsItem.link;
   a.textContent = newsItem.title;
-  a.style.color = "red"; 
+  a.style.color = "red"; // 将颜色从白色更改为红色
   a.style.textDecoration = "none";
   li.appendChild(a);
   return li;
