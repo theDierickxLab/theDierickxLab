@@ -12,13 +12,7 @@ title: Home
 <!-- 新闻滚动栏开始 -->
 <div class="news-container" style="overflow: hidden; height: 30px; position: relative;">
   <ul id="news-list" style="list-style-type: none; margin: 0; padding: 0; position: absolute; top: 0; white-space: nowrap;">
-   const newsItems = [
-  "新闻1：这里是新闻1的简要内容",
-  "新闻2：这里是新闻2的简要内容",
-  "新闻3：这里是新闻3的简要内容",
-  "新闻4：这里是新闻4的简要内容",
-  "新闻5：这里是新闻5的简要内容",
-];
+  <!-- 这里添加新闻列表 -->
   </ul>
 </div>
 <!-- 新闻滚动栏结束 -->
