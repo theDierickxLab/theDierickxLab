@@ -66,4 +66,4 @@ title: Home
 
 {% include link.html link="https://www.dierickxlab.com/2023/04/19/icehockey.html" type="home-page" text="Home Page" icon="" style="button" flip=true %} {:.center} {% endcapture %}
 
-{% include feature.html image="" title="Fun lab outing: ice hockey play-off game" text=text %}
+{% include feature.html image="/group-photos/Picture3.png" title="Fun lab outing: ice hockey play-off game" text=text %}
