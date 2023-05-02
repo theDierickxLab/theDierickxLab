@@ -64,9 +64,20 @@ title: Home
 
 {% capture text %} Last night we had a great lab outing. After some pizza and drinks, we walked over to the Colonel Night stadium through the park. The atmosphere in and outside of the stadium was electric and predictive of a good outcome. The Rote Teufels from EC Bad Nauheim beat the Ravensburg Towerstars with 3:0 and thereby evened the Play-off final series (1:1). For most of us it was our first ever live hockey game in Germany and we all had a blast. Fingers crossed the Rote Teufels will become champions, so they’ll move up to the first division.
 
-{% include link.html link="https://www.dierickxlab.com/2023/04/19/icehockey.html" type="home-page" text="Home Page" icon="" style="button" flip=true %} {:.center} {% endcapture %}
+{% include link.html 
+   link="https://www.dierickxlab.com/2023/04/19/icehockey.html" 
+   type="home-page" 
+   text="Home Page" 
+   icon="" 
+   style="button"
+   flip=true %} 
+   {:.center} 
+   {% endcapture %}
 
-{% include feature.html image="/group-photos/Picture3.png" title="Fun lab outing: ice hockey play-off game" text=text %}
+{% include feature.html 
+   image="/group-photos/Picture3.png" 
+   title="Fun lab outing: ice hockey play-off game" 
+   text=text %}
 
 
 {% capture text %}
@@ -75,10 +86,10 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
 
 {%
   include link.html
-  link="Margaux.lecacheur@mpi-bn.mpg.de"
-  type="email"
+  link="https://www.dierickxlab.com/2023/03/16/postdoc.html"
+  type="home-page"
   icon=""
-  text="Email"
+  text="Home Page"
   style="button"
   flip=true
 %}
@@ -88,30 +99,8 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
 {%
   include feature.html
   image="images/Margaux.png"
-  title="Margaux Lecacheur  |  PostDoc"
+  title="Welcome to Margaux, our new French Postdoc"
   flip=true
-  text=text
-%}
-
-{% capture text %}
-Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
-
-{%
-  include link.html
-  link="Bryce.Carpenter@mpi-bn.mpg.de"
-  type="email"
-  icon=""
-  text="Email"
-  style="button"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Bryce.png"
-  title="Bryce Carpenter  |  PhD student"
   text=text
 %}
 
