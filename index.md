@@ -67,7 +67,7 @@ title: Home
 {% include link.html 
    link="https://www.dierickxlab.com/2023/04/19/icehockey.html" 
    type="home-page" 
-   text="Home Page" 
+   text="See more news" 
    icon="" 
    style="button"
    flip=true %} 
@@ -89,7 +89,7 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
   link="https://www.dierickxlab.com/2023/03/16/postdoc.html"
   type="home-page"
   icon=""
-  text="Home Page"
+  text="See more news"
   style="button"
   flip=true
 %}
