@@ -67,3 +67,51 @@ title: Home
 {% include link.html link="https://www.dierickxlab.com/2023/04/19/icehockey.html" type="home-page" text="Home Page" icon="" style="button" flip=true %} {:.center} {% endcapture %}
 
 {% include feature.html image="/group-photos/Picture3.png" title="Fun lab outing: ice hockey play-off game" text=text %}
+
+
+{% capture text %}
+Margaux obtained her PhD at the Université Côte d'Azur in Nice in Cellular and Molecular Interactions. In this lab, she studied how the biophysical properties of the microenvironment increase resistance mechanisms to targeted therapies in melanoma, under the supervision of Dr. Sophie Tartare-Deckert. 
+In the Dierickx lab, she will use her expertise in microscopy and cell interactions to understand how the circadian clock plays a role in different cardiac cell types contributing to heart function. Outside of the lab, she enjoys reading books, hiking and traveling to discover different places.
+
+{%
+  include link.html
+  link="Margaux.lecacheur@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Margaux.png"
+  title="Margaux Lecacheur  |  PostDoc"
+  flip=true
+  text=text
+%}
+
+{% capture text %}
+Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
+
+{%
+  include link.html
+  link="Bryce.Carpenter@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Bryce.png"
+  title="Bryce Carpenter  |  PhD student"
+  text=text
+%}
+
