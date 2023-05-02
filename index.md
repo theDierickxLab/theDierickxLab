@@ -23,11 +23,11 @@ title: Home
 <script>
 const newsList = document.getElementById("news-list");
 const newsItems = [
-  { title: "News 1: Fun lab outing: ice hockey play-off game", link: "https://www.dierickxlab.com/2023/04/19/icehockey.html" },
-  { title: "News 2：Welcome to Margaux, our new French Postdoc", link: "https://www.dierickxlab.com/2023/03/16/postdoc.html" },
-  { title: "News 3：Meet Seval and Daniëlle, our newest PhD and Master’s students!", link: "https://www.dierickxlab.com/2023/02/03/Newphds.html" },
-  { title: "News 4：DZHK funds the Circadian Cardiometabolism lab", link: "https://www.dierickxlab.com/2023/01/30/DZHK.html" },
-  { title: "News 5：Happy New Year from our lab!", link: "https://www.dierickxlab.com/2023/01/05/Newyear.html" }
+ { title: "新闻1：这里是新闻1的简要内容", link: "https://example.com/news1" },
+  { title: "新闻2：这里是新闻2的简要内容", link: "https://example.com/news2" },
+  { title: "新闻3：这里是新闻3的简要内容", link: "https://example.com/news3" },
+  { title: "新闻4：这里是新闻4的简要内容", link: "https://example.com/news4" },
+  { title: "新闻5：这里是新闻5的简要内容", link: "https://example.com/news5" }
 ];
 
 function createNewsItem(newsItem) {
