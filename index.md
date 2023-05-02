@@ -2,84 +2,6 @@
 title: Home
 ---
 
-<style>
-.news-ticker {
-  overflow: hidden;
-  position: relative;
-  background-color: #202020;
-  font-size: 1.2em;
-  padding: 10px;
-  width: 100%;
-}
-
-.news-ticker ul {
-  position: absolute;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  white-space: nowrap;
-}
-
-.news-ticker ul li {
-  display: inline;
-  padding-right: 50px;
-}
-
-.news-ticker a {
-  color: white;
-  text-decoration: none;
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(100%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-</style>
-
-
-<div class="news-slider">
-  <div>
-    <a href="https://www.dierickxlab.com/2023/04/19/icehockey.html" class="news-link">Latest News  ——  Fun lab outing: ice hockey play-off game</a>
-  </div>
-  <div>
-    <a href="https://www.dierickxlab.com/2023/03/16/postdoc.html" class="news-link">Latest News  ——  Welcome to Margaux, our new French Postdoc</a>
-  </div>
-  <div>
-    <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="news-link">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
-  </div>
-  <div>
-    <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab<</a>
-  </div>
-  <div>
-    <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="news-link">Latest News  ——  Happy New Year from our lab!</a>
-  </div>
-</div>
-	
-<script>
-  function startTicker() {
-    const newsList = document.getElementById('news-list');
-    newsList.appendChild(newsList.firstElementChild.cloneNode(true));
-    newsList.style.transition = 'transform 0.5s';
-    newsList.style.transform = 'translateY(-100%)';
-
-    setTimeout(() => {
-      newsList.style.transition = 'none';
-      newsList.style.transform = 'translateY(0)';
-      newsList.removeChild(newsList.firstElementChild);
-      setTimeout(startTicker, 3000);
-    }, 500);
-  }
-
-  document.addEventListener('DOMContentLoaded', () => {
-    setTimeout(startTicker, 3000);
-  });
-</script>
-
-
 
 
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
@@ -88,6 +10,69 @@ title: Home
 <br>
 	
 <span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
+
+
+---
+title: Home
+---
+
+## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
+{:.center}
+
+<br>
+
+<span style="color:white;">Circadian rhythms coordinate many different aspects of behavior and physiology (e.g., fasting/feeding cycles, body temperature and metabolism). The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. We try to understand how deregulated clocks are leading to cardiovascular defects and are trying to target the circadian clock in order to treat and prevent heart diseases.</span>
+
+<!-- 新闻滚动栏开始 -->
+<div class="news-container" style="overflow: hidden; height: 30px; position: relative;">
+  <ul id="news-list" style="list-style-type: none; margin: 0; padding: 0; position: absolute; top: 0; white-space: nowrap;">
+   const newsItems = [
+  "新闻1：这里是新闻1的简要内容",
+  "新闻2：这里是新闻2的简要内容",
+  "新闻3：这里是新闻3的简要内容",
+  "新闻4：这里是新闻4的简要内容",
+  "新闻5：这里是新闻5的简要内容",
+];
+  </ul>
+</div>
+<!-- 新闻滚动栏结束 -->
+
+<!-- 新闻滚动栏 JavaScript 开始 -->
+<script>
+const newsList = document.getElementById("news-list");
+const newsItems = [
+  "新闻1：这里是新闻1的简要内容",
+  "新闻2：这里是新闻2的简要内容",
+  "新闻3：这里是新闻3的简要内容",
+  "新闻4：这里是新闻4的简要内容",
+  "新闻5：这里是新闻5的简要内容",
+];
+
+function createNewsItem(text) {
+  const li = document.createElement("li");
+  li.textContent = text;
+  return li;
+}
+
+newsItems.forEach((item) => {
+  newsList.appendChild(createNewsItem(item));
+});
+
+function scrollNews() {
+  const firstChild = newsList.firstElementChild;
+  newsList.appendChild(firstChild);
+  newsList.style.transition = "none";
+  newsList.style.top = "-30px";
+  setTimeout(() => {
+    newsList.style.transition = "top 0.5s";
+    newsList.style.top = "0";
+  }, 50);
+}
+
+setInterval(scrollNews, 3000);
+</script>
+<!-- 新闻滚动栏 JavaScript 结束 -->
+
 
 
 <head>
