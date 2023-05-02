@@ -60,24 +60,25 @@ title: Home
 </div>
 	
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    fetch('/news/')
-      .then(response => response.text())
-      .then(html => {
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
-        const posts = Array.from(doc.querySelectorAll('.post-excerpt'));
-        const latestPosts = posts.slice(0, 5);
-        const newsList = document.getElementById('news-list');
+  function startTicker() {
+    const newsList = document.getElementById('news-list');
+    newsList.appendChild(newsList.firstElementChild.cloneNode(true));
+    newsList.style.transition = 'transform 0.5s';
+    newsList.style.transform = 'translateY(-100%)';
 
-        latestPosts.forEach(post => {
-          const listItem = document.createElement('li');
-          listItem.innerHTML = post.querySelector('h2').outerHTML;
-          newsList.appendChild(listItem);
-        });
-      });
+    setTimeout(() => {
+      newsList.style.transition = 'none';
+      newsList.style.transform = 'translateY(0)';
+      newsList.removeChild(newsList.firstElementChild);
+      setTimeout(startTicker, 3000);
+    }, 500);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(startTicker, 3000);
   });
 </script>
+
 
 
 
