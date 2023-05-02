@@ -62,26 +62,8 @@ title: Home
 
 ## Lastest News
 
-{% capture text %}
+{% capture text %} Last night we had a great lab outing. After some pizza and drinks, we walked over to the Colonel Night stadium through the park. The atmosphere in and outside of the stadium was electric and predictive of a good outcome. The Rote Teufels from EC Bad Nauheim beat the Ravensburg Towerstars with 3:0 and thereby evened the Play-off final series (1:1). For most of us it was our first ever live hockey game in Germany and we all had a blast. Fingers crossed the Rote Teufels will become champions, so they’ll move up to the first division.
 
-Last night we had a great lab outing. After some pizza and drinks, we walked over to the Colonel Night stadium through the park. The atmosphere in and outside of the stadium was electric and predictive of a good outcome. The Rote Teufels from EC Bad Nauheim beat the Ravensburg Towerstars with 3:0 and thereby evened the Play-off final series (1:1). For most of us it was our first ever live hockey game in Germany and we all had a blast. Fingers crossed the Rote Teufels will become champions, so they’ll move up to the first division.
+{% include link.html link="https://www.dierickxlab.com/2023/04/19/icehockey.html" type="home-page" text="Home Page" icon="" style="button" flip=true %} {:.center} {% endcapture %}
 
-{%
-  include button.html
-  link="News"
-  text="See all news"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="/group-photos/Picture3.png"
-  link="News"
-  title="Fun lab outing: ice hockey play-off game"
-  text=text
-%}
-
+{% include feature.html image="" title="Fun lab outing: ice hockey play-off game" text=text %}
