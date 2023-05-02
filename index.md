@@ -30,7 +30,12 @@ const newsItems = [
 
 function createNewsItem(text) {
   const li = document.createElement("li");
-  li.textContent = text;
+  const a = document.createElement("a");
+  a.href = newsItem.link;
+  a.textContent = newsItem.title;
+  a.style.color = "red"; 
+  a.style.textDecoration = "none";
+  li.appendChild(a);
   return li;
 }
 
