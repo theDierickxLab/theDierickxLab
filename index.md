@@ -29,7 +29,6 @@ const newsItems = [
 ];
 
 function createNewsItem(text) {
-  const li = document.createElement("li");
   const a = document.createElement("a");
   a.href = newsItem.link;
   a.textContent = newsItem.title;
