@@ -58,7 +58,7 @@ title: Home
   </body>
    
    
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 ## Lastest News
 
