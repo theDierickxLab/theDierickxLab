@@ -35,7 +35,7 @@ function createNewsItem(newsItem) {
   const a = document.createElement("a");
   a.href = newsItem.link;
   a.textContent = newsItem.title;
-  a.style.color = "blue"; // 将颜色从白色更改为红色
+  a.style.color = "white"; // 将颜色从白色更改为红色
   a.style.textDecoration = "none";
   li.appendChild(a);
   return li;
