@@ -75,7 +75,7 @@ title: Home
    {% endcapture %}
 
 {% include feature.html 
-   image="/group-photos/Picture3.png" 
+   image="/group-photos/Picture2.png" 
    title="Fun lab outing: ice hockey play-off game" 
    text=text %}
 
