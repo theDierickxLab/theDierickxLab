@@ -2,14 +2,44 @@
 title: Home
 ---
 
-<!-- 引入jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<style>
+.news-ticker {
+  overflow: hidden;
+  position: relative;
+  background-color: #202020;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px;
+  width: 100%;
+}
 
-<!-- 引入Slick CSS -->
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+.news-ticker ul {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  white-space: nowrap;
+  animation: scroll 10s linear infinite;
+}
 
-<!-- 引入Slick JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+.news-ticker ul:hover {
+  animation-play-state: paused;
+}
+
+.news-ticker a {
+  color: white;
+  text-decoration: none;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+</style>
 
 <div class="news-slider">
   <div>
@@ -22,35 +52,33 @@ title: Home
     <a href="https://www.dierickxlab.com/2023/02/03/Newphds.html" class="news-link">Meet Seval and Daniëlle, our newest PhD and Master’s students!</a>
   </div>
   <div>
-    <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab</a>
+    <a href="https://www.dierickxlab.com/2023/01/30/DZHK.html" class="news-link">Latest News  ——  DZHK funds the Circadian Cardiometabolism lab<</a>
   </div>
   <div>
     <a href="https://www.dierickxlab.com/2023/01/05/Newyear.html" class="news-link">Latest News  ——  Happy New Year from our lab!</a>
   </div>
 </div>
-
-<style>
-.news-link {
-  color: white;
-  text-decoration: none;
-  display: block;
-  text-align: center;
-}
-</style>
-
+	
 <script>
-$(document).ready(function(){
-  $('.news-slider').slick({
-    infinite: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 3000,
-    arrows: false,
-    dots: false
+  document.addEventListener('DOMContentLoaded', function () {
+    fetch('/news/')
+      .then(response => response.text())
+      .then(html => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        const posts = Array.from(doc.querySelectorAll('.post-excerpt'));
+        const latestPosts = posts.slice(0, 5);
+        const newsList = document.getElementById('news-list');
+
+        latestPosts.forEach(post => {
+          const listItem = document.createElement('li');
+          listItem.innerHTML = post.querySelector('h2').outerHTML;
+          newsList.appendChild(listItem);
+        });
+      });
   });
-});
 </script>
+
 
 
 ## <span style="color:white;">Welcome to the Dierickx Lab for Circadian Regulation of Cardiometabolism</span>
