@@ -60,16 +60,16 @@ title: Home
    
 {% include section.html %}
 
-## Highlights
+## Lastest News
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Last night we had a great lab outing. After some pizza and drinks, we walked over to the Colonel Night stadium through the park. The atmosphere in and outside of the stadium was electric and predictive of a good outcome. The Rote Teufels from EC Bad Nauheim beat the Ravensburg Towerstars with 3:0 and thereby evened the Play-off final series (1:1). For most of us it was our first ever live hockey game in Germany and we all had a blast. Fingers crossed the Rote Teufels will become champions, so they’ll move up to the first division.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="News"
+  text="See all news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -79,56 +79,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="/group-photos/Picture3.png"
+  link="News"
+  title="Fun lab outing: ice hockey play-off game"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
