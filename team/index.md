@@ -175,6 +175,30 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   text=text
 %}
 
+{% capture text %}
+Wikie is studying for a B.S. in Molecular Biology at University of Sheffield in the UK. Her research interest is at the interface of stem cells, human diseases, and genetics. She wonders how stem cells can be used to aid our understanding in circadian clock and how circadian clock can influence stem cell behaviour. She also finds research on animal behaviour and evolution really really cool. Outside of lab, she enjoys hiking, running, watching wildlife documentaries and reading anything interesting. 
+
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+  flip=true
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/FB.jepg"
+  title="Wikie Tew  |   Bachelor Internship"
+  text=text
+%}
+
 {% include section.html %}
 
 # <i class="fas fa-users"></i>Alumni
@@ -192,7 +216,6 @@ Adwitiya is currently pursuing her Bachelor’s in Health Informatics at the Tec
   icon=""
   text="Email"
   style="button"
-  flip=true
 %}
 {:.center}
 {% endcapture %}
