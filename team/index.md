@@ -186,7 +186,6 @@ Wikie is studying for a B.S. in Molecular Biology at University of Sheffield in 
   icon=""
   text="Email"
   style="button"
-  flip=true
  
 %}
 {:.center}
@@ -194,9 +193,10 @@ Wikie is studying for a B.S. in Molecular Biology at University of Sheffield in 
 
 {%
   include feature.html
-  image="images/FB.jepg"
+  image="images/FB.jpeg"
   title="Wikie Tew  |   Bachelor Internship"
   text=text
+  flip=true
 %}
 
 {% include section.html %}
@@ -225,7 +225,6 @@ Adwitiya is currently pursuing her Bachelor’s in Health Informatics at the Tec
   image="images/Adwitiya.png"
   title="Adwitiya Argha Priyadarshini Boruah  |   Undergraduate Intern"
   text=text
-  flip=true
 %}
 
  
