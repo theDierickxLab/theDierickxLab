@@ -1,7 +1,0 @@
----
-title: July 2023: Lab picture day!
----
-
-
-{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_2049.jpg" image2="/group-photos/IMG_2059.jpg" %} {:.center} 
-{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_2063.jpg" image2="/group-photos/IMG_2064.jpg" %} {:.center}
