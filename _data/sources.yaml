@@ -660,6 +660,24 @@
         - Circadian Rhythms
         - Aging
         - Cardiomyocyte Clock
+
+- id: doi:10.1016/j.jacbts.2023.03.016
+  author:
+  - given: Sobuj 
+    family: Mia
+  - given: Pieterjan 
+    family: Dierickx
+  - given: Martin E. 
+    family: Young 
+  date: 2023-6-14
+  DOI: 10.1016/j.jacbts.2023.03.016
+  URL: https://www.jacc.org/doi/10.1016/j.jacbts.2023.03.016
+  type: article-journal
+  image: /publications_images/JACC.jpeg
+  tags: 
+        - Cardiac Metabolism
+        - Circadian Clock
+        - Transcriptional Regulation
         
 - id: doi:10.1007/978-3-319-25427-2_5
   container-title: Stem Cell Biology and Regenerative Medicine 
@@ -804,20 +822,3 @@
       - NAD+
       - circadian clock
       
-- id: doi:10.1016/j.jacbts.2023.03.016
-  author:
-  - given: Sobuj 
-    family: Mia
-  - given: Pieterjan 
-    family: Dierickx
-  - given: Martin E. 
-    family: Young 
-  date: 2023-6-14
-  DOI: 10.1016/j.jacbts.2023.03.016
-  URL: https://www.jacc.org/doi/10.1016/j.jacbts.2023.03.016
-  type: article-journal
-  image: /publications_images/JACC.jpeg
-  tags: 
-        - Cardiac Metabolism
-        - Circadian Clock
-        - Transcriptional Regulation
