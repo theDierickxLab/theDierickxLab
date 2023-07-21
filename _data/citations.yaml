@@ -908,7 +908,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: '2015-12-18'
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -944,7 +944,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: '2017-12-19'
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -978,7 +978,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: '2021-4-1'
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current Opinion in Pharmacology
   author:
@@ -1032,7 +1032,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: '2021-12-23'
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature Cardiovascular Research
   container-title-short: Nat Cardiovasc Res
@@ -1094,3 +1094,46 @@
   - NAD+
   - circadian clock
   _cache: cc7020cca9fc97e9fc056bedb52d014ce53e9fa9ef98e3e0b62c7faae51799ef
+- id: doi:10.1016/j.jacbts.2023.03.016
+  title: Novel Roles for the Transcriptional Repressor E4BP4 in Both Cardiac Physiology
+    and Pathophysiology
+  authors:
+  - Sobuj Mia
+  - Ravi Sonkar
+  - Lamario Williams
+  - Mary N. Latimer
+  - David R. Rawnsley
+  - Samir Rana
+  - Jin He
+  - Pieterjan Dierickx
+  - Teayoun Kim
+  - Min Xie
+  - Kirk M. Habegger
+  - Masato Kubo
+  - Lufang Zhou
+  - Morten B. Thomsen
+  - Sumanth D. Prabhu
+  - Stuart J. Frank
+  - Paul S. Brookes
+  - Mitchell A. Lazar
+  - Abhinav Diwan
+  - Martin E. Young
+  publisher: 'JACC: Basic to Translational Science'
+  date: '2023-06-14'
+  link: https://doi.org/gshnsg
+  author:
+  - given: Sobuj
+    family: Mia
+  - given: Pieterjan
+    family: Dierickx
+  - given: Martin E.
+    family: Young
+  DOI: 10.1016/j.jacbts.2023.03.016
+  URL: https://www.jacc.org/doi/10.1016/j.jacbts.2023.03.016
+  type: article-journal
+  image: /publications_images/JACC.jpeg
+  tags:
+  - Cardiac Metabolism
+  - Circadian Clock
+  - Transcriptional Regulation
+  _cache: 2dd3831ecc67767a9ce04f907ae37699f95cb4905fcfeb7425de17209b1ec0fb
