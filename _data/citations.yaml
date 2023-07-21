@@ -897,6 +897,49 @@
   - Aging
   - Cardiomyocyte Clock
   _cache: c9d42b2d0c5ddde403439594c202df04517c63c1839822ca4dc56927da5a68aa
+- id: doi:10.1016/j.jacbts.2023.03.016
+  title: Novel Roles for the Transcriptional Repressor E4BP4 in Both Cardiac Physiology
+    and Pathophysiology
+  authors:
+  - Sobuj Mia
+  - Ravi Sonkar
+  - Lamario Williams
+  - Mary N. Latimer
+  - David R. Rawnsley
+  - Samir Rana
+  - Jin He
+  - Pieterjan Dierickx
+  - Teayoun Kim
+  - Min Xie
+  - Kirk M. Habegger
+  - Masato Kubo
+  - Lufang Zhou
+  - Morten B. Thomsen
+  - Sumanth D. Prabhu
+  - Stuart J. Frank
+  - Paul S. Brookes
+  - Mitchell A. Lazar
+  - Abhinav Diwan
+  - Martin E. Young
+  publisher: 'JACC: Basic to Translational Science'
+  date: '2023-06-14'
+  link: https://doi.org/gshnsg
+  author:
+  - given: Sobuj
+    family: Mia
+  - given: Pieterjan
+    family: Dierickx
+  - given: Martin E.
+    family: Young
+  DOI: 10.1016/j.jacbts.2023.03.016
+  URL: https://www.jacc.org/doi/10.1016/j.jacbts.2023.03.016
+  type: article-journal
+  image: /publications_images/JACC.jpeg
+  tags:
+  - Cardiac Metabolism
+  - Circadian Clock
+  - Transcriptional Regulation
+  _cache: 2dd3831ecc67767a9ce04f907ae37699f95cb4905fcfeb7425de17209b1ec0fb
 - id: doi:10.1007/978-3-319-25427-2_5
   title: Circadian Rhythms in Stem Cell Biology and Function
   authors:
@@ -1094,46 +1137,3 @@
   - NAD+
   - circadian clock
   _cache: cc7020cca9fc97e9fc056bedb52d014ce53e9fa9ef98e3e0b62c7faae51799ef
-- id: doi:10.1016/j.jacbts.2023.03.016
-  title: Novel Roles for the Transcriptional Repressor E4BP4 in Both Cardiac Physiology
-    and Pathophysiology
-  authors:
-  - Sobuj Mia
-  - Ravi Sonkar
-  - Lamario Williams
-  - Mary N. Latimer
-  - David R. Rawnsley
-  - Samir Rana
-  - Jin He
-  - Pieterjan Dierickx
-  - Teayoun Kim
-  - Min Xie
-  - Kirk M. Habegger
-  - Masato Kubo
-  - Lufang Zhou
-  - Morten B. Thomsen
-  - Sumanth D. Prabhu
-  - Stuart J. Frank
-  - Paul S. Brookes
-  - Mitchell A. Lazar
-  - Abhinav Diwan
-  - Martin E. Young
-  publisher: 'JACC: Basic to Translational Science'
-  date: '2023-06-14'
-  link: https://doi.org/gshnsg
-  author:
-  - given: Sobuj
-    family: Mia
-  - given: Pieterjan
-    family: Dierickx
-  - given: Martin E.
-    family: Young
-  DOI: 10.1016/j.jacbts.2023.03.016
-  URL: https://www.jacc.org/doi/10.1016/j.jacbts.2023.03.016
-  type: article-journal
-  image: /publications_images/JACC.jpeg
-  tags:
-  - Cardiac Metabolism
-  - Circadian Clock
-  - Transcriptional Regulation
-  _cache: 2dd3831ecc67767a9ce04f907ae37699f95cb4905fcfeb7425de17209b1ec0fb
