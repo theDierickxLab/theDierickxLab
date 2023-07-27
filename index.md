@@ -62,10 +62,11 @@ title: Home
 
 ## Latest News
 
-{% capture text %} Last night we had a great lab outing. After some pizza and drinks, we walked over to the Colonel Night stadium through the park. The atmosphere in and outside of the stadium was electric and predictive of a good outcome. The Rote Teufels from EC Bad Nauheim beat the Ravensburg Towerstars with 3:0 and thereby evened the Play-off final series (1:1). For most of us it was our first ever live hockey game in Germany and we all had a blast. Fingers crossed the Rote Teufels will become champions, so they’ll move up to the first division.
+{% capture text %} On Friday we had our half time lab BBQ. The brief rain showers could not stop us from having fun. All people brought authentic food to make our BBQ a real success. Very grateful to be working with such an inspiring and talented group of scientists. Looking forward to the second half of the year!
+
 
 {% include link.html 
-   link="https://www.dierickxlab.com/2023/04/19/icehockey.html" 
+   link="https://www.dierickxlab.com/2023/07/21/bbq.html" 
    type="home-page" 
    text="See more news" 
    icon="fa-solid fa-arrow-right" 
@@ -75,7 +76,7 @@ title: Home
    {% endcapture %}
 
 {% include feature.html 
-   image="/group-photos/Picture2.png" 
-   title="Fun lab outing: ice hockey play-off game" 
+   image="/group-photos/Picture11.png" 
+   title="Summer lab BBQ" 
    text=text %}
 
