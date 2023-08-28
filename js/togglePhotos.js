@@ -1,11 +1,17 @@
-document.addEventListener("DOMContentLoaded", function() {
-  const events = document.querySelectorAll('.event');
-  const seeAllButton = document.getElementById('seeAll');
+document.addEventListener('DOMContentLoaded', function() {
 
-  seeAllButton.addEventListener("click", function() {
+  const events = document.querySelectorAll('.event');
+  
+
+  events.forEach((event, index) => {
+    if (index >= 3) {
+      event.style.display = 'none';
+    }
+  });
+
+  document.getElementById('seeAll').addEventListener('click', function() {
     events.forEach(event => {
-      event.classList.remove("hidden");
+      event.style.display = 'block';
     });
-    seeAllButton.style.display = 'none';
   });
 });
