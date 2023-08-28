@@ -169,7 +169,7 @@ Yilian obtained her Master's degree at the Fujian University of Traditional Chin
 
 {%
   include feature.html
-  image="images/yilian"
+  image="images/yilian.png"
   title="Yilian Wang |   PhD student"
   text=text
 %}
