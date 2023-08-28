@@ -45,5 +45,5 @@ July 2023: Lab picture day!
 
   <button id="seeAll">See All</button>
 
-  <script src="js/togglePhotos.js"></script>
+  <script src="/js/togglePhotos.js"></script>
 
