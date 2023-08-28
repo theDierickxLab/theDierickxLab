@@ -153,6 +153,54 @@ Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar Uni
 %}
 
 {% capture text %}
+Yilian obtained her Master's degree at the Fujian University of Traditional Chinese Medicine. During this time, she learned about myocardial infarction-induced cardiomyocyte pyroptosis and hypertensive neuroinflammation. In the Dierickx's lab, she will focus on the cardiac circadian clock and the interaction between peripheral organs. Outside the lab, she loves reading books,  playing badminton, hiking, and traveling to different places.
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/yilian"
+  title="Yilian Wang |   PhD student"
+  text=text
+%}
+
+{% capture text %}
+Erik is a Bachelor student at the Technical University of Bingen and will be doing an internship in our lab while working on his Bachelor´s degree.
+In the Dierickx laboratory, he will be working closely together with Margaux in her research on the circadian clock of cardiac cells to understand how the clock contributes to heart function using in vitro microscopy-based models.
+As a working student Erik works at Abbott GmBH and enjoys spending his free time in nature whenever the weather permits. His hobbies include calisthenics, swimming, traveling and when time allows, painting.
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Erik.png"
+  title="Erik Dechant |   Bachelor Internship student"
+  text=text
+  flip=true
+%}
+
+
+{% capture text %}
 Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht University and is currently finalizing her Master’s degree in Biology of Disease with a specific focus on cardiovascular research. Her interest in cardiometabolism developed early on when studying the role of ketone bodies as a potential heart failure treatment in rat cardiomyocytes. Outside of the lab, she enjoys drinking tea, practice sports, visiting bars with friends, and one day she aims to run half a marathon. Additionally, in Bad Nauheim she hopes to retrieve an advanced command of the German language. 
 
 
