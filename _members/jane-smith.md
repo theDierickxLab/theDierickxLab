@@ -1,14 +1,13 @@
----
-name:  July 2023: Lab picture day!
+x---
+name: July 2023: Lab picture day!
 image: /group-photos/IMG_2055.jpg
 role: pi
 aliases:
-  - 
-  - 
+  - J. Smith
+  - J Smith
 links:
-  home-page: 
-  orcid: 
-
+  home-page: https://janesmith.com
+  orcid: 0000-0001-8713-9213
 ---
 
 July 2023: Lab picture day!
