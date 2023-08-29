@@ -20,8 +20,6 @@ July 2023: Lab picture day!
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/Picture6.png"  image2="/group-photos/Picture8.png" %} {:.center}
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/Picture9.png"  image2="/group-photos/Picture10.png" %} {:.center}
 
-
-
 Birthday cake by Adwitiya
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/cake.jpg" %} {:.center}
 
@@ -52,5 +50,4 @@ Christmas market
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
 
