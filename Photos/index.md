@@ -43,6 +43,5 @@ Christmas market
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" %}
-{% include list.html data="members" component="portrait" %}
 
 
