@@ -21,9 +21,6 @@ July 2023: Lab picture day!
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/Picture9.png"  image2="/group-photos/Picture10.png" %} {:.center}
 
 
-  <!-- More Photos -->
-
-  <button id="seeAll">See All</button>
 
 Birthday cake by Adwitiya
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/cake.jpg" %} {:.center}
@@ -50,6 +47,10 @@ Christmas market
 
 {% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_9971.jpg" image2="/group-photos/people.jpg" %} {:.center}
 
+{% include section.html %}
 
- <script src="/js/togglePhotos.js"></script>
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
 
