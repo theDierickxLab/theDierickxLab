@@ -1,5 +1,5 @@
 ---
-name: July 2023: Lab picture day!
+name: July 2023
 image: /group-photos/IMG_2055.jpg
 role: pi
 aliases:
