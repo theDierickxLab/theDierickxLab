@@ -1,4 +1,4 @@
-x---
+---
 name: July 2023: Lab picture day!
 image: /group-photos/IMG_2055.jpg
 role: pi
