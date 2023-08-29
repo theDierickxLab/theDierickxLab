@@ -1,14 +1,11 @@
 ---
 name:  July 2023: Lab picture day!
-image: images/photo.jpg
+image: /group-photos/IMG_2055.jpg
 role: pi
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+July 2023: Lab picture day!
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_2055.jpg" image2="/group-photos/IMG_2072.jpg" %} {:.center} 
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_2049.jpg" image2="/group-photos/IMG_2059.jpg" %} {:.center} 
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_2063.jpg" image2="/group-photos/IMG_2064.jpg" %} {:.center}
