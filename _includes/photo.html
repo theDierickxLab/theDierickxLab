@@ -16,10 +16,8 @@
   {%- endif -%}
 {%- endfor -%}
 
-#{%- assign url = member.url | default: "" -%}  {# Remove or comment out this line #}
-
 {::nomarkdown}
-#<a class="portrait" style="--width: {{ width }}px">  {# Remove the href attribute #}
+<a class="portrait" style="--width: {{ width }}px">
 
   {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
