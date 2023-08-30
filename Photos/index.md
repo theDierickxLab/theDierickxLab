@@ -10,7 +10,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data=sorted_members component="photo" %}
+{% include list.html data=members component="photo" %}
 
 
 
