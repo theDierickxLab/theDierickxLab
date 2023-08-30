@@ -8,11 +8,10 @@
 
 {%- assign id = include.slug | default: include.id | default: "" -%}
 {%- assign members = site.members | default: emptyarray -%} 
-{%- assign sorted_members = members | sort: name -%}
 
 
 {%- assign member = nil -%}
-{%- for m in sorted_members -%}
+{%- for m in members -%}
   {%- if m.slug == id -%}
     {%- assign member = m -%}
   {%- endif -%}
