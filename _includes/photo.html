@@ -39,6 +39,11 @@
     >
   </span>
 
+  {%- if name -%}
+    <span class="portrait_name">
+      {{ name }}
+    </span>
+  {%- endif -%} 
 
   {%- assign description = member.description | default: "" -%}
   {%- if description -%}
