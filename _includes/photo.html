@@ -1,27 +1,56 @@
-{%- assign emptyarray = "" | split: "," -%}
-{%- assign data = site.data[include.data] | default: site[include.data] | default: emptyarray -%}
-{%- assign filters = include.filters | split: "," -%}
+{%- if include.style == "small" -%}
+  {%- assign width = 100 -%}
+{%- else -%}
+  {%- assign width = 150 -%}
+{%- endif -%}
 
-{%- for filter in filters -%}
-  {%- assign entry = filter | split: ":" -%}
-  {%- assign key = entry[0] | strip -%}
-  {%- assign value = entry[1] | strip | default: nil -%}
-  {%- if value contains "~" -%}
-    {%- assign value = value | remove: "~" -%}
-    {%- assign data = data | where_exp: "d", "d[key] contains value" -%}
-  {%- else -%}
-    {%- assign data = data | where_exp: "d", "d[key] == value" -%}
+{%- assign emptyarray = "" | split: "," -%}
+
+{%- assign id = include.slug | default: include.id | default: "" -%}
+{%- assign members = site.members | default: emptyarray -%} 
+
+{%- assign member = nil -%}
+{%- for m in members -%}
+  {%- if m.slug == id -%}
+    {%- assign member = m -%}
   {%- endif -%}
 {%- endfor -%}
 
-{%- for d in data -%}
-  <div>
-    {%- if d.text -%}
-      <p>{{ d.text }}</p>
-    {%- endif -%}
+#{%- assign url = member.url | default: "" -%}  {# Remove or comment out this line #}
 
-    {%- if d.image -%}
-      <img src="{{ d.image }}" alt="{{ d.text | default: 'Image' }}">
-    {%- endif -%}
-  </div>
-{%- endfor -%}
+{::nomarkdown}
+#<a class="portrait" style="--width: {{ width }}px">  {# Remove the href attribute #}
+
+  {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
+
+  {%- assign role = member.role | default: "" -%}
+  {%- if role -%}
+    {%- include role.html type=role -%}
+  {%- endif -%}
+  
+  {%- assign name = member.name | default: "" -%}
+  {%- assign image = member.image | default: "" -%}
+  <span class="portrait_image">
+    <img
+      src="{{ image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+      loading="lazy"
+      alt="{{ name | default: 'Member portrait' }}"
+    >
+  </span>
+
+  {%- if name -%}
+    <span class="portrait_name">
+      {{ name }}
+    </span>
+  {%- endif -%}
+
+  {%- assign description = member.description | default: "" -%}
+  {%- if description -%}
+    <span class="portrait_description">
+      {{ description }}
+    </span>
+  {%- endif -%}
+
+</a>
+{:/}
