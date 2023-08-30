@@ -10,6 +10,8 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="photo" %}
+{%- assign sorted_members = site.data.members | sort: "file_name" -%}
+{% include list.html data=sorted_members component="photo" %}
+
 
 
