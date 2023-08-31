@@ -58,6 +58,30 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
 %}
 
 {% capture text %}
+Zhaoyu is currently finishing up his PhD research at the Erasmus University Medical Center, where he has been studying the differentiation of human iPSCs to kidney organoids in Dr. Martin Hoogduijn’s lab. To explore the applications of iPSC-derived organoids in disease modeling and regenerative therapy, he investigated kidney structures of organoids and their physiological functions. In the Dierickx lab, he will be focusing on developing cardiac organoid models using pluripotent stem cells. Specifically, he will be studying the role of circadian clock proteins in pluripotent stem cells and during cardiac tissue development. Outside of his academic life, he enjoys experimenting with various cuisines from all around the world.![image](https://github.com/theDierickxLab/theDierickxLab/assets/114193939/36936194-ab8e-4ff1-a168-b9b0e4e1f7e0)
+
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/zhaoyu.png"
+  title="Zhaoyu Du |  Postdoc"
+  text=text
+%}
+
+
+{% capture text %}
 Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molecular Biology. While there, he worked as a research assistant in the lab of Dr. Mitchell Lazar in the Institute for Diabetes, Obesity, and Metabolism, starting off his interest in circadian rhythms and metabolism research. Unrelatedly but simultaneously, he discovered a love for Lindy Hop, food from around the world, and social story games.
 
 {%
@@ -77,6 +101,7 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
   image="images/Bryce.png"
   title="Bryce Carpenter  |  PhD student"
   text=text
+  flip=true
 %}
 
 {% capture text %}
@@ -98,7 +123,6 @@ Kai studied the genomics and evolution of endangered animals for her master's de
   include feature.html
   image="images/Kai.jpg"
   title="Kai Cui  |  PhD student"
-  flip=true
   text=text
 %}
 
@@ -125,6 +149,7 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
   image="images/Yannick.JPG"
   title="Yannick Mangold  |  Technical assistant"
   text=text
+  flip=true
 %}
 
 
@@ -148,7 +173,6 @@ Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar Uni
   include feature.html
   image="images/Picture 1.png"
   title="Seval Kübra Korkunç  |   PhD student"
-  flip=true
   text=text
 %}
 
@@ -172,6 +196,7 @@ Yilian obtained her Master's degree at the Fujian University of Traditional Chin
   image="images/yilian.png"
   title="Yilian Wang |   PhD student"
   text=text
+  flip=true
 %}
 
 {% capture text %}
@@ -196,7 +221,6 @@ As a working student Erik works at Abbott GmBH and enjoys spending his free time
   image="images/Erik.png"
   title="Erik Dechant |   Bachelor Internship student"
   text=text
-  flip=true
 %}
 
 
@@ -221,6 +245,7 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   image="images/lz22.jpg"
   title="Daniëlle Ammerlaan  |   Master’s student"
   text=text
+  flip=true
 %}
 
 
