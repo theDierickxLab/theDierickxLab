@@ -58,7 +58,7 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
 %}
 
 {% capture text %}
-Zhaoyu is currently finishing up his PhD research at the Erasmus University Medical Center, where he has been studying the differentiation of human iPSCs to kidney organoids in Dr. Martin Hoogduijn’s lab. To explore the applications of iPSC-derived organoids in disease modeling and regenerative therapy, he investigated kidney structures of organoids and their physiological functions. In the Dierickx lab, he will be focusing on developing cardiac organoid models using pluripotent stem cells. Specifically, he will be studying the role of circadian clock proteins in pluripotent stem cells and during cardiac tissue development. Outside of his academic life, he enjoys experimenting with various cuisines from all around the world.![image](https://github.com/theDierickxLab/theDierickxLab/assets/114193939/36936194-ab8e-4ff1-a168-b9b0e4e1f7e0)
+Zhaoyu is currently finishing up his PhD research at the Erasmus University Medical Center, where he has been studying the differentiation of human iPSCs to kidney organoids in Dr. Martin Hoogduijn’s lab. To explore the applications of iPSC-derived organoids in disease modeling and regenerative therapy, he investigated kidney structures of organoids and their physiological functions. In the Dierickx lab, he will be focusing on developing cardiac organoid models using pluripotent stem cells. Specifically, he will be studying the role of circadian clock proteins in pluripotent stem cells and during cardiac tissue development. Outside of his academic life, he enjoys experimenting with various cuisines from all around the world.
 
 
 {%
