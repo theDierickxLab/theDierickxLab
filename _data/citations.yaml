@@ -1,6 +1,77 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1101/2023.11.02.565150
+  title: NAD+ controls circadian rhythmicity during cardiac aging
+  authors:
+  - Bryce J. Carpenter
+  - Margaux Lecacheur
+  - Yannick N. Mangold
+  - Kai Cui
+  - "Stefan G\xFCnther"
+  - Pieterjan Dierickx
+  publisher: bioRxiv
+  date: 1900-1-1
+  link: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
+  author:
+  - given: Bryce
+    family: J. Carpenter
+  - given: Margaux
+    family: Lecacheur
+  - given: Yannick
+    family: N. Mangold
+  - given: Kai
+    family: Cui
+  - given: Stefan
+    family: "G\xFCnther"
+  - given: Pieterjan
+    family: Dierickx
+  container-title: null
+  URL: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
+  image: null
+  tags:
+  - NAD+
+  - Circadian Rhythms
+  - Aging
+  - Transcriptional Regulation
+  _cache: ec106353fd33e61cb234de84744400229ec205dba2f556821c7fbbc9b2870ded
+- id: 10.1038/s42003-023-05537-z
+  title: "Cardiomyocyte-specific disruption of the circadian BMAL1\u2013REV-ERB\u03B1\
+    /\u03B2 regulatory network impacts distinct miRNA species in the murine heart"
+  authors:
+  - Mary N. Latimer
+  - Lamario J. Williams
+  - Gobinath Shanmugan
+  - Bryce J. Carpenter
+  - Mitchell A. Lazar
+  - Pieterjan Dierickx
+  - Martin E. Young
+  publisher: Communications Biology
+  date: 1900-1-1
+  link: https://doi.org/gs5gvf
+  author:
+  - given: Mary
+    family: N. Latimer
+  - given: Lamario
+    family: J. Williams
+  - given: Gobinath
+    family: Shanmugan
+  - given: Bryce
+    family: J. Carpenter
+  - given: Pieterjan
+    family: Dierickx
+  - given: Mitchell A.
+    family: Lazar
+  - given: Martin E.
+    family: Young
+  container-title: null
+  URL: https://www.nature.com/articles/s42003-023-05537-z
+  image: null
+  tags:
+  - Circadian Rhythms
+  - miRNAs
+  - REV-ERBs
+  _cache: a695a833cbc1b1c088dc0019520f5353d428512f14b975b4c331f568a94fe039
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from
     heart failure
@@ -951,7 +1022,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: '2015-12-18'
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -987,7 +1058,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: '2017-12-19'
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -1021,7 +1092,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: '2020-12-15'
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current Opinion in Pharmacology
   author:
@@ -1075,7 +1146,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: '2021-12-23'
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature Cardiovascular Research
   container-title-short: Nat Cardiovasc Res
