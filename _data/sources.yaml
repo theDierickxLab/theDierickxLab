@@ -1,3 +1,55 @@
+- id: https://doi.org/10.1101/2023.11.02.565150
+  title: NAD+ controls circadian rhythmicity during cardiac aging
+  author:
+  - given: Bryce 
+    family: J. Carpenter
+  - given: Margaux
+    family: Lecacheur
+  - given: Yannick 
+    family: N. Mangold
+  - given: Kai 
+    family: Cui
+  - given: Stefan
+    family: Günther
+  - given: Pieterjan
+    family: Dierickx
+  container-title: 
+  date: 
+  URL: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
+  image: 
+  tags: 
+      - NAD+
+      - Circadian Rhythms
+      - Aging
+      - Transcriptional Regulation
+
+- id: 10.1038/s42003-023-05537-z
+  title: Cardiomyocyte-specific disruption of the circadian BMAL1–REV-ERBα/β regulatory network impacts distinct miRNA species in the murine heart
+  author:
+  - given: Mary  
+    family: N. Latimer
+  - given: Lamario 
+    family: J. Williams
+  - given: Gobinath 
+    family: Shanmugan
+  - given: Bryce 
+    family: J. Carpenter
+  - given: Pieterjan 
+    family: Dierickx
+  - given: Mitchell A. 
+    family: Lazar
+  - given: Martin E. 
+    family: Young 
+
+  container-title: 
+  date: 
+  URL: https://www.nature.com/articles/s42003-023-05537-z
+  image: 
+  tags: 
+      - Circadian Rhythms
+      - miRNAs 
+      - REV-ERBs
+
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from heart failure
   author:
