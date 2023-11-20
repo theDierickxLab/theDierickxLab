@@ -14,9 +14,9 @@
   - given: Pieterjan
     family: Dierickx
   container-title: 
-  date: 
+  date: 2023-11-8
   URL: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
-  image: 
+  image: /publications_images/paper1111.png
   tags: 
       - NAD+
       - Circadian Rhythms
@@ -42,9 +42,9 @@
     family: Young 
 
   container-title: 
-  date: 
+  date: 2023-11-11
   URL: https://www.nature.com/articles/s42003-023-05537-z
-  image: 
+  image: /publications_images/42003_2023_5537_Fig1.png
   tags: 
       - Circadian Rhythms
       - miRNAs 
