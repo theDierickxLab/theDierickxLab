@@ -76,7 +76,8 @@ title: Home
    {% endcapture %}
 
 {% include feature.html 
-   image="/group-photos/Picture11.png" 
-   title="Summer lab BBQ" 
+   image="/group-photos/image0.jpeg" 
+   title="new group photo" 
    text=text %}
+   
 
