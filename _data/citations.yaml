@@ -11,7 +11,7 @@
   - "Stefan G\xFCnther"
   - Pieterjan Dierickx
   publisher: bioRxiv
-  date: 1900-1-1
+  date: '2023-11-08'
   link: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
   author:
   - given: Bryce
@@ -28,13 +28,13 @@
     family: Dierickx
   container-title: null
   URL: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
-  image: null
+  image: /publications_images/paper1111.png
   tags:
   - NAD+
   - Circadian Rhythms
   - Aging
   - Transcriptional Regulation
-  _cache: ec106353fd33e61cb234de84744400229ec205dba2f556821c7fbbc9b2870ded
+  _cache: c3bda8f320c1ddda0fbe4eb1403dca87f7398349ac028a333fb94f8eb3d99762
 - id: 10.1038/s42003-023-05537-z
   title: "Cardiomyocyte-specific disruption of the circadian BMAL1\u2013REV-ERB\u03B1\
     /\u03B2 regulatory network impacts distinct miRNA species in the murine heart"
@@ -66,12 +66,12 @@
     family: Young
   container-title: null
   URL: https://www.nature.com/articles/s42003-023-05537-z
-  image: null
+  image: /publications_images/42003_2023_5537_Fig1.png
   tags:
   - Circadian Rhythms
   - miRNAs
   - REV-ERBs
-  _cache: a695a833cbc1b1c088dc0019520f5353d428512f14b975b4c331f568a94fe039
+  _cache: f4c4f25d79c0c8c67f854864cc8a45661b21c66df31caf835e1c875feaa83275
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from
     heart failure
