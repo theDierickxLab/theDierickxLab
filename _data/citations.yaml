@@ -35,43 +35,6 @@
   - Aging
   - Transcriptional Regulation
   _cache: c3bda8f320c1ddda0fbe4eb1403dca87f7398349ac028a333fb94f8eb3d99762
-- id: 10.1038/s42003-023-05537-z
-  title: "Cardiomyocyte-specific disruption of the circadian BMAL1\u2013REV-ERB\u03B1\
-    /\u03B2 regulatory network impacts distinct miRNA species in the murine heart"
-  authors:
-  - Mary N. Latimer
-  - Lamario J. Williams
-  - Gobinath Shanmugan
-  - Bryce J. Carpenter
-  - Mitchell A. Lazar
-  - Pieterjan Dierickx
-  - Martin E. Young
-  publisher: Communications Biology
-  date: 1900-1-1
-  link: https://doi.org/gs5gvf
-  author:
-  - given: Mary
-    family: N. Latimer
-  - given: Lamario
-    family: J. Williams
-  - given: Gobinath
-    family: Shanmugan
-  - given: Bryce
-    family: J. Carpenter
-  - given: Pieterjan
-    family: Dierickx
-  - given: Mitchell A.
-    family: Lazar
-  - given: Martin E.
-    family: Young
-  container-title: null
-  URL: https://www.nature.com/articles/s42003-023-05537-z
-  image: /publications_images/42003_2023_5537_Fig1.png
-  tags:
-  - Circadian Rhythms
-  - miRNAs
-  - REV-ERBs
-  _cache: 7e03761a37b332381431678bab8f60fd526d52a132d14b3c3d548e312668e56f
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from
     heart failure
@@ -1208,3 +1171,40 @@
   - NAD+
   - circadian clock
   _cache: cc7020cca9fc97e9fc056bedb52d014ce53e9fa9ef98e3e0b62c7faae51799ef
+- id: 10.1038/s42003-023-05537-z
+  title: "Cardiomyocyte-specific disruption of the circadian BMAL1\u2013REV-ERB\u03B1\
+    /\u03B2 regulatory network impacts distinct miRNA species in the murine heart"
+  authors:
+  - Mary N. Latimer
+  - Lamario J. Williams
+  - Gobinath Shanmugan
+  - Bryce J. Carpenter
+  - Mitchell A. Lazar
+  - Pieterjan Dierickx
+  - Martin E. Young
+  publisher: Communications Biology
+  date: 1900-1-1
+  link: https://doi.org/gs5gvf
+  author:
+  - given: Mary
+    family: N. Latimer
+  - given: Lamario
+    family: J. Williams
+  - given: Gobinath
+    family: Shanmugan
+  - given: Bryce
+    family: J. Carpenter
+  - given: Pieterjan
+    family: Dierickx
+  - given: Mitchell A.
+    family: Lazar
+  - given: Martin E.
+    family: Young
+  container-title: null
+  URL: https://www.nature.com/articles/s42003-023-05537-z
+  image: /publications_images/42003_2023_5537_Fig1.png
+  tags:
+  - Circadian Rhythms
+  - miRNAs
+  - REV-ERBs
+  _cache: 7e03761a37b332381431678bab8f60fd526d52a132d14b3c3d548e312668e56f
