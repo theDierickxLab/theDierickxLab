@@ -23,32 +23,6 @@
       - Aging
       - Transcriptional Regulation
 
-- id: 10.1038/s42003-023-05537-z
-  title: Cardiomyocyte-specific disruption of the circadian BMAL1–REV-ERBα/β regulatory network impacts distinct miRNA species in the murine heart
-  author:
-  - given: Mary  
-    family: N. Latimer
-  - given: Lamario 
-    family: J. Williams
-  - given: Gobinath 
-    family: Shanmugan
-  - given: Bryce 
-    family: J. Carpenter
-  - given: Pieterjan 
-    family: Dierickx
-  - given: Mitchell A. 
-    family: Lazar
-  - given: Martin E. 
-    family: Young 
-  container-title: 
-  date: 2023-11-10
-  URL: https://www.nature.com/articles/s42003-023-05537-z
-  image: /publications_images/42003_2023_5537_Fig1.png
-  tags: 
-      - Circadian Rhythms
-      - miRNAs 
-      - REV-ERBs
-
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from heart failure
   author:
@@ -872,4 +846,30 @@
       - E4bp4
       - NAD+
       - circadian clock
+      
+- id: 10.1038/s42003-023-05537-z
+  title: Cardiomyocyte-specific disruption of the circadian BMAL1–REV-ERBα/β regulatory network impacts distinct miRNA species in the murine heart
+  author:
+  - given: Mary  
+    family: N. Latimer
+  - given: Lamario 
+    family: J. Williams
+  - given: Gobinath 
+    family: Shanmugan
+  - given: Bryce 
+    family: J. Carpenter
+  - given: Pieterjan 
+    family: Dierickx
+  - given: Mitchell A. 
+    family: Lazar
+  - given: Martin E. 
+    family: Young 
+  container-title: 
+  date: 2023-11-10
+  URL: https://www.nature.com/articles/s42003-023-05537-z
+  image: /publications_images/42003_2023_5537_Fig1.png
+  tags: 
+      - Circadian Rhythms
+      - miRNAs 
+      - REV-ERBs
       
