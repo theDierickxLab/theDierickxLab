@@ -62,8 +62,7 @@ title: Home
 
 ## Latest News
 
-{% capture text %} On Friday we had our half time lab BBQ. The brief rain showers could not stop us from having fun. All people brought authentic food to make our BBQ a real success. Very grateful to be working with such an inspiring and talented group of scientists. Looking forward to the second half of the year!
-
+{% capture text %}
 
 {% include link.html 
    link="https://www.dierickxlab.com/2023/07/21/bbq.html" 
