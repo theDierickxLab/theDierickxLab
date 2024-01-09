@@ -1,6 +1,7 @@
 ---
 name:  Fun lab outing April 2023
 image: /group-photos/Picture1.png
+date: 2023-04-01
 role: 
 aliases:
 links:
