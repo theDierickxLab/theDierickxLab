@@ -223,14 +223,13 @@ As a working student Erik works at Abbott GmBH and enjoys spending his free time
   text=text
 %}
 
-
 {% capture text %}
-Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht University and is currently finalizing her Master’s degree in Biology of Disease with a specific focus on cardiovascular research. Her interest in cardiometabolism developed early on when studying the role of ketone bodies as a potential heart failure treatment in rat cardiomyocytes. Outside of the lab, she enjoys drinking tea, practice sports, visiting bars with friends, and one day she aims to run half a marathon. Additionally, in Bad Nauheim she hopes to retrieve an advanced command of the German language. 
+Margo Favier is currently pursuing a Master's degree in Molecular and Cellular Biology at the University Claude Bernard Lyon 1, specializing in Tissue Biology Imaging: Morphogenesis and Repair. Within the team, she will lead a project aimed at utilizing human pluripotent stem cell lines to establish an in vitro model of cardiac aging. Apart from her academic pursuits, she has a keen interest in traveling and cooking. 
 
 
 {%
   include link.html
-  link="Danielle.Ammerlaan@mpi-bn.mpg.de"
+  link="Margo.Favier@mpi-bn.mpg.de"
   type="email"
   icon=""
   text="Email"
@@ -242,11 +241,12 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
 
 {%
   include feature.html
-  image="images/lz22.jpg"
-  title="Daniëlle Ammerlaan  |   Master’s student"
+  image="images/Margo.png"
+  title="Margo Favier  |   Master’s student"
   text=text
   flip=true
 %}
+
 
 
 {% include section.html %}
@@ -301,6 +301,28 @@ Wikie is studying for a B.S. in Molecular Biology at University of Sheffield in 
   flip=true
 %}
 
+{% capture text %}
+Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht University and is currently finalizing her Master’s degree in Biology of Disease with a specific focus on cardiovascular research. Her interest in cardiometabolism developed early on when studying the role of ketone bodies as a potential heart failure treatment in rat cardiomyocytes. Outside of the lab, she enjoys drinking tea, practice sports, visiting bars with friends, and one day she aims to run half a marathon. Additionally, in Bad Nauheim she hopes to retrieve an advanced command of the German language. 
+
+
+{%
+  include link.html
+  link="Danielle.Ammerlaan@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/lz22.jpg"
+  title="Daniëlle Ammerlaan  |   Master’s student"
+  text=text
+%}
  
 {% include section.html %} 
   
