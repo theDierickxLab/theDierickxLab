@@ -8,7 +8,7 @@
 
 {%- assign id = include.slug | default: include.id | default: "" -%}
 {%- assign members = site.members | default: emptyarray -%} 
-{%- assign sorted_members = members | sort: 'name' -%}
+{%- assign sorted_members = members | sort: 'date' -%}
 
 
 {%- assign member = nil -%}
