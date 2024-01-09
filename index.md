@@ -65,7 +65,7 @@ title: Home
 {% capture text %}
 
 {% include link.html 
-   link="https://www.dierickxlab.com/2023/07/21/bbq.html" 
+   link="https://www.dierickxlab.com/2024/01/09/Margo.html" 
    type="home-page" 
    text="See more news" 
    icon="fa-solid fa-arrow-right" 
@@ -75,8 +75,8 @@ title: Home
    {% endcapture %}
 
 {% include feature.html 
-   image="/group-photos/image0.jpeg" 
-   title="new group photo" 
-   text=text %}
+   image="/group-photos/Margo.png" 
+   title="Welcome to our new student Margo (with an O)!" 
+   text="New year, new faces…similar names. Today, Margo Favier joined our lab. As a Master’s student Margo will be working with both Margaux (with aux!) and Steven on circadian rhythms in 2D as well as 3D cultures of PSC-CMs. We are happy to have you in the lab and looking forward to all the cool science that we’ll do together. Welcome to the team!" %}
    
 
