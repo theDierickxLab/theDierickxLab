@@ -75,7 +75,7 @@ title: Home
    {% endcapture %}
 
 {% include feature.html 
-   image="/group-photos/Margo.png" 
+   image="/images/Margo.png" 
    title="Welcome to our new student Margo (with an O)!" 
    text="New year, new faces…similar names. Today, Margo Favier joined our lab. As a Master’s student Margo will be working with both Margaux (with aux!) and Steven on circadian rhythms in 2D as well as 3D cultures of PSC-CMs. We are happy to have you in the lab and looking forward to all the cool science that we’ll do together. Welcome to the team!" %}
    
