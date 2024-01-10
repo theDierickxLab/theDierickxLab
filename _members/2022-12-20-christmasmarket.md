@@ -1,5 +1,5 @@
 ---
-name: Christmas market December 2022
+name: Christmas market <br> December 2022
 image: /group-photos/23A29672-FB30-4DCD-BD3A-226B3FE714AC.jpeg
 date: 2022-12-20
 aliases:
