@@ -1,5 +1,5 @@
 ---
-name: Lab Pictures November 2022
+name: Lab Pictures <br> November 2022
 image: /group-photos/IMG_9971.jpg
 date: 2022-11-10
 ---
