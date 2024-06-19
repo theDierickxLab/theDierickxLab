@@ -74,7 +74,6 @@ title: Home
    {:.center} 
    {% endcapture %}
 
-<div style="max-width: 80%; margin: 0 auto; padding: 20px;">
 
 ## Learn more about the CPI
 
@@ -96,6 +95,5 @@ The CPI consists of basic, clinical, and translationally-oriented researchers an
 
 Become part of the team!
 
-</div>
 
 
