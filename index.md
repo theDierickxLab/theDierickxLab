@@ -65,7 +65,7 @@ title: Home
 {% capture text %}
 
 {% include link.html 
-   link="https://www.dierickxlab.com/2024/06/19/cpi.html" 
+   link="" 
    type="home-page" 
    text="See more news" 
    icon="fa-solid fa-arrow-right" 
@@ -77,8 +77,7 @@ title: Home
 {% include feature.html 
    title="Learn more about the CPI" 
    text="Our lab is covered in this short image film on our cardiopulmonary institute (CPI) excellence cluster, which was established in 2019: 
-<a href="https://vimeo.com/user12127256/review/910351499/5484ab70ae">https://vimeo.com/user12127256/review/910351499/5484ab70ae</a>
-Within the CPI researchers from Gießen and Frankfurt university as well as our Max-Planck-Institute (MPI) for heart and lung research in Bad Nauheim have joined forces to combine different research fields and expertises:
+https://vimeo.com/user12127256/review/910351499/5484ab70ae Within the CPI researchers from Gießen and Frankfurt university as well as our Max-Planck-Institute (MPI) for heart and lung research in Bad Nauheim have joined forces to combine different research fields and expertises:
 JLU: Justus-Liebig-University Gießen
 Focus: Cardiopulmonary Vasculature and Respiratory System
 MPI: Max-Planck-Institute for Heart and Lung Research Bad Nauheim
