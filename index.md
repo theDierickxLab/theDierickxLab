@@ -65,7 +65,7 @@ title: Home
 {% capture text %}
 
 {% include link.html 
-   link="" 
+   link="https://www.dierickxlab.com/blog/" 
    type="home-page" 
    text="See more news" 
    icon="fa-solid fa-arrow-right" 
