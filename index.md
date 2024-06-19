@@ -65,7 +65,7 @@ title: Home
 {% capture text %}
 
 {% include link.html 
-   link="" 
+   link="https://www.dierickxlab.com/2024/06/19/cpi.html" 
    type="home-page" 
    text="See more news" 
    icon="fa-solid fa-arrow-right" 
@@ -77,16 +77,14 @@ title: Home
 {% include feature.html 
    title="Learn more about the CPI" 
    text="Our lab is covered in this short image film on our cardiopulmonary institute (CPI) excellence cluster, which was established in 2019. Within the CPI researchers from Gießen and Frankfurt university as well as our Max-Planck-Institute (MPI) for heart and lung research in Bad Nauheim have joined forces to combine different research fields and expertises:
-JLU: Justus-Liebig-University Gießen
-Focus: Cardiopulmonary Vasculature and Respiratory System
-MPI: Max-Planck-Institute for Heart and Lung Research Bad Nauheim
-Focus: Heart, Lung and Vessel Development and Remodeling
-JWGU: Goethe University Frankfurt
-Focus: Cardiovascular Biology
+- **JLU: Justus-Liebig-University Gießen**  
+  *Focus: Cardiopulmonary Vasculature and Respiratory System*
+
+- **MPI: Max-Planck-Institute for Heart and Lung Research Bad Nauheim**  
+  *Focus: Heart, Lung and Vessel Development and Remodeling*
+
+- **JWGU: Goethe University Frankfurt**  
+  *Focus: Cardiovascular Biology*
 
 [Watch the film](https://vimeo.com/user12127256/review/910351499/5484ab70ae)
-
-The CPI consists of basic, clinical and translationally-oriented researchers and experts, which joined forces to understand cardio-pulmonary diseases and to find new treatments. We already made groundbreaking contributions to cardio-pulmonary science and the development of novel treatments. The Cluster aims at basic and translational research. Our interdisciplinary team allows us to study mechanisms of cardio-pulmonary diseases in model systems ranging from cell culture experiments to animal models and to combine these results with clinical data. Importantly, the CPI is well equipped to carry out translational studies validating our basic research results in patients in the clinical setting. Moreover, physician-scientists of the CPI are intensely involved in clinical studies at every stage to evaluate novel therapeutics and therapies.
-
-Become part of the team!" %}
 
