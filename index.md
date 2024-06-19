@@ -72,8 +72,9 @@ title: Home
    style=""
    flip=true %} 
    {:.center} 
-   {% endcapture %}
 
+{% endcapture %}
+{{ text }}
 
 ## Learn more about the CPI
 
