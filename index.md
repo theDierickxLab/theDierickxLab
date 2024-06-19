@@ -81,12 +81,10 @@ title: Home
 
 Within the CPI, researchers from Gießen and Frankfurt university as well as our Max-Planck-Institute (MPI) for heart and lung research in Bad Nauheim have joined forces to combine different research fields and expertises:
 
-- **JLU: Justus-Liebig-University Gießen**  
-  *Focus: Cardiopulmonary Vasculature and Respiratory System*
-
-- **MPI: Max-Planck-Institute for Heart and Lung Research Bad Nauheim**  
-  *Focus: Heart, Lung and Vessel Development and Remodeling*
-
-- **JWGU: Goethe University Frankfurt**  
-  *Focus: Cardiovascular Biology*“%}
+JLU: Justus-Liebig-University Gießen
+Focus: Cardiopulmonary Vasculature and Respiratory System
+MPI: Max-Planck-Institute for Heart and Lung Research Bad Nauheim
+Focus: Heart, Lung and Vessel Development and Remodeling
+JWGU: Goethe University Frankfurt
+Focus: Cardiovascular Biology“%}
 
