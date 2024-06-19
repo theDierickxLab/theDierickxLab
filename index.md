@@ -88,11 +88,5 @@ Within the CPI, researchers from Gießen and Frankfurt university as well as our
   *Focus: Heart, Lung and Vessel Development and Remodeling*
 
 - **JWGU: Goethe University Frankfurt**  
-  *Focus: Cardiovascular Biology*
-
-The CPI consists of basic, clinical, and translationally-oriented researchers and experts, who have joined forces to understand cardio-pulmonary diseases and to find new treatments. We have already made groundbreaking contributions to cardio-pulmonary science and the development of novel treatments. The Cluster aims at basic and translational research. Our interdisciplinary team allows us to study mechanisms of cardio-pulmonary diseases in model systems ranging from cell culture experiments to animal models and to combine these results with clinical data. Importantly, the CPI is well equipped to carry out translational studies validating our basic research results in patients in the clinical setting. Moreover, physician-scientists of the CPI are intensely involved in clinical studies at every stage to evaluate novel therapeutics and therapies.
-
-Become part of the team!
-
-</div>“%}
+  *Focus: Cardiovascular Biology*“%}
 
