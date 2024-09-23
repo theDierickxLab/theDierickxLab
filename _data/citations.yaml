@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1038/s44325-024-00024-8
+  title: NAD+ controls circadian rhythmicity during cardiac aging
+  authors:
+  - Margaux Lecacheur
+  - "Dani\xEBlle J. M. Ammerlaan"
+  - Pieterjan Dierickx
+  publisher: npj Cardiovascular Health
+  date: 1900-1-1
+  link: https://www.nature.com/articles/s44325-024-00024-8
+  author:
+  - given: Margaux
+    family: Lecacheur
+  - given: "Dani\xEBlle"
+    family: J. M. Ammerlaan
+  - given: Pieterjan
+    family: Dierickx
+  container-title: null
+  URL: https://www.nature.com/articles/s44325-024-00024-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240923&utm_content=10.1038/s44325-024-00024-8
+  image: /publications_images/papernewML.png
+  tags:
+  - Human circadian rhythms
+  - Cardiac Function
+  - Therapeutics
+  _cache: 7e9de24a59ab04a242692d76fa05a9bb7448c4d763f7f7c361eaea95f18404a2
 - id: https://doi.org/10.1101/2023.11.02.565150
   title: NAD+ controls circadian rhythmicity during cardiac aging
   authors:
@@ -985,7 +1009,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: '2015-12-18'
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -1021,7 +1045,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: '2018-11-19'
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -1055,7 +1079,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: '2021-4-5'
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current Opinion in Pharmacology
   author:
@@ -1109,7 +1133,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: '2022-1-1'
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature Cardiovascular Research
   container-title-short: Nat Cardiovasc Res
@@ -1183,7 +1207,7 @@
   - Pieterjan Dierickx
   - Martin E. Young
   publisher: Communications Biology
-  date: '2023-11-11'
+  date: 1900-1-1
   link: https://doi.org/gs5gvf
   author:
   - given: Mary
