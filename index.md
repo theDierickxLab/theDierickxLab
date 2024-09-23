@@ -76,25 +76,9 @@ title: Home
 {% endcapture %}
 {{ text }}
 
-## Learn more about the CPI
+## Big congrats to Margaux and Daniëlle!
 
-Our lab is covered in this short image film on our cardiopulmonary institute (CPI) excellence cluster, which was established in 2019: 
-[Watch the film](https://vimeo.com/user12127256/review/910351499/5484ab70ae)
-
-Within the CPI, researchers from Gießen and Frankfurt university as well as our Max-Planck-Institute (MPI) for heart and lung research in Bad Nauheim have joined forces to combine different research fields and expertises:
-
-- **JLU: Justus-Liebig-University Gießen**  
-  *Focus: Cardiopulmonary Vasculature and Respiratory System*
-
-- **MPI: Max-Planck-Institute for Heart and Lung Research Bad Nauheim**  
-  *Focus: Heart, Lung and Vessel Development and Remodeling*
-
-- **JWGU: Goethe University Frankfurt**  
-  *Focus: Cardiovascular Biology*
-
-The CPI consists of basic, clinical, and translationally-oriented researchers and experts, who have joined forces to understand cardio-pulmonary diseases and to find new treatments. We have already made groundbreaking contributions to cardio-pulmonary science and the development of novel treatments. The Cluster aims at basic and translational research. Our interdisciplinary team allows us to study mechanisms of cardio-pulmonary diseases in model systems ranging from cell culture experiments to animal models and to combine these results with clinical data. Importantly, the CPI is well equipped to carry out translational studies validating our basic research results in patients in the clinical setting. Moreover, physician-scientists of the CPI are intensely involved in clinical studies at every stage to evaluate novel therapeutics and therapies.
-
-Become part of the team!
-
+## We are excited to share our newest insights on circadian rhythms in the human heart and how knowledge about the clock can be leveraged for future CV therapies, in NPJ Cardiovascular Health:
+## https://lnkd.in/gSNUJZ5Q
 
 
