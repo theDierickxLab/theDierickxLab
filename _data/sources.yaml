@@ -847,7 +847,7 @@
       - NAD+
       - circadian clock
       
-- id: 10.1038/s42003-023-05537-z
+- id: doi:10.1038/s42003-023-05537-z
   title: Cardiomyocyte-specific disruption of the circadian BMAL1–REV-ERBα/β regulatory network impacts distinct miRNA species in the murine heart
   author:
   - given: Mary  
@@ -873,7 +873,7 @@
       - miRNAs 
       - REV-ERBs
       
-- id: https://doi.org/10.1038/s44325-024-00024-8
+- id: doi:10.1038/s44325-024-00024-8
   title: Circadian rhythms in cardiovascular (dys)function: approaches for future therapeutics
   author:
   - given: Margaux 
