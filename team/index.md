@@ -200,30 +200,6 @@ Yilian obtained her Master's degree at the Fujian University of Traditional Chin
 %}
 
 {% capture text %}
-Erik is a Bachelor student at the Technical University of Bingen and will be doing an internship in our lab while working on his Bachelor´s degree.
-In the Dierickx laboratory, he will be working closely together with Margaux in her research on the circadian clock of cardiac cells to understand how the clock contributes to heart function using in vitro microscopy-based models.
-As a working student Erik works at Abbott GmBH and enjoys spending his free time in nature whenever the weather permits. His hobbies include calisthenics, swimming, traveling and when time allows, painting.
-
-{%
-  include link.html
-  link=""
-  type="email"
-  icon=""
-  text="Email"
-  style="button"
- 
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Erik.png"
-  title="Erik Dechant |   Bachelor Internship student"
-  text=text
-%}
-
-{% capture text %}
 Margo Favier is currently pursuing a Master's degree in Molecular and Cellular Biology at the University Claude Bernard Lyon 1, specializing in Tissue Biology Imaging: Morphogenesis and Repair. Within the team, she will lead a project aimed at utilizing human pluripotent stem cell lines to establish an in vitro model of cardiac aging. Apart from her academic pursuits, she has a keen interest in traveling and cooking. 
 
 
@@ -244,7 +220,6 @@ Margo Favier is currently pursuing a Master's degree in Molecular and Cellular B
   image="images/Margo.png"
   title="Margo Favier  |   Master’s student"
   text=text
-  flip=true
 %}
 
 
@@ -322,6 +297,31 @@ Daniëlle obtained her Bachelor’s degree in Biomedical Sciences at Utrecht Uni
   image="images/lz22.jpg"
   title="Daniëlle Ammerlaan  |   Master’s student"
   text=text
+%}
+
+{% capture text %}
+Erik is a Bachelor student at the Technical University of Bingen and will be doing an internship in our lab while working on his Bachelor´s degree.
+In the Dierickx laboratory, he will be working closely together with Margaux in her research on the circadian clock of cardiac cells to understand how the clock contributes to heart function using in vitro microscopy-based models.
+As a working student Erik works at Abbott GmBH and enjoys spending his free time in nature whenever the weather permits. His hobbies include calisthenics, swimming, traveling and when time allows, painting.
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Erik.png"
+  title="Erik Dechant |   Bachelor Internship student"
+  text=text
+  flip=true
 %}
  
 {% include section.html %} 
