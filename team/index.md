@@ -121,7 +121,7 @@ Kai studied the genomics and evolution of endangered animals for her master's de
 
 {%
   include feature.html
-  image="images/IMG_4213.jpg"
+  image="images/IMG_4213_2.jpg"
   title="Kai Cui  |  PhD student"
   text=text
 %}
