@@ -218,7 +218,7 @@ Margo Favier is currently pursuing a Master's degree in Molecular and Cellular B
 {%
   include feature.html
   image="images/Margo.png"
-  title="Margo Favier  |   Master’s student"
+  title="Margo Favier  |   PhD student"
   text=text
 %}
 
