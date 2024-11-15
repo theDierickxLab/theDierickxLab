@@ -200,7 +200,7 @@ Yilian obtained her Master's degree at the Fujian University of Traditional Chin
 %}
 
 {% capture text %}
-Margo Favier is currently pursuing a Master's degree in Molecular and Cellular Biology at the University Claude Bernard Lyon 1, specializing in Tissue Biology Imaging: Morphogenesis and Repair. Within the team, she will lead a project aimed at utilizing human pluripotent stem cell lines to establish an in vitro model of cardiac aging. Apart from her academic pursuits, she has a keen interest in traveling and cooking. 
+Margo Favier obtain her Master’s degree in Molecular and Cellular Biology at the University Claude Bernard Lyon 1, specializing in Tissue Biology Imaging: Morphogenesis and Repair. In the Dierickx’s lab, she will focus on clock factors during short development. Apart from her academic pursuits, she has a keen interest in traveling and cooking.
 
 
 {%
