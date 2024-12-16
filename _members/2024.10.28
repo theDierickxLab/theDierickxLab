@@ -1,0 +1,9 @@
+---
+name: Birthday Yilian <br>   October 2024
+image: /group-photos/IMG_4582.jpg
+date: 2024-10-28
+---
+
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_4583.jpg" %} {:.center}
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_4580.jpg" %} {:.center}
+{% include gallery.html style="width:580px;height:580px" image1="/group-photos/IMG_4584.jpg" %} {:.center}
