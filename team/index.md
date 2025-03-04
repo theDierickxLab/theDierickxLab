@@ -105,7 +105,7 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
 %}
 
 {% capture text %}
-Kai studied the genomics and evolution of endangered animals for her master's degree in bioinformatics at Sichuan University. She started enjoying cardiovascular research when she was working on GWAS and single cell analyses at UMCU in the Netherlands.  She is curious about everything around her. She loves to travel and adventure. After obtaining her Scuba Diving license she is now learning to solo skydive and in the future she would like to learn to fly light aircraft. 
+Kai has a master's degree in bioinformatics from Sichuan University, where she studied the genomics and evolution of endangered animals. She has worked extensively on next-generation sequencing (NGS) bioinformatics data analysis, including genomics, transcriptomics, and GWAS. She is currently focused on single-cell RNA and ATAC sequencing analysis. She is proficient in programming and R-based statistical analysis, with expertise in developing analysis pipelines and performing various statistical analyses. This website was built and is maintained by Kai.
 
 {%
   include link.html
@@ -222,6 +222,27 @@ Margo Favier obtain her Master’s degree in Molecular and Cellular Biology at t
   text=text
 %}
 
+{% capture text %}
+Qin is currently completing her PhD studies at the Biocentre of Ludwig-Maximilians-University Munich, where she has focused on the function of the Notch signalling pathway in axis patterning and head regeneration in Hydra by establishing Notch transgenic Hydra strains. In the Dierickx lab, she will investigate the circadian regulation of cardiac metabolism. Outside of her research, she enjoys travelling to new destinations and sampling local cuisines. 
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/qin.png"
+  title="Qin  |  Technical assistant"
+  text=text
+%}
 
 
 {% include section.html %}
