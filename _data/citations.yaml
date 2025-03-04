@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1093/function/zqaf004
+  title: 'BMAL1 is a Critical Regulator of Sex-Specific Gene Expression in the Heart '
+  authors:
+  - Pieterjan Dierickx
+  publisher: Function
+  date: '2025-01-22'
+  link: https://academic.oup.com/function/article/doi/10.1093/function/zqaf004/7972995
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  container-title: null
+  URL: https://academic.oup.com/function/article/6/1/zqaf004/7972995
+  image: /publications-images/m_zqaf004fig1.jpeg
+  tags:
+  - Circadian Rhythms
+  - Cardiac Function
+  - BMAL1
+  _cache: 855115263142d9e58f57aa38aaa8f37f78b092ab78ff4a9fb3e08e815bbe99b3
 - id: https://doi.org/10.1101/2023.11.02.565150
   title: NAD+ controls circadian rhythmicity during cardiac aging
   authors:
@@ -1232,21 +1250,3 @@
   - Cardiac Function
   - Therapeutics
   _cache: 46c5bffa883d913c5f564b6af9adbb9e3c6938e14a7120585f65370191e78084
-- id: https://doi.org/10.1093/function/zqaf004
-  title: 'BMAL1 is a Critical Regulator of Sex-Specific Gene Expression in the Heart '
-  authors:
-  - Pieterjan Dierickx
-  publisher: Function
-  date: '2025-01-22'
-  link: https://academic.oup.com/function/article/doi/10.1093/function/zqaf004/7972995
-  author:
-  - given: Pieterjan
-    family: Dierickx
-  container-title: null
-  URL: https://academic.oup.com/function/article/6/1/zqaf004/7972995
-  image: /publications-images/m_zqaf004fig1.jpeg
-  tags:
-  - Circadian Rhythms
-  - Cardiac Function
-  - BMAL1
-  _cache: 855115263142d9e58f57aa38aaa8f37f78b092ab78ff4a9fb3e08e815bbe99b3
