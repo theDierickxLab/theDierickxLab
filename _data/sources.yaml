@@ -891,6 +891,19 @@
       - Cardiac Function
       - Therapeutics
 
+- id: https://doi.org/10.1093/function/zqaf004
+  title: 'BMAL1 is a Critical Regulator of Sex-Specific Gene Expression in the Heart '
+  author:
+  - given: Pieterjan
+    family: Dierickx
+  container-title: 
+  date: 2025-1-22
+  URL: https://academic.oup.com/function/article/6/1/zqaf004/7972995
+  image: /publications_images/m_zqaf004fig1.jpeg
+  tags: 
+      - Circadian Rhythms
+      - Cardiac Function
+      - BMAL1
 
 
 
