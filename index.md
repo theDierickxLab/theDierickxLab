@@ -76,9 +76,9 @@ title: Home
 {% endcapture %}
 {{ text }}
 
-## Big congrats to Margaux and Daniëlle!
 
-## We are excited to share our newest insights on circadian rhythms in the human heart and how knowledge about the clock can be leveraged for future CV therapies, in NPJ Cardiovascular Health:<strong><a href="https://lnkd.in/gSNUJZ5Q">https://lnkd.in/gSNUJZ5Q</a></strong>
+
+## On the last weekend of March we are advancing our clocks again with 1hr to start daylight-savings time. What is the impact on our (heart) health and what should we do to anticipate this change? Please read this interesting article by Nora Lessing, in which 3 MPI groups (including ours) are featured!:<strong><a href="https://www.mpg.de/24391284/daylight-saving-time-circadian-rhythm?c=2249</a></strong>
 
 
 
