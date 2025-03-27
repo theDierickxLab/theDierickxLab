@@ -11,6 +11,7 @@ baseurl: ""
 
 # site social media and other links
 links:
+  home-page: https://www.mpi-hlr.de/circadian-regulation-of-cardiometabolism
   email: pieterjan.dierickx@mpi-bn.mpg.de
   google-scholar: https://scholar.google.com/citations?hl=en&user=hvJMKJwAAAAJ&view_op=list_works&sortby=pubdate
   bsky: https://web-cdn.bsky.app/profile/pjdierickx.bsky.social
