@@ -19,13 +19,32 @@
   </div>
   -->
 
-  <div class="footer_row">
-    {%- for entry in site.links -%}
-      {%- assign key = entry[0] -%}
-      {%- assign value = entry[1] -%}
-      {%- include link.html type=key icon="" tooltip="" link=value -%}
-    {%- endfor -%}
-  </div>
+<div class="footer_row">
+  {% if site.links.github %}
+    <a href="{{ site.links.github }}" target="_blank">
+      <i class="fab fa-github"></i>
+    </a>
+  {% endif %}
+
+  {% if site.links.google-scholar %}
+    <a href="{{ site.links.google-scholar }}" target="_blank">
+      <i class="fas fa-graduation-cap"></i>
+    </a>
+  {% endif %}
+
+  {% if site.links.linkedin %}
+    <a href="{{ site.links.linkedin }}" target="_blank">
+      <i class="fab fa-linkedin"></i>
+    </a>
+  {% endif %}
+
+  {% if site.links.bsky %}
+    <a href="{{ site.links.bsky }}" target="_blank">
+      <img src="/images/Bluesky_Logo.png" alt="Bluesky" style="width:20px; height:20px;">
+    </a>
+  {% endif %}
+</div>
+
 
   <div class="footer_row">
     <span>
