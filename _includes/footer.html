@@ -20,9 +20,22 @@
   -->
 
 <div class="footer_row">
+  
+    {% if site.links.home-page %}
+    <a href="{{ site.links.home-page }}" target="_blank">
+      <i class="fas fa-home"></i> Homepage
+    </a>
+  {% endif %}
+  
   {% if site.links.github %}
     <a href="{{ site.links.github }}" target="_blank">
       <i class="fab fa-github"></i>
+    </a>
+  {% endif %}
+
+  {% if site.links.email %}
+    <a href="mailto:{{ site.links.email }}">
+      <i class="fas fa-envelope"></i> Email
     </a>
   {% endif %}
 
