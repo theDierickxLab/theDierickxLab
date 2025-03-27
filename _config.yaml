@@ -14,14 +14,9 @@ links:
   email: pieterjan.dierickx@mpi-bn.mpg.de
   google-scholar: https://scholar.google.com/citations?hl=en&user=hvJMKJwAAAAJ&view_op=list_works&sortby=pubdate
   github: theDierickxLab
-  twitter: pjdierickx
   home-page: https://www.mpi-hlr.de/circadian-regulation-of-cardiometabolism
-  twitter: 
-    url: https://web-cdn.bsky.app/profile/pjdierickx.bsky.social
-    icon: images/Bluesky_Logo.png
-  linkedin: 
-    url: https://www.linkedin.com/in/pieterjan-dierickx-8412212b/?originalSubdomain=de
-    icon: images/in.jpg
+  bsky: https://web-cdn.bsky.app/profile/pjdierickx.bsky.social
+  linkedin: https://www.linkedin.com/in/pieterjan-dierickx-8412212b/?originalSubdomain=de
 
 
 ### advanced settings
