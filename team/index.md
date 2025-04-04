@@ -242,6 +242,7 @@ Qin is currently completing her PhD studies at the Biocentre of Ludwig-Maximilia
   image="images/qin.png"
   title="Qin Pan  |  Technical assistant"
   text=text
+  flip=true
 %}
 
 
