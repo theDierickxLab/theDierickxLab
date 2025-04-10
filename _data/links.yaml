@@ -1,4 +1,3 @@
-# general
 
 link:
   icon: fas fa-globe
@@ -41,8 +40,6 @@ search:
   text: Search
   tooltip: Search
   link: $LINK
-
-# social media
 
 orcid:
   icon: orcid-logo.svg
@@ -92,7 +89,6 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$LINK
 
-# publications
 
 journal:
   icon: far fa-newspaper
@@ -112,7 +108,6 @@ manubot:
   tooltip: Manubot
   link: $LINK
 
-# software
 
 docs:
   icon: fas fa-book
