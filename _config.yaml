@@ -1,6 +1,3 @@
-### basic settings
-
-# site properties and page defaults
 title: Dierickx Lab
 description: The Dierickx lab is interested in the molecular mechanisms of the circadian clock driving rhythmic metabolic processes in the heart. 
              We try to understand how deregulated clocks are leading to cardiovascular defects and trying to target the circadian clock in order to treat and prevent heart diseases.
@@ -9,7 +6,6 @@ header: images/banner3.png
 footer: images/banner3.png
 baseurl: ""
 
-# site social media and other links
 links:
   home-page: https://www.mpi-hlr.de/circadian-regulation-of-cardiometabolism
   email: pieterjan.dierickx@mpi-bn.mpg.de
@@ -18,9 +14,6 @@ links:
   linkedin: https://www.linkedin.com/in/pieterjan-dierickx-8412212b
 
 
-### advanced settings
-
-# automatic citations
 auto-cite:
   plugins:
     - name: sources
@@ -28,47 +21,32 @@ auto-cite:
         - ../_data/sources.yaml
   output: ../_data/citations.yaml
 
-# default front matter parameters for markdown files
 defaults:
-  # all markdown files
   - scope:
       path: ""
     values:
       layout: default
-  # markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
   - scope:
       type: "posts"
     values:
       layout: post
 
-# collections
 collections:
   members:
     output: true
 
-# sass settings
 sass:
   sass_dir: css
 
-# syntax highlighting
 highlighter: rouge
 
-# plugins
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
-  # - jekyll-github-metadata
-  # - jekyll-avatar
-  # - jekyll-gist
-  # - jekyll-mentions
-  # - jekyll-relative-links
-  # - jemoji
 
-# jekyll theme
 theme: null
