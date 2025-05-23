@@ -246,6 +246,30 @@ Qin is currently completing her PhD studies at the Biocentre of Ludwig-Maximilia
 %}
 
 
+{% capture text %}
+Richard obtained his Master’s degree at the Charité, Universitätsmedizin Berlin in “Molecular Medicine” and is currently pursuing a PhD in Medicine and Physics at the University of St Andrews on the topic of “Advanced fluorescence spectroscopy to unravel functional oligomerization of the Ca2+ channel MG23 and its role in heart failure”. As an intern in the Dierickx lab he will look into cardiomyocyte maturation and its effect on the circadian rhythm under the supervision of Margaux. Outside of the lab, he enjoys going climbing, bouldering and hiking. 
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Richard.png"
+  title="Richard Edel |  PhD Internship student"
+  text=text
+%}
+
+
+
 {% include section.html %}
 
 # <i class="fas fa-users"></i>Alumni
