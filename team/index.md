@@ -154,29 +154,6 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
 
 
 {% capture text %}
-Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar University. She completed her Master’s degree at Koç University School of Medicine in Immunology.  During her M.Sc, she studied the T-regulatory cell and  Notch axis in Chronic Obstructive Pulmonary Disease (COPD) inflammation under the supervision of Prof. Dr. Hasan Bayram. In the Dierickx lab, she will focus on disease progression in human metabolic heart failure. She loves photography (unfortunately, her friends’ personal photographer) and is interested in art history.
-
-
-{%
-  include link.html
-  link="Seval.Kuebra-Korkunc@mpi-bn.mpg.de"
-  type="email"
-  icon=""
-  text="Email"
-  style="button"
- 
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Picture 1.png"
-  title="Seval Kübra Korkunç  |   PhD student"
-  text=text
-%}
-
-{% capture text %}
 Yilian obtained her Master's degree at the Fujian University of Traditional Chinese Medicine. During this time, she learned about myocardial infarction-induced cardiomyocyte pyroptosis and hypertensive neuroinflammation. In the Dierickx's lab, she will focus on the cardiac circadian clock and the interaction between peripheral organs. Outside the lab, she loves reading books,  playing badminton, hiking, and traveling to different places.
 
 {%
@@ -368,6 +345,29 @@ As a working student Erik works at Abbott GmBH and enjoys spending his free time
   title="Erik Dechant |   Bachelor Internship student"
   text=text
   flip=true
+%}
+
+{% capture text %}
+Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar University. She completed her Master’s degree at Koç University School of Medicine in Immunology.  During her M.Sc, she studied the T-regulatory cell and  Notch axis in Chronic Obstructive Pulmonary Disease (COPD) inflammation under the supervision of Prof. Dr. Hasan Bayram. In the Dierickx lab, she will focus on disease progression in human metabolic heart failure. She loves photography (unfortunately, her friends’ personal photographer) and is interested in art history.
+
+
+{%
+  include link.html
+  link="Seval.Kuebra-Korkunc@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Picture 1.png"
+  title="Seval Kübra Korkunç  |   PhD student"
+  text=text
 %}
  
 {% include section.html %} 
