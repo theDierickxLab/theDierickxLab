@@ -223,29 +223,6 @@ Qin is currently completing her PhD studies at the Biocentre of Ludwig-Maximilia
 %}
 
 
-{% capture text %}
-Richard obtained his Master’s degree at the Charité, Universitätsmedizin Berlin in “Molecular Medicine” and is currently pursuing a PhD in Medicine and Physics at the University of St Andrews on the topic of “Advanced fluorescence spectroscopy to unravel functional oligomerization of the Ca2+ channel MG23 and its role in heart failure”. As an intern in the Dierickx lab he will look into cardiomyocyte maturation and its effect on the circadian rhythm under the supervision of Margaux. Outside of the lab, he enjoys going climbing, bouldering and hiking. 
-
-{%
-  include link.html
-  link=""
-  type="email"
-  icon=""
-  text="Email"
-  style="button"
- 
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Richard.png"
-  title="Richard Edel |  PhD Internship student"
-  text=text
-%}
-
-
 
 {% include section.html %}
 
@@ -368,6 +345,29 @@ Seval earned her B.Sc. degree in Molecular Biology and Genetics at Üsküdar Uni
   image="images/Picture 1.png"
   title="Seval Kübra Korkunç  |   PhD student"
   text=text
+%}
+
+{% capture text %}
+Richard obtained his Master’s degree at the Charité, Universitätsmedizin Berlin in “Molecular Medicine” and is currently pursuing a PhD in Medicine and Physics at the University of St Andrews on the topic of “Advanced fluorescence spectroscopy to unravel functional oligomerization of the Ca2+ channel MG23 and its role in heart failure”. As an intern in the Dierickx lab he will look into cardiomyocyte maturation and its effect on the circadian rhythm under the supervision of Margaux. Outside of the lab, he enjoys going climbing, bouldering and hiking. 
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Richard.png"
+  title="Richard Edel |  PhD Internship student"
+  text=text
+  flip=true
 %}
  
 {% include section.html %} 
