@@ -12,6 +12,23 @@
       - Cardiac Function
       - BMAL1
 
+- id: https://doi.org/10.1016/j.yjmcc.2025.09.001
+  title: 'Circadian transcriptional repressors REV-ERBα/β and E4BP4 regulate cardiac function'
+  author:
+  - given: Yilian
+    family: Wang
+  - given: Pieterjan
+    family: Dierickx
+  container-title: 
+  date: 2025-11-1
+  URL: https://www.sciencedirect.com/science/article/pii/S0022282825001610?via%3Dihub
+  image: /publications_images/papernewyilian.png
+  tags: 
+      - Circadian rhythms
+      - REV-ERB
+      - E4BP4
+      - Cardiac Metabolism
+
 - id: https://doi.org/10.1101/2023.11.02.565150
   title: NAD+ controls circadian rhythmicity during cardiac aging
   author:
@@ -905,22 +922,6 @@
       - Cardiac Function
       - Therapeutics
 
-- id: https://doi.org/10.1016/j.yjmcc.2025.09.001
-  title: 'Circadian transcriptional repressors REV-ERBα/β and E4BP4 regulate cardiac function'
-  author:
-  - given: Yilian
-    family: Wang
-  - given: Pieterjan
-    family: Dierickx
-  container-title: 
-  date: 2025-11-1
-  URL: https://www.sciencedirect.com/science/article/pii/S0022282825001610?via%3Dihub
-  image: /publications_images/papernewyilian.png
-  tags: 
-      - Circadian rhythms
-      - REV-ERB
-      - E4BP4
-      - Cardiac Metabolism
 
 
 
