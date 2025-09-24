@@ -78,7 +78,7 @@ title: Home
 
 
 
-## On the last weekend of March we are advancing our clocks again with 1hr to start daylight-savings time. What is the impact on our (heart) health and what should we do to anticipate this change? Please read this interesting article by Nora Lessing, in which 3 MPI groups (including ours) are featured!<strong><a href="https://www.mpg.de/24391284/daylight-saving-time-circadian-rhythm?c=2249" target="_blank">Read more here</a></strong>
+## From September 17-19, 2025 the Circadian Cardiometabolism lab went on a lab retreat in La Bresse, located in the beautiful Vosges region in France. It was a great and constructive get together, where we discussed all projects in detail, focused on lab culture extensively, elaborated on the good, and came up with ways to keep on improving. Our teambuilding activity included tree/rock climbing and ziplining. Here we learned that we have quite some dare devils in our group! Our self cooked pot lock dinners were a true success and made for interesting multicultural combinations. Overall, It were an inspiring couple of days that strengthened our relationships in the lab. We all got back energized with new ideas and are ready to translate them into cool experiments in the near future.>Read more here</a></strong>
 
 
 
