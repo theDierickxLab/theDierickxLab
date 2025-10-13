@@ -1,24 +1,24 @@
- - id: https://doi.org/10.1093/cvr/cvaf179
-   title: Chronotherapy as a novel strategy to limit anthracycline-induced cardiotoxicity
-   author:
-   - given: Ilse
-     family: Kelter
-   - given:  Markella  
-     family: Printezi
-   - given:  Annabelle
-     family: Ballesta
-   - given: Pieterjan
-     family: Dierickx
-   - given: Linda 
-     family: W van Laake
-   container-title: 
-   date: 2025-10-6
-   URL: https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvaf179/8276166?login=true
-   image: /publications-images/m_cvaf179_ga.png
-   tags: 
-       - Chronotherapy
-       - Cardiotoxicity
-       - Doxorubicin 
+- id: https://doi.org/10.1093/cvr/cvaf179
+  title: Chronotherapy as a novel strategy to limit anthracycline-induced cardiotoxicity
+  author:
+  - given: Ilse
+    family: Kelter
+  - given:  Markella  
+    family: Printezi
+  - given:  Annabelle
+    family: Ballesta
+  - given: Pieterjan
+    family: Dierickx
+  - given: Linda 
+    family: W van Laake
+  container-title: 
+  date: 2025-10-6
+  URL: https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvaf179/8276166?login=true
+  image: /publications-images/m_cvaf179_ga.png
+  tags: 
+      - Chronotherapy
+      - Cardiotoxicity
+      - Doxorubicin 
 
 - id: https://doi.org/10.1093/function/zqaf004
   title: BMAL1 is a Critical Regulator of Sex-Specific Gene Expression in the Heart
