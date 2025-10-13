@@ -1,6 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1093/cvr/cvaf179
+  title: Chronotherapy as a novel strategy to limit anthracycline-induced cardiotoxicity
+  authors:
+  - Ilse R Kelters
+  - Markella I Printezi
+  - Annabelle Ballesta
+  - Pieterjan Dierickx
+  - Yvonne Koop
+  - Pasquale F Innominato
+  - "Francis A L\xE9vi"
+  - J Corne Van Dam
+  - Pieter A Doevendans
+  - Alwin D R Huitema
+  - Arco J Teske
+  - Anne M May
+  - Joost P G Sluijter
+  - Linda W Van Laake
+  publisher: Cardiovascular Research
+  date: '2025-10-06'
+  link: https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvaf179/8276166
+  author:
+  - given: Ilse
+    family: Kelter
+  - given: Markella
+    family: Printezi
+  - given: Annabelle
+    family: Ballesta
+  - given: Pieterjan
+    family: Dierickx
+  - given: Linda
+    family: W van Laake
+  container-title: null
+  URL: https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvaf179/8276166?login=true
+  image: /publications-images/m_cvaf179_ga.png
+  tags:
+  - Chronotherapy
+  - Cardiotoxicity
+  - Doxorubicin
+  _cache: 0e488cb92d00998897b8800bddfb5a5e1b85b016246b84e70c71b439aafde55b
 - id: https://doi.org/10.1093/function/zqaf004
   title: BMAL1 is a Critical Regulator of Sex-Specific Gene Expression in the Heart
   authors:
@@ -22,11 +61,11 @@
 - id: https://doi.org/10.1016/j.yjmcc.2025.09.001
   title: "Circadian transcriptional repressors REV-ERB\u03B1/\u03B2 and E4BP4 regulate\
     \ cardiac function"
-  authors: 
+  authors:
   - Yilian Wang
   - Pieterjan Dierickx
   publisher: Journal of Molecular and Cellular Cardiology
-  date: '2025-09-12'
+  date: '2025-11-01'
   link: https://doi.org/10.1016/j.yjmcc.2025.09.001
   author:
   - given: Yilian
@@ -1026,7 +1065,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: '2015-12-18'
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -1062,7 +1101,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: '2017-12-19'
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -1096,7 +1135,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: '2020-12-15'
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current Opinion in Pharmacology
   author:
@@ -1150,7 +1189,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: '2021-12-23'
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature Cardiovascular Research
   container-title-short: Nat Cardiovasc Res
@@ -1224,7 +1263,7 @@
   - Pieterjan Dierickx
   - Martin E. Young
   publisher: Communications Biology
-  date: '2023-11-10'
+  date: 1900-1-1
   link: https://doi.org/gs5gvf
   author:
   - given: Mary
@@ -1256,7 +1295,7 @@
   - "Dani\xEBlle J. M. Ammerlaan"
   - Pieterjan Dierickx
   publisher: npj Cardiovascular Health
-  date: '2024-09-23'
+  date: 1900-1-1
   link: https://www.nature.com/articles/s44325-024-00024-8
   author:
   - given: Margaux
