@@ -34,30 +34,6 @@ Dr. Dierickx obtained his Master’s degree from Ghent University (Belgium) and 
 %}
 
 {% capture text %}
-Margaux obtained her PhD at the Université Côte d'Azur in Nice in Cellular and Molecular Interactions. In this lab, she studied how the biophysical properties of the microenvironment increase resistance mechanisms to targeted therapies in melanoma, under the supervision of Dr. Sophie Tartare-Deckert. 
-In the Dierickx lab, she will use her expertise in microscopy and cell interactions to understand how the circadian clock plays a role in different cardiac cell types contributing to heart function. Outside of the lab, she enjoys reading books, hiking and traveling to discover different places.
-
-{%
-  include link.html
-  link="Margaux.lecacheur@mpi-bn.mpg.de"
-  type="email"
-  icon=""
-  text="Email"
-  style="button"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Margaux.png"
-  title="Margaux Lecacheur  |  PostDoc"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
 Zhaoyu is currently finishing up his PhD research at the Erasmus University Medical Center, where he has been studying the differentiation of human iPSCs to kidney organoids in Dr. Martin Hoogduijn’s lab. To explore the applications of iPSC-derived organoids in disease modeling and regenerative therapy, he investigated kidney structures of organoids and their physiological functions. In the Dierickx lab, he will be focusing on developing cardiac organoid models using pluripotent stem cells. Specifically, he will be studying the role of circadian clock proteins in pluripotent stem cells and during cardiac tissue development. Outside of his academic life, he enjoys experimenting with various cuisines from all around the world.
 
 
@@ -371,6 +347,29 @@ Richard obtained his Master’s degree at the Charité, Universitätsmedizin Ber
 %}
  
 {% include section.html %} 
+
+{% capture text %}
+Margaux obtained her PhD at the Université Côte d'Azur in Nice in Cellular and Molecular Interactions. In this lab, she studied how the biophysical properties of the microenvironment increase resistance mechanisms to targeted therapies in melanoma, under the supervision of Dr. Sophie Tartare-Deckert. 
+In the Dierickx lab, she will use her expertise in microscopy and cell interactions to understand how the circadian clock plays a role in different cardiac cell types contributing to heart function. Outside of the lab, she enjoys reading books, hiking and traveling to discover different places.
+
+{%
+  include link.html
+  link="Margaux.lecacheur@mpi-bn.mpg.de"
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Margaux.png"
+  title="Margaux Lecacheur  |  PostDoc"
+  text=text
+%}
   
 # Our lab is supported by
 {:.center}
