@@ -54,6 +54,7 @@ Zhaoyu is currently finishing up his PhD research at the Erasmus University Medi
   image="images/zhaoyu.png"
   title="Zhaoyu Du |  Postdoc"
   text=text
+  flip=true
 %}
 
 
@@ -77,7 +78,6 @@ Bryce studied at the University of Pennsylvania for a B.A. in Cellular and Molec
   image="images/Bryce.png"
   title="Bryce Carpenter  |  PhD student"
   text=text
-  flip=true
 %}
 
 {% capture text %}
@@ -100,6 +100,7 @@ Kai has a master's degree in bioinformatics from Sichuan University, where she s
   image="images/IMG_4213_2.jpg"
   title="Kai Cui  |  PhD student"
   text=text
+  flip=true
 %}
 
 
@@ -125,7 +126,6 @@ When he's not in the lab Yannick is the singer for a local band in his hometown,
   image="images/Yannick.JPG"
   title="Yannick Mangold  |  Technical assistant"
   text=text
-  flip=true
 %}
 
 
