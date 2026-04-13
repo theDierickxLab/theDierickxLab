@@ -92,7 +92,7 @@
   - Marit W. Vermunt
   - Pieterjan Dierickx
   publisher: Communications Biology
-  date: '2023-11-08'
+  date: '2026-03-11'
   link: https://www.nature.com/articles/s42003-026-09818-1
   author:
   - given: Bryce
@@ -115,7 +115,7 @@
   - Circadian Rhythms
   - Aging
   - Transcriptional Regulation
-  _cache: 9e5e99843c087388b0969b19cff7c5b3d9e9c2154010f8e1cf4da04a7b8ef744
+  _cache: 16cd475327aafc47a25b714f32339fe402c08e8b377605d983323c5c2d5db770
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from
     heart failure
