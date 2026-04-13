@@ -81,7 +81,7 @@
   - E4BP4
   - Cardiac Metabolism
   _cache: 461a8fe8db4d090ac60d88d024f51c32c98aa3d2ff35826300161055d78edf0a
-- id: https://doi.org/10.1101/2023.11.02.565150
+- id: https://doi.org/10.1038/s42003-026-09818-1
   title: NAD+ controls circadian rhythmicity during cardiac aging
   authors:
   - Bryce J. Carpenter
@@ -89,10 +89,11 @@
   - Yannick N. Mangold
   - Kai Cui
   - "Stefan G\xFCnther"
+  - Marit W. Vermunt
   - Pieterjan Dierickx
-  publisher: Genomics
+  publisher: Communications Biology
   date: '2023-11-08'
-  link: http://biorxiv.org/lookup/doi/10.1101/2023.11.02.565150
+  link: https://www.nature.com/articles/s42003-026-09818-1
   author:
   - given: Bryce
     family: J. Carpenter
@@ -114,7 +115,7 @@
   - Circadian Rhythms
   - Aging
   - Transcriptional Regulation
-  _cache: c3bda8f320c1ddda0fbe4eb1403dca87f7398349ac028a333fb94f8eb3d99762
+  _cache: 9e5e99843c087388b0969b19cff7c5b3d9e9c2154010f8e1cf4da04a7b8ef744
 - id: doi:10.1172/JCI162309
   title: RIP140 deficiency enhances cardiac fuel metabolism and protects mice from
     heart failure
@@ -1065,7 +1066,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: "2015-12-18"
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -1101,7 +1102,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: "2017-12-19"
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -1135,7 +1136,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: "2020-12-15"
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current Opinion in Pharmacology
   author:
@@ -1189,7 +1190,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: "2021-12-23"
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature Cardiovascular Research
   container-title-short: Nat Cardiovasc Res
@@ -1263,7 +1264,7 @@
   - Pieterjan Dierickx
   - Martin E. Young
   publisher: Communications Biology
-  date: "2023-11-10"
+  date: 1900-1-1
   link: https://doi.org/gs5gvf
   author:
   - given: Mary
@@ -1295,7 +1296,7 @@
   - "Dani\xEBlle J. M. Ammerlaan"
   - Pieterjan Dierickx
   publisher: npj Cardiovascular Health
-  date: "2024-09-23"
+  date: 1900-1-1
   link: https://www.nature.com/articles/s44325-024-00024-8
   author:
   - given: Margaux
