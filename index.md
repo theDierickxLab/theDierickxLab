@@ -79,7 +79,9 @@ title: Home
 
 
 ## Timing is key! 
-Chronopharmakologie: Wann wirken Medikamente? Our lab, amongst others (Angela Relógio, Christoph Scheiermann, Thorsten Lehr, Karin A. Ziegler, Jörg Schelling, was featured in a new documentary on chronopharmacology by ARD1. This highlights the importance of taking time into account for the treatment of not only cardiovascular diseases, but many more pharmacological applications! https://www.ardmediathek.de/video/gesundheit/chronopharmakologie-wann-wirken-medikamente/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDIyNzUyQTAvc2VjdGlvbi80MzFmZTk0Zi03NjQwLTQ0ZmItODdhNi0xZTQwNjZhYjNlYjQ<img width="468" height="166" alt="image" src="https://github.com/user-attachments/assets/4e9ec265-c0c9-45b5-8777-c9a662354aca" />
+Chronopharmakologie: Wann wirken Medikamente? Our lab, amongst others (Angela Relógio, Christoph Scheiermann, Thorsten Lehr, Karin A. Ziegler, Jörg Schelling, was featured in a new documentary on chronopharmacology by ARD1. This highlights the importance of taking time into account for the treatment of not only cardiovascular diseases, but many more pharmacological applications! [Chronopharmakologie: Wann wirken Medikamente?](https://www.ardmediathek.de/video/gesundheit/chronopharmakologie-wann-wirken-medikamente/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDIyNzUyQTAvc2VjdGlvbi80MzFmZTk0Zi03NjQwLTQ0ZmItODdhNi0xZTQwNjZhYjNlYjQ)
+
+
 
  
 
