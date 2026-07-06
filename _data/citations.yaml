@@ -1,6 +1,72 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1126/scitranslmed.aea9877
+  title: Neurotensin receptor 2 agonism attenuates adverse cardiac remodeling in preclinical
+    models
+  authors:
+  - Niharika Shiva
+  - Haruya Kawase
+  - "J\xFCrgen Einsiedel"
+  - Jeonghyeon Kwon
+  - Shamit Kumar
+  - Jingchen Shao
+  - Zhaoyu Du
+  - Natalia Kubin
+  - Miho Shimari
+  - "Stefan G\xFCnther"
+  - Tiangang Li
+  - Pieterjan Dierickx
+  - Samuel Sossalla
+  - Stefan Offermanns
+  - Peter Gmeiner
+  - Nina Wettschureck
+  publisher: Science Translational Medicine
+  date: '2026-07-01'
+  link: https://www.science.org/doi/10.1126/scitranslmed.aea9877
+  author:
+  - given: Niharika
+    family: Shiva
+  - given: Haruya
+    family: Kawase
+  - given: "J\xFCrgen"
+    family: Einsiedel
+  - given: Jeonghyeon
+    family: Kwon
+  - given: Shamit
+    family: Kumar
+  - given: Jingchen
+    family: Shao
+  - given: Zhaoyu
+    family: Du
+  - given: Natalia
+    family: Kubin
+  - given: Miho
+    family: Shimari
+  - given: Stefan
+    family: "G\xFCnther"
+  - given: Tiangang
+    family: Li
+  - given: Pieterjan
+    family: Dierickx
+  - given: Samuel
+    family: Sossalla
+  - given: Stefan
+    family: Offermanns
+  - given: Peter
+    family: Gmeiner
+  - given: Nina
+    family: Wettschureck
+  container-title: Science Translational Medicine
+  URL: https://www.science.org/doi/10.1126/scitranslmed.aea9877
+  image: /publications_images/scitranslmed.aea9877-f2.jpg
+  tags:
+  - Heart Failure
+  - Neurotensin
+  - hESC-CMs
+  - LECs
+  - Hypertrophy
+  _cache: 5852513868439290d7920811d673224e12f41f91888c8532d727bce1ef3b12ad
 - id: https://doi.org/10.1093/cvr/cvaf179
   title: Chronotherapy as a novel strategy to limit anthracycline-induced cardiotoxicity
   authors:
@@ -109,7 +175,7 @@
     family: Dierickx
   container-title: null
   URL: https://www.biorxiv.org/content/10.1101/2023.11.02.565150v1
-  image: /publications_images/Graphical_Abstract_Comms_Bio.png
+  image: /publications_images/paper1111.png
   tags:
   - NAD+
   - Circadian Rhythms
@@ -1066,7 +1132,7 @@
   - Pieter A. Doevendans
   - Linda W. Van Laake
   publisher: Stem Cell Biology and Regenerative Medicine
-  date: "2015-12-18"
+  date: 1900-1-1
   link: https://doi.org/gqvv9c
   container-title: Stem Cell Biology and Regenerative Medicine
   author:
@@ -1102,7 +1168,7 @@
   - Linda W Van Laake
   - Niels Geijsen
   publisher: EMBO reports
-  date: "2017-12-19"
+  date: 1900-1-1
   link: https://doi.org/gctvwt
   container-title: EMBO reports
   container-title-short: EMBO Rep
@@ -1136,7 +1202,7 @@
   - Alain van Mil
   - Pieterjan Dierickx
   publisher: Current Opinion in Pharmacology
-  date: "2020-12-15"
+  date: 1900-1-1
   link: https://doi.org/gqt4nc
   container-title: Current Opinion in Pharmacology
   author:
@@ -1190,7 +1256,7 @@
   - Martin E. Young
   - Mitchell A. Lazar
   publisher: Nature Cardiovascular Research
-  date: "2021-12-23"
+  date: 1900-1-1
   link: https://doi.org/gqt4m9
   container-title: Nature Cardiovascular Research
   container-title-short: Nat Cardiovasc Res
@@ -1264,7 +1330,7 @@
   - Pieterjan Dierickx
   - Martin E. Young
   publisher: Communications Biology
-  date: "2023-11-10"
+  date: 1900-1-1
   link: https://doi.org/gs5gvf
   author:
   - given: Mary
@@ -1296,7 +1362,7 @@
   - "Dani\xEBlle J. M. Ammerlaan"
   - Pieterjan Dierickx
   publisher: npj Cardiovascular Health
-  date: "2024-09-23"
+  date: 1900-1-1
   link: https://www.nature.com/articles/s44325-024-00024-8
   author:
   - given: Margaux
