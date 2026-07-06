@@ -59,14 +59,14 @@
     family: Wettschureck
   container-title: Science Translational Medicine
   URL: https://www.science.org/doi/10.1126/scitranslmed.aea9877
-  image: /publications_images/scitranslmed.aea9877-f2.jpg
+  image: /publications_images/scitranslmed_aea9877-f2.jpg
   tags:
   - Heart Failure
   - Neurotensin
   - hESC-CMs
   - LECs
   - Hypertrophy
-  _cache: 5852513868439290d7920811d673224e12f41f91888c8532d727bce1ef3b12ad
+  _cache: 5ecb214087d0328b5d581f01f60e3ee8a715b22f84561904f630d9974eec92e1
 - id: https://doi.org/10.1093/cvr/cvaf179
   title: Chronotherapy as a novel strategy to limit anthracycline-induced cardiotoxicity
   authors:
