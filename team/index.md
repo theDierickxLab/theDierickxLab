@@ -217,7 +217,7 @@ In her free time, she likes to play video games, Dungeons & Dragons and eat good
 {%
   include feature.html
   image="images/Clara.jpg"
-  title="Clara Dröll  |   PhD"
+  title="Clara Dröll  |   PhD student"
   text=text
 %}
 
