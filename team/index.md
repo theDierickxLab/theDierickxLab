@@ -368,8 +368,7 @@ Richard obtained his Master’s degree at the Charité, Universitätsmedizin Ber
   text=text
   flip=true
 %}
- 
-{% include section.html %} 
+
 
 {% capture text %}
 Margaux obtained her PhD at the Université Côte d'Azur in Nice in Cellular and Molecular Interactions. In this lab, she studied how the biophysical properties of the microenvironment increase resistance mechanisms to targeted therapies in melanoma, under the supervision of Dr. Sophie Tartare-Deckert. 
@@ -393,6 +392,8 @@ In the Dierickx lab, she will use her expertise in microscopy and cell interacti
   title="Margaux Lecacheur  |  PostDoc"
   text=text
 %}
+
+{% include section.html %} 
   
 # Our lab is supported by
 {:.center}
