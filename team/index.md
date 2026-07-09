@@ -198,6 +198,29 @@ Qin is currently completing her PhD studies at the Biocentre of Ludwig-Maximilia
   flip=true
 %}
 
+{% capture text %}
+During her master‘s thesis at the University Hospital Frankfurt, Clara studied neurodevelopmental disorders using human stem cell-derived cerebral organoids. After gaining 2 years of experience in the pharmaceutical industry, her heart led her back to research. Joining the Dierickx lab as a PhD student, she will generate human cardiac in vitro models and study the effects of cardiac aging on circadian rhythmicity. 
+In her free time, she likes to play video games, Dungeons & Dragons and eat good food.
+
+{%
+  include link.html
+  link=""
+  type="email"
+  icon=""
+  text="Email"
+  style="button"
+ 
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Clara.jpg"
+  title="Clara Dröll  |   PhD"
+  text=text
+%}
+
 
 
 {% include section.html %}
