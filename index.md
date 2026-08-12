@@ -78,10 +78,8 @@ title: Home
 
 
 
-## Timing is key! 
-[Chronopharmakologie: Wann wirken Medikamente?](https://www.ardmediathek.de/video/gesundheit/chronopharmakologie-wann-wirken-medikamente/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNVdPMDIyNzUyQTAvc2VjdGlvbi80MzFmZTk0Zi03NjQwLTQ0ZmItODdhNi0xZTQwNjZhYjNlYjQ) Our lab, amongst others (Angela Relógio, Christoph Scheiermann, Thorsten Lehr, Karin A. Ziegler, Jörg Schelling, was featured in a new documentary on chronopharmacology by ARD1. This highlights the importance of taking time into account for the treatment of not only cardiovascular diseases, but many more pharmacological applications! 
+## Welcome to our new PhD student Clara!
 
+After the summer break, Clara Dröll joined our lab. During her master's thesis at the University Hospital Frankfurt, Clara studied neurodevelopmental disorders using human stem cell-derived cerebral organoids. After gaining two years of experience in the pharmaceutical industry, her heart led her back to research. Joining our lab as a PhD student, she will generate human cardiac in vitro models and study the effects of cardiac aging on circadian rhythmicity. In her free time, she likes to play video games, play Dungeons & Dragons, and eat good food. We are excited to get experiments started with Clara. Welcome to the team!
 
-
- 
 
