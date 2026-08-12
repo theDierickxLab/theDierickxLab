@@ -80,6 +80,7 @@ title: Home
 
 ## Welcome to our new PhD student Clara!
 
-After the summer break, Clara Dröll joined our lab. During her master's thesis at the University Hospital Frankfurt, Clara studied neurodevelopmental disorders using human stem cell-derived cerebral organoids. After gaining two years of experience in the pharmaceutical industry, her heart led her back to research. Joining our lab as a PhD student, she will generate human cardiac in vitro models and study the effects of cardiac aging on circadian rhythmicity. In her free time, she likes to play video games, play Dungeons & Dragons, and eat good food. We are excited to get experiments started with Clara. Welcome to the team!
+After the summer break, Clara Dröll joined our lab. During her master's thesis at the University Hospital Frankfurt, Clara studied neurodevelopmental disorders using human stem cell-derived cerebral organoids. After gaining two years of experience in the pharmaceutical industry, her heart led her back to research. Joining our lab as a PhD student, she will generate human cardiac in vitro models and study the effects of cardiac aging on circadian rhythmicity. In her free time, she likes to play video games, play Dungeons & Dragons, and eat good food. We are excited to get experiments started with Clara. Welcome to the team! 
+{% include gallery.html style="width:580px;height:580px" image1="/images/Clara.jpg" %} {:.center}
 
 
