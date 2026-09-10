@@ -223,6 +223,20 @@ In her free time, she likes to play video games, Dungeons & Dragons and eat good
 
 
 
+{% capture text %}
+Taylor completed her Biomedical Science BSc (Hons) at the University of Dundee in 2023, before immediately starting a PhD at the same university. Her PhD specialises in functional biology, centred on protein dynamics and ER-phagy. As part of her PhD, she will begin a short-term research placement in the Dierickx lab on 15 September 2026, investigating the relationship between cardiac organoids and circadian rhythms.
+
+Her interests include gaming, crochet and aerial sports.
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Taylor-McCarthy.jpg"
+  title="Taylor McCarthy  |  PhD Internship student"
+  text=text
+  flip=true
+%}
+
 {% include section.html %}
 
 # <i class="fas fa-users"></i>Alumni
