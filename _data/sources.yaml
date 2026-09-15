@@ -1,3 +1,25 @@
+- id: doi:10.1038/s42255-026-01580-2
+  title: Increasing cytosolic NADPH to mimic exercise
+  authors:
+  - Bryce J. Carpenter
+  - Pieterjan Dierickx
+  author:
+  - given: Bryce J.
+    family: Carpenter
+  - given: Pieterjan
+    family: Dierickx
+  publisher: Nature Metabolism
+  container-title: Nature Metabolism
+  date: '2026-09-08'
+  link: https://www.nature.com/articles/s42255-026-01580-2
+  URL: https://www.nature.com/articles/s42255-026-01580-2
+  image: /images/placeholder.svg
+  tags:
+  - Cardiac metabolism
+  - Exercise
+  - NADPH
+  - Hypertrophy
+
 - id: https://doi.org/10.1126/scitranslmed.aea9877
   title: Neurotensin receptor 2 agonism attenuates adverse cardiac remodeling in preclinical models
   author:
